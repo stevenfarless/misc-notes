@@ -16,4 +16,6 @@ Private notebook for misc notes, documents, and article backups.
     - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
   - **[Soteriology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Soteriology)**
     - [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md)
+  - **[Theology Proper/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Theology%20Proper)**
+    - [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md)
 <!-- TREE_END -->
