@@ -377,62 +377,84 @@ A third hinge is **genre control**. Calvinists lean on didactic epistles setting
 <details>
 <summary>Click to expand bibliography</summary>
 
-Barrett, Matthew. *The Grace of God Will Not Fail: A Companion to the Five Points of Calvinism*. Camp Hill, PA: Evangelical Press, 2014.
+## Calvinist
 
-Berkhof, Louis. *Systematic Theology*. 4th ed. Grand Rapids: Eerdmans, 1939.
+Beeke, Joel R., and Paul M. Smalley. *Reformed Systematic Theology*, vol. 2: *Man and Christ*. Wheaton, IL: Crossway, 2020. Comprehensive Reformed treatment of anthropology and Christology undergirding soteriology.
 
-Boettner, Loraine. *The Reformed Doctrine of Predestination*. Phillipsburg, NJ: Presbyterian and Reformed, 1932.
+Berkhof, Louis. *Systematic Theology*. 4th ed. Grand Rapids: Eerdmans, 1939. Standard Reformed systematic; treatment of election and perseverance remains a reference point.
 
-Buswell, J. Oliver, Jr. *A Systematic Theology of the Christian Religion*, vol. 2. Grand Rapids: Zondervan, 1963.
+Boettner, Loraine. *The Reformed Doctrine of Predestination*. Phillipsburg, NJ: Presbyterian and Reformed, 1932. Classic popular-level defense of double predestination and TULIP.
 
-Calvin, John. *Institutes of the Christian Religion*. Translated by Henry Beveridge. 3 vols. Grand Rapids: Eerdmans, 1957.
+Calvin, John. *Institutes of the Christian Religion*. Translated by Ford Lewis Battles. 2 vols. Philadelphia: Westminster Press, 1960. Primary source; books II–III on sin, grace, and election are foundational.
 
-Forster, Roger T., and V. Purser. *God's Strategy in Human History*. Wheaton, IL: Tyndale House, 1974.
+Grudem, Wayne. *Systematic Theology: An Introduction to Biblical Doctrine*. 2nd ed. Grand Rapids: Zondervan Academic, 2020. Accessible Reformed systematic covering all five points with exegetical support.
 
-George, Timothy. "The Arminian Confession of 1621." In *The Gospel Coalition Readers' Bible*, edited by Tim Keller and D. A. Carson. Wheaton, IL: Crossway, 2016.
+Horton, Michael. *The Christian Faith: A Systematic Theology for Pilgrims on the Way*. Grand Rapids: Zondervan, 2011. Thorough confessional Reformed systematic engaging contemporary alternatives.
 
-Gonzalez, Justo L. *The Story of Christianity*, vol. 2. San Francisco: Harper & Row, 1985.
+Murray, John. *Redemption Accomplished and Applied*. Grand Rapids: Eerdmans, 1955. Focused treatment of definite atonement and the order of salvation; widely cited in Reformed literature.
 
-Grudem, Wayne. *Systematic Theology: An Introduction to Biblical Doctrine*. 2nd ed. Grand Rapids: Zondervan Academic, 2020.
+Owen, John. *The Death of Death in the Death of Christ*. 1647. Reprint, Edinburgh: Banner of Truth, 1959. The classic exegetical defense of limited/definite atonement.
 
-Horton, Michael. *The Christian Faith: A Systematic Theology for Pilgrims on the Way*. Grand Rapids: Zondervan, 2011.
+Packer, J. I. Introduction to *The Death of Death in the Death of Christ*, by John Owen. Edinburgh: Banner of Truth, 1959. Widely read essay framing the debate on particular redemption.
 
-Hunt, Dave. "The 'Free Will' Delusion." In *Debating Calvinism: Five Points, Two Views*, by Dave Hunt and James White. Colorado Springs: Multnomah, 2004.
+Palmer, Edwin H. *The Five Points of Calvinism*. Grand Rapids: Baker, 1972. Concise TULIP exposition with Scripture index.
 
-Kendall, R. T. *Calvin and English Calvinism to 1649*. Oxford: Oxford University Press, 1979.
+Peterson, Robert A., and Michael D. Williams. *Why I Am Not an Arminian*. Downers Grove, IL: InterVarsity Press, 2004. Point-by-point critique of Arminian soteriology from a Reformed perspective.
 
-Letham, Robert. *The Work of Christ*. Downers Grove, IL: InterVarsity Press, 1993.
+Piper, John. *Five Points: Towards a Deeper Experience of God's Grace*. Rev. ed. Chicago: Moody, 2010. Pastoral defense of Calvinism; accessible entry point.
 
-Murray, John. *Redemption Accomplished and Applied*. Grand Rapids: Eerdmans, 1955.
+Schreiner, Thomas R., and Bruce A. Ware, eds. *Still Sovereign: Contemporary Perspectives on Election, Foreknowledge, and Grace*. Grand Rapids: Baker Academic, 2000. Essay collection responding to Arminian and open-theist challenges.
 
-Olson, Roger E. *Against Calvinism*. Grand Rapids: Zondervan, 2011.
+Sproul, R. C. *Chosen by God*. Carol Stream, IL: Tyndale House, 1986. Popular-level apologetic for unconditional election.
 
-Olson, Roger E. *Arminian Theology: Myths and Realities*. Downers Grove, IL: InterVarsity Press, 2006.
+Steele, David N., Curtis C. Thomas, and S. Lance Quinn. *The Five Points of Calvinism: Defined, Defended, Documented*. Updated ed. Phillipsburg, NJ: P&R Publishing, 2004. Reference compendium with Scripture citations for each point.
 
-Packer, J. I. "Regeneration." In *Evangelical Dictionary of Theology*, edited by Walter A. Elwell, 1004-6. 2nd ed. Grand Rapids: Baker, 2001.
+Turretin, Francis. *Institutes of Elenctic Theology*. Translated by George Musgrave Giger. 3 vols. Phillipsburg, NJ: P&R Publishing, 1992–97. Post-Reformation scholastic Reformed theology; detailed treatment of predestination and grace.
 
-Packer, J. I. "TULIP." In *Evangelical Affirmations*, edited by Kenneth S. Kantzer and Carl F. H. Henry, 244-64. Grand Rapids: Zondervan, 1990.
+White, James R. *The Potter's Freedom: A Defense of the Reformation and a Refutation of Norman Geisler's Chosen but Free*. Amityville, NY: Calvary Chapel, 2000. Polemical defense of Calvinist soteriology against moderate Calvinist revision.
 
-Palmer, Edwin H. *The Five Points of Calvinism*. Grand Rapids: Baker, 1972.
+---
 
-Picirilli, Robert. *Grace, Faith, Free Will: Contrasting Views of Salvation: Calvinism and Arminianism*. Nashville: Randall House, 2002.
+## Arminian
 
-Piper, John. "Are You a Calvinist, or an Arminian?" Desiring God, June 23, 2019. https://www.desiringgod.org/interviews/the-heart-of-the-calvinist-arminian-divide.
+Arminius, James. *The Works of James Arminius*. Translated by James Nichols and W. R. Bagnall. 3 vols. London, 1825–75. Reprint, Grand Rapids: Baker, 1986. Primary source; the Declaration of Sentiments and the Public Disputations are the essential texts.
 
-Piper, John. *Five Points: Towards a Deeper Experience of God's Grace*. Rev. ed. Chicago: Moody, 2010.
+Clarke, Adam. *Christian Theology*. Edited by Samuel Dunn. London: Thomas Tegg, 1835. Wesleyan-Arminian systematic; useful for tracing the tradition's development.
 
-Reymond, Robert L. *A New Systematic Theology of the Christian Faith*. 2nd ed. Nashville: Thomas Nelson, 2001.
+Forster, Roger T., and V. Paul Marston. *God's Strategy in Human History*. Wheaton, IL: Tyndale House, 1974. Exegetical Arminian response to Calvinist readings of key texts.
 
-Ryrie, Charles C. *The Grace of God*. Chicago: Moody, 1989.
+Marshall, I. Howard. *Kept by the Power of God: A Study of Perseverance and Falling Away*. Minneapolis: Bethany Fellowship, 1969. Detailed exegetical treatment of apostasy texts; standard Arminian reference on conditional security.
 
-Sproul, R. C. *Chosen by God*. Carol Stream, IL: Tyndale House, 1986.
+Olson, Roger E. *Against Calvinism*. Grand Rapids: Zondervan, 2011. Theological and moral critique of Reformed soteriology from an Arminian perspective.
 
-Steele, David N., Curtis C. Thomas, and S. Lance Quinn. *The Five Points of Calvinism: Defined, Defended, Documented*. Updated ed. Phillipsburg, NJ: P&R Publishing, 2004.
+Olson, Roger E. *Arminian Theology: Myths and Realities*. Downers Grove, IL: InterVarsity Press, 2006. Corrects common misrepresentations; essential for understanding classical Arminianism accurately.
 
-White, James R. *The Potter's Freedom: A Defense of the Reformation and a Refutation of Norman Geisler's Chosen but Free*. Amityville, NY: Calvary Chapel, 2000.
+Oden, Thomas C. *The Transforming Power of Grace*. Nashville: Abingdon Press, 1993. Methodological and theological defense of prevenient grace drawing on the patristic tradition.
+
+Picirilli, Robert. *Grace, Faith, Free Will: Contrasting Views of Salvation: Calvinism and Arminianism*. Nashville: Randall House, 2002. Systematic Arminian treatment comparing Calvinist and Arminian positions point by point; Reformed Arminian perspective.
+
+Pinnock, Clark H., ed. *Grace Unlimited*. Minneapolis: Bethany Fellowship, 1975. Essay collection defending unlimited atonement and resistible grace from multiple contributors.
+
+Seaman, John S. *An Arminian Response to John Piper's What Jesus Demands from the World*. N.p.: self-published, 2013. Targeted Arminian engagement with a prominent Calvinist work.
+
+Wesley, John. *Sermons on Several Occasions*. 4 vols. London, 1746–60. Primary source; sermons on free grace and prevenient grace define the Wesleyan-Arminian framework.
+
+Wiley, H. Orton. *Christian Theology*. 3 vols. Kansas City, MO: Beacon Hill Press, 1940–43. Comprehensive Wesleyan-Arminian systematic theology.
 
 "An Outline of the FACTS of Arminianism vs. The TULIP of Calvinism." Society of Evangelical Arminians, June 27, 2013. https://evangelicalarminians.org/an-outline-of-the-facts-of-arminianism-vs-the-tulip-of-calvinism/.
 
-"Calvinism vs. Arminianism." GotQuestions.org, n.d. https://www.gotquestions.org/Calvinism-vs-Arminianism.html.
+---
+
+## Four Views / Multi-Perspective
+
+Hunt, Dave, and James R. White. *Debating Calvinism: Five Points, Two Views*. Colorado Springs: Multnomah, 2004. Point-counterpoint format; White defends Calvinism, Hunt defends a non-Calvinist position.
+
+Pinson, J. Matthew, ed. *Four Views on Eternal Security*. Grand Rapids: Zondervan, 2002. Contributors: Michael Horton (classical Calvinist), Norman Geisler (moderate Calvinist), Stephen Ashby (Reformed Arminian), J. Steven Harper (Wesleyan Arminian).
+
+Schreiner, Thomas R., and Bruce A. Ware, eds. *The Grace of God, the Bondage of the Will*. 2 vols. Grand Rapids: Baker Academic, 1995. Multi-author Calvinist response to Arminian readings of key texts; covers election, atonement, and grace.
+
+Storms, Sam, and Bruce A. Ware, eds. *Perspectives on Election: Five Views*. Nashville: B&H Academic, 2006. Contributors represent Calvinist, Arminian, corporate election, open theist, and universalist positions.
+
+Walls, Jerry L., and Joseph R. Dongell. *Why I Am Not a Calvinist*. Downers Grove, IL: InterVarsity Press, 2004. Companion volume to *Why I Am Not an Arminian*; philosophical and exegetical Arminian case.
 
 </details>
