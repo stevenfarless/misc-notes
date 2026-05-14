@@ -11,6 +11,8 @@ Private notebook for theological and political research notes, commentaries, and
     │   └── [Female Pastors](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Female Pastors.md)
     ├── [Hell/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Hell)
     │   └── [ECT vs CI](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/ECT vs CI.md)
+    ├── [Pneumatology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Pneumatology)
+    │   └── [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism vs Continuationism.md)
     ├── [pneumatology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/pneumatology)
     │   └── [Cessationism vs. Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/Cessationism vs. Continuationism.md)
     └── [Soteriology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Soteriology)
