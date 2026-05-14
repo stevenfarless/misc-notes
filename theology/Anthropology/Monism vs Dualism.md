@@ -1,9 +1,9 @@
 ---
-title: Monism vs. Dualism -- Biblical Anthropology
+title: Monism vs. Dualism - Biblical Anthropology
 tags: [anthropology, theology, monism, dualism, physicalism, intermediate-state, soul, eschatology]
 ---
 
-# Monism vs. Dualism -- Biblical Anthropology
+# Monism vs. Dualism - Biblical Anthropology
 
 ## An Exploration of Two Perspectives
 
@@ -98,7 +98,7 @@ A further assumption is that **personal identity through death requires ontologi
 
 ## Argument 1: Hebrew Anthropology Is Holistic, Not Partitive
 
-The primary Hebrew anthropological terms do not carve the person into separable substances. *Nephesh* (over 755 occurrences in the Hebrew Bible) refers to a living being, a person, a throat, a desire, a life -- never to an immaterial substance separable from the body. When God forms the man from dust and breathes into his nostrils, the man *becomes* a *nephesh hayyah* (Genesis 2:7) -- a living creature -- rather than receiving a soul as a separate component. *Ruach* (breath, wind, spirit) and *neshamah* (breath of life) describe animating energy given by God rather than a distinct ontological substance. This pattern is consistent throughout the Hebrew canon, and the absence of a developed intermediate state doctrine in most of the Old Testament fits the pattern: if persons are psychosomatic wholes, death is the cessation of the whole, and hope is in resurrection rather than soul survival.
+The primary Hebrew anthropological terms do not carve the person into separable substances. *Nephesh* (over 755 occurrences in the Hebrew Bible) refers to a living being, a person, a throat, a desire, a life, never to an immaterial substance separable from the body. When God forms the man from dust and breathes into his nostrils, the man *becomes* a *nephesh hayyah* (Genesis 2:7), a living creature, rather than receiving a soul as a separate component. *Ruach* (breath, wind, spirit) and *neshamah* (breath of life) describe animating energy given by God rather than a distinct ontological substance. This pattern is consistent throughout the Hebrew canon, and the absence of a developed intermediate state doctrine in most of the Old Testament fits the pattern: if persons are psychosomatic wholes, death is the cessation of the whole, and hope is in resurrection rather than soul survival.
 
 > **P1:** Hebrew anthropological terms (*nephesh*, *ruach*, *neshamah*) describe functional aspects of the animated person rather than separable immaterial substances.
 >
@@ -110,7 +110,7 @@ The primary Hebrew anthropological terms do not carve the person into separable 
 
 ## Argument 2: The Body Matters Ontologically, Not Just Functionally
 
-If the biblical view were substance dualism, the physical body would be an instrument or vehicle for the soul, not constitutive of the person. But the New Testament treats the body as integral to personal identity in ways that resist that reading. Paul calls the body the temple of the Holy Spirit (1 Corinthians 6:19-20) and argues that what happens to the body matters morally and spiritually. The resurrection is of the *same* body -- transformed, but in genuine continuity with the earthly body (1 Corinthians 15:42-44; Romans 8:11). If the soul were the real person and the body merely its vehicle, the resurrection body's continuity with the earthly body would be theologically incidental. Its significance in the New Testament points to the body as constitutive of the person rather than separable from it.
+If the biblical view were substance dualism, the physical body would be an instrument or vehicle for the soul, not constitutive of the person. But the New Testament treats the body as integral to personal identity in ways that resist that reading. Paul calls the body the temple of the Holy Spirit (1 Corinthians 6:19-20) and argues that what happens to the body matters morally and spiritually. The resurrection is of the *same* body, transformed, but in genuine continuity with the earthly body (1 Corinthians 15:42-44; Romans 8:11). If the soul were the real person and the body merely its vehicle, the resurrection body's continuity with the earthly body would be theologically incidental. Its significance in the New Testament points to the body as constitutive of the person rather than separable from it.
 
 > **P1:** 1 Corinthians 6:19-20 treats the body as the temple of the Spirit and the site of moral accountability, not as an expendable vehicle.
 >
@@ -122,7 +122,7 @@ If the biblical view were substance dualism, the physical body would be an instr
 
 ## Argument 3: Resurrection as the Exclusive Hope Implies Whole-Person Death
 
-Across both Testaments, the primary answer to death is resurrection, not immortality of the soul. Martha's confession in John 11:24 is "I know that he will rise again in the resurrection on the last day" -- the natural Jewish expectation. Paul's argument in 1 Corinthians 15 treats the resurrection of Christ as the firstfruits of the general resurrection; if there were already a robust soul-immortality that guaranteed personal continuity through death, the theological weight Paul places on the resurrection would be difficult to explain. The Epicureans and other Greeks already had accounts of soul survival; what distinguished Christian proclamation was bodily resurrection. That distinction makes more sense if death is a whole-person event requiring a whole-person reversal.
+Across both Testaments, the primary answer to death is resurrection, not immortality of the soul. Martha's confession in John 11:24 is "I know that he will rise again in the resurrection on the last day", the natural Jewish expectation. Paul's argument in 1 Corinthians 15 treats the resurrection of Christ as the firstfruits of the general resurrection; if there were already a robust soul-immortality that guaranteed personal continuity through death, the theological weight Paul places on the resurrection would be difficult to explain. The Epicureans and other Greeks already had accounts of soul survival; what distinguished Christian proclamation was bodily resurrection. That distinction makes more sense if death is a whole-person event requiring a whole-person reversal.
 
 > **P1:** Martha's expectation (John 11:24) and the general Jewish eschatological framework ground hope in resurrection rather than soul survival.
 >
@@ -146,7 +146,7 @@ Every mental state, including memory, personality, emotion, and consciousness, h
 
 ---
 
-## Position A -- Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Substance Dualism Is a Greek Import, Not a Biblical Doctrine
 
@@ -186,7 +186,7 @@ Substance dualism tends to privilege the immaterial soul as the real person and 
 
 ---
 
-## Position A -- Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: The Personal Identity Problem Revisited
 
@@ -260,7 +260,7 @@ Jesus in Matthew 10:28 explicitly distinguishes between those who kill the body 
 
 > **P1:** Jesus distinguishes between the body (*soma*) and the soul (*psyche*) as components that human agents and God can affect differently.
 >
-> **P2:** Human agents can kill the body but not the soul; God can destroy both -- a distinction that requires the soul to be capable of existing apart from the body.
+> **P2:** Human agents can kill the body but not the soul; God can destroy both, a distinction that requires the soul to be capable of existing apart from the body.
 >
 > **P3:** The passage is not about soteriological security alone; it makes an implicit ontological claim about what human killing can and cannot reach.
 >
@@ -268,7 +268,7 @@ Jesus in Matthew 10:28 explicitly distinguishes between those who kill the body 
 
 ## Argument 4: Personal Identity Through Death Requires Ontological Continuity
 
-Resurrection as the New Testament presents it is not the creation of a new person but the raising of the same person. Paul refers to the resurrection body as the same body that is sown and raised (1 Corinthians 15:42-44) -- the continuity language is intentional. For the raised person to be numerically identical to the pre-death person, there must be some thread of continuity through the death event. Divine re-creation of a person who shares memories and characteristics is not resurrection of the same person; it is creation of a replica. A surviving immaterial soul provides the metaphysical thread of numerical identity that makes resurrection, rather than new creation, the right description of what occurs.
+Resurrection as the New Testament presents it is not the creation of a new person but the raising of the same person. Paul refers to the resurrection body as the same body that is sown and raised (1 Corinthians 15:42-44), the continuity language is intentional. For the raised person to be numerically identical to the pre-death person, there must be some thread of continuity through the death event. Divine re-creation of a person who shares memories and characteristics is not resurrection of the same person; it is creation of a replica. A surviving immaterial soul provides the metaphysical thread of numerical identity that makes resurrection, rather than new creation, the right description of what occurs.
 
 > **P1:** The New Testament presents resurrection as the raising of the same person, not the creation of a new person with identical characteristics.
 >
@@ -280,7 +280,7 @@ Resurrection as the New Testament presents it is not the creation of a new perso
 
 ---
 
-## Position B -- Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Monism Cannot Preserve Conscious Intermediate Existence
 
@@ -320,7 +320,7 @@ Monists argue that God's omniscience is a sufficient basis for resurrecting the 
 
 ---
 
-## Position B -- Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: The Greek Import Charge Revisited
 
@@ -417,7 +417,7 @@ Swinburne, Richard. *The Evolution of the Soul*. Rev. ed. Oxford: Clarendon Pres
 
 Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Minneapolis: Fortress, 2003.
 
-Wright, N. T. "Mind, Spirit, Soul, and Body: All for One and One for All -- Reflections on Paul's Anthropology in His Complex Contexts." Society of Christian Philosophers, Fordham University, March 2011. https://ntwrightpage.com/2016/07/12/mind-spirit-soul-and-body/.
+Wright, N. T. "Mind, Spirit, Soul, and Body: All for One and One for All, Reflections on Paul's Anthropology in His Complex Contexts." Society of Christian Philosophers, Fordham University, March 2011. https://ntwrightpage.com/2016/07/12/mind-spirit-soul-and-body/.
 
 Wolff, Hans Walter. *Anthropology of the Old Testament*. Translated by Margaret Kohl. Philadelphia: Fortress, 1974.
 
