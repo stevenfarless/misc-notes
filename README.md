@@ -11,6 +11,7 @@ Private notebook for misc notes, documents, and article backups.
   - **[Bibliology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Bibliology)**
     - [Plenary Inerrancy vs Limited Inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/Bibliology/Plenary%20Inerrancy%20vs%20Limited%20Inerrancy.md)
   - **[Ecclesiology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Ecclesiology)**
+    - [Egalitarianism vs Complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Egalitarianism%20vs%20Complementarianism.md)
     - [Female Pastors](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Female%20Pastors.md)
   - **[Hell/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Hell)**
     - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
