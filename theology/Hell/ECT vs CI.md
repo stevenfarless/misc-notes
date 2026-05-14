@@ -23,8 +23,8 @@ tags: [soteriology, theology, hell, conditional-immortality, annihilationism, et
   - [Arguments](#argument-1-matthew-2546-parallelism)
   - [Critiques of Conditionalism](#position-b--critique-of-position-a)
   - [Rebuttals](#position-b--rebuttal)
-- [The Three Actual Hinges](#the-three-actual-hinges)
 - [Part Two: Full Debate](#part-two-full-debate)
+- [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
 ---
@@ -414,16 +414,6 @@ Traditionalists close by saying that biblical death-language can be broader than
 > **P3:** ECT can therefore retain death-language without conceding annihilation.
 >
 > **C:** Traditionalism can keep the language of death while still affirming ongoing punishment.
-
----
-
-# The Three Actual Hinges
-
-The real issue is not whether either side believes in judgment, resurrection, or the seriousness of sin. The real issue is **hermeneutical priority**: conditionalists treat the life-versus-death pattern and second death language as interpretive anchors, while traditionalists treat Matthew 25:46, Revelation 14:9-11, Revelation 20:10-15, Mark 9:43-48, and 2 Thessalonians 1:9 as the governing texts.
-
-A second hinge is **semantic method**. Conditionalists argue that ECT over-repairs death-language, while traditionalists argue that conditionalism under-reads torment-language and makes destruction do too much work.
-
-A third hinge is **genre control**. Conditionalists lean on Old Testament background and Revelation's own glosses, while traditionalists insist that symbolic language still communicates conscious torment when the wording is direct enough.
 
 ---
 
