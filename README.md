@@ -6,6 +6,8 @@ Private notebook for theological and political research notes, commentaries, and
 
 <!-- TREE_START -->
 - **[theology/](https://github.com/stevenfarless/misc-notes/tree/main/theology)**
+  - **[Anthropology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Anthropology)**
+    - [Monism vs Dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Anthropology/Monism%20vs%20Dualism.md)
   - **[Ecclesiology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Ecclesiology)**
     - [Female Pastors](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Female%20Pastors.md)
   - **[Hell/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Hell)**
