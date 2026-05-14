@@ -11,7 +11,6 @@ Private notebook for misc notes, documents, and article backups.
   - **[Ecclesiology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Ecclesiology)**
     - [Female Pastors](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Female%20Pastors.md)
   - **[Hell/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Hell)**
-    - [ECT vs CI](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/ECT%20vs%20CI.md)
     - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
   - **[Pneumatology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Pneumatology)**
     - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
