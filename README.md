@@ -18,6 +18,8 @@ Private notebook for misc notes, documents, and article backups.
       - [Egalitarianism vs Complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Egalitarianism%20vs%20Complementarianism.md)
   - **Hell/**
       - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
+  - **Hermeneutics/**
+      - [Dispensationalism vs. Covenant Theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hermeneutics/Dispensationalism%20vs.%20Covenant%20Theology.md)
   - **Pneumatology/**
       - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
   - **Soteriology/**
