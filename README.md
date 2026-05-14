@@ -13,6 +13,7 @@ Private notebook for misc notes, documents, and article backups.
   - **[Hell/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Hell)**
     - [ECT vs CI](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/ECT%20vs%20CI.md)
     - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation)
+    - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
   - **[Pneumatology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Pneumatology)**
     - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
   - **[Soteriology/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Soteriology)**
