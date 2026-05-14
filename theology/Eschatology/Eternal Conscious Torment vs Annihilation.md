@@ -746,9 +746,33 @@ A third hinge is **genre control**. Conditionalists lean on Old Testament backgr
 <details>
 <summary>Click to expand bibliography</summary>
 
-"Annihilationism." Monergism. October 30, 2024. https://www.monergism.com/annihilationism.
+## Eternal Conscious Torment
+
+Aquinas, Thomas. *Summa Theologica*. Supplement, QQ. 97–99. Translated by Fathers of the English Dominican Province. New York: Benziger Brothers, 1948.
+
+Augustine. *The City of God*. Book XXI. Translated by Henry Bettenson. London: Penguin, 1984.
+
+Blanchard, John. *Whatever Happened to Hell?* Wheaton: Crossway, 1995.
 
 Burk, Denny. "Hell as Endless Punishment." The Gospel Coalition. July 10, 2024. https://www.thegospelcoalition.org/essay/hell-as-endless-punishment/.
+
+Chan, Francis, and Preston Sprinkle. *Erasing Hell: What God Said About Eternity, and the Things We've Made Up*. Colorado Springs: David C. Cook, 2011.
+
+Donnelly, Edward. *Biblical Teaching on the Doctrines of Heaven and Hell*. Edinburgh: Banner of Truth, 2001.
+
+Morgan, Christopher W., and Robert A. Peterson, eds. *Hell Under Fire: Modern Scholarship Reinvents Eternal Punishment*. Grand Rapids: Zondervan, 2004.
+
+Pawson, J. David. *Road to Hell*. London: Hodder & Stoughton, 1992.
+
+Peterson, Robert A. *Hell on Trial: The Case for Eternal Punishment*. Phillipsburg, NJ: P&R Publishing, 1995.
+
+Peterson, Robert A. "Fallacies in the Annihilationism Debate? A Response to Glenn Peoples." *Journal of the Evangelical Theological Society* 50, no. 2 (2007): 349–55.
+
+---
+
+## Conditional Immortality / Annihilationism
+
+"Annihilationism." Monergism. October 30, 2024. https://www.monergism.com/annihilationism.
 
 "Conditional Immortality (CI)." Monergism. October 24, 2024. https://www.monergism.com/conditional-immortality-ci.
 
@@ -756,7 +780,7 @@ Burk, Denny. "Hell as Endless Punishment." The Gospel Coalition. July 10, 2024. 
 
 Date, Christopher M. "Falling 'Into' Error: Grasping at Straws in Matthew 25:46." Rethinking Hell. July 5, 2020. https://rethinkinghell.com/2020/07/06/falling-into-error-grasping-at-straws-in-matthew-2546/.
 
-Date, Christopher M. "The Hermeneutics of Conditionalism: A Defense of the Interpretive Method of Edward Fudge." Evangelical Quarterly 89, no. 1 (2018): 72-89.
+Date, Christopher M. "The Hermeneutics of Conditionalism: A Defense of the Interpretive Method of Edward Fudge." *Evangelical Quarterly* 89, no. 1 (2018): 72–89.
 
 Dear, Joseph. "Matthew 25:46 Does Not Prove Eternal Torment: Part 1." Rethinking Hell. January 14, 2014. https://rethinkinghell.com/2014/01/15/matthew-2546-does-not-prove-eternal-torment-part-1/.
 
@@ -768,12 +792,16 @@ Fudge, Edward W. *The Fire That Consumes: A Biblical and Historical Study of the
 
 Grice, Peter. "What Does 'Conditional Immortality' Mean?" Rethinking Hell. December 31, 2015. https://rethinkinghell.com/2016/01/01/conditional-immortality-meaning-best-label/.
 
-Peoples, Glenn. "Fallacies in the Annihilationism Debate." Journal of the Evangelical Theological Society 50, no. 2 (2007): 329-47.
-
-Peterson, Robert A. *Hell on Trial: The Case for Eternal Punishment*. Phillipsburg, NJ: P&R Publishing, 1995.
-
-Peterson, Robert A. "Fallacies in the Annihilationism Debate? A Response to Glenn Peoples." Journal of the Evangelical Theological Society 50, no. 2 (2007): 349-55.
+Peoples, Glenn. "Fallacies in the Annihilationism Debate." *Journal of the Evangelical Theological Society* 50, no. 2 (2007): 329–47.
 
 "Statement on Evangelical Conditionalism." Rethinking Hell. April 3, 2019. https://rethinkinghell.com/statement/.
+
+---
+
+## Four Views / Multi-Perspective
+
+Crockett, William, ed. *Four Views on Hell*. Grand Rapids: Zondervan, 1992. Contributors: John F. Walvoord (literal), William Crockett (metaphorical), Zachary Hayes (purgatorial), Clark Pinnock (conditional).
+
+Sprinkle, Preston, ed. *Four Views on Hell*. 2nd ed. Grand Rapids: Zondervan, 2016. Contributors: Denny Burk (eternal conscious torment), John Stackhouse (annihilationism), Robin Parry (universalism), Jerry Walls (purgatory).
 
 </details>
