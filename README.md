@@ -16,6 +16,8 @@ Private notebook for misc notes, documents, and article backups.
       - [Was the Reformation Necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/Church%20History/Was%20the%20Reformation%20Necessary.md)
   - **Ecclesiology/**
       - [Egalitarianism vs Complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Egalitarianism%20vs%20Complementarianism.md)
+  - **Eschatology/**
+      - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Eschatology/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
   - **Hell/**
       - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hell/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
   - **Hermeneutics/**
