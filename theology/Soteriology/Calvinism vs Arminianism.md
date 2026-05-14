@@ -1,12 +1,36 @@
+---
+title: Calvinism vs. Arminianism
+tags: [soteriology, theology, calvinism, arminianism, TULIP, election, grace]
+---
+
 # Calvinism vs. Arminianism
 
 ## An Exploration of Two Perspectives
 
-***
+---
 
-# PART ONE: DEBATE OUTLINE
+## Table of Contents
 
-***
+- [Part One: Debate Outline](#part-one-debate-outline)
+  - [Domain & Evidence](#domain--evidence)
+  - [Key Definitions](#key-definitions)
+  - [Foundational Assumptions](#foundational-assumptions)
+- [Position A: Calvinism](#position-a-calvinism-strongest-case)
+  - [Arguments](#argument-1-sovereignty-in-election)
+  - [Critiques of Arminianism](#position-a--critique-of-position-b)
+  - [Rebuttals to Arminianism](#position-a--rebuttals-to-position-b)
+- [Position B: Arminianism](#position-b-arminianism-strongest-case)
+  - [Arguments](#argument-1-universal-gospel-offer)
+  - [Critiques of Calvinism](#position-b--critique-of-position-a)
+  - [Rebuttals to Calvinism](#position-b--rebuttal)
+- [The Three Actual Hinges](#the-three-actual-hinges)
+- [Selected Bibliography](#selected-bibliography)
+
+---
+
+# Part One: Debate Outline
+
+---
 
 ## Domain & Evidence
 
@@ -22,244 +46,336 @@ Historical theology enters the picture as well, offering insight through the way
 
 The points of genuine contention remain quite focused. Calvinists and Arminians part ways over which passages should serve as the controlling anchors, those emphasizing unconditioned divine sovereignty or those highlighting sincere human responsibility; over the precise sense of terms like "foreknew," whether they signal a preemptive decree or divinely anticipated faith; over the cumulative weight of ordinary language about free gospel offers when weighed against more pointed declarations of election; and over whether the Spirit's grace operates with irresistible efficacy or through a resistible yet universally enabling power.
 
+---
+
 ## Key Definitions
 
 ### Depravity
-Calvinism holds that total depravity encompasses the human will itself, rendering sinners not only unwilling but incapable of turning to God apart from a prior regenerating work of the Spirit that precedes and enables faith.
 
-Arminianism agrees that depravity corrupts every faculty thoroughly but maintains that the atonement's universal scope restores sufficient moral ability through prevenient grace, allowing a genuine free response to the gospel call.
+**Calvinism** holds that total depravity encompasses the human will itself, rendering sinners not only unwilling but incapable of turning to God apart from a prior regenerating work of the Spirit that precedes and enables faith.
+
+**Arminianism** agrees that depravity corrupts every faculty thoroughly but maintains that the atonement's universal scope restores sufficient moral ability through prevenient grace, allowing a genuine free response to the gospel call.
 
 ### Election
-Calvinism teaches unconditional election, where God's choice of individuals for salvation arises solely from his eternal, sovereign decree without any reference to foreseen actions or merits.
 
-Arminianism teaches conditional election, where God sovereignly elects those whom he foresees will respond in faith to his grace, preserving both divine initiative and creaturely responsibility.
+**Calvinism** teaches unconditional election, where God's choice of individuals for salvation arises solely from his eternal, sovereign decree without any reference to foreseen actions or merits.
+
+**Arminianism** teaches conditional election, where God sovereignly elects those whom he foresees will respond in faith to his grace, preserving both divine initiative and creaturely responsibility.
 
 ### Atonement
-Calvinism affirms limited atonement, meaning Christ's death was not merely sufficient but efficaciously intended to save the elect specifically, accomplishing their redemption in full.
 
-Arminianism affirms unlimited atonement, where Christ's sacrifice provides full provision for the sins of every person, though its saving application becomes effective only for those who believe.
+**Calvinism** affirms limited atonement, meaning Christ's death was not merely sufficient but efficaciously intended to save the elect specifically, accomplishing their redemption in full.
+
+**Arminianism** affirms unlimited atonement, where Christ's sacrifice provides full provision for the sins of every person, though its saving application becomes effective only for those who believe.
 
 ### Grace
-Calvinism teaches irresistible grace, where the Spirit's effectual calling infallibly draws the elect to faith, overcoming all resistance through the new birth.
 
-Arminianism teaches resistible grace, where the Spirit's work through prevenient grace enables all sinners to respond freely, though they retain the ability to reject it.
+**Calvinism** teaches irresistible grace, where the Spirit's effectual calling infallibly draws the elect to faith, overcoming all resistance through the new birth.
+
+**Arminianism** teaches resistible grace, where the Spirit's work through prevenient grace enables all sinners to respond freely, though they retain the ability to reject it.
 
 ### Security
-Calvinism teaches the perseverance of the saints, where God sovereignly preserves every true believer to the end, ensuring their faith endures.
 
-Arminianism teaches conditional security, where believers must persevere in faith to the end, with the possibility of genuine apostasy if faith is abandoned.
+**Calvinism** teaches the perseverance of the saints, where God sovereignly preserves every true believer to the end, ensuring their faith endures.
+
+**Arminianism** teaches conditional security, where believers must persevere in faith to the end, with the possibility of genuine apostasy if faith is abandoned.
+
+---
 
 ## Foundational Assumptions
 
 ### Position A assumes
-Calvinists start from the straightforward, prima facie force of Scripture's sovereignty language, terms like "elect," "predestined," and "appointed", interpreting them in their natural sense unless the grammatical structure or immediate context compels a shift toward conditionality. They treat corporate election language as flowing from the ultimate reality of God's individual, decree-based choice, much as the Old Testament precedents in Romans 9 shape their lens. A key working assumption is that any interpretive approach that repeatedly dilutes the plain implications of sovereignty across a broad swath of passages bears a substantial burden to justify those adjustments.
+
+Calvinists start from the straightforward, prima facie force of Scripture's sovereignty language, terms like **"elect," "predestined,"** and **"appointed"**, interpreting them in their natural sense unless the grammatical structure or immediate context compels a shift toward conditionality. They treat corporate election language as flowing from the ultimate reality of God's individual, decree-based choice, much as the Old Testament precedents in Romans 9 shape their lens. A key working assumption is that any interpretive approach that repeatedly dilutes the plain implications of sovereignty across a broad swath of passages bears a substantial burden to justify those adjustments.
 
 ### Position B assumes
-Arminians anchor their reading in the explicit, straightforward texts about universal gospel provision and human responsibility, "whosoever believes," "God desires all to be saved", allowing these to govern more technically worded sovereignty claims. They view the parallelism in passages like John 3:16 with election verses as carrying equivalent salvific scope, insisting that language of sincere invitation demands a meaningful human capacity to respond. Central to this is the conviction that punishment, or in this case, rejection, implies an enduring subject capable of ongoing accountability, and that responsibility language necessitates a grace that empowers without coercing.
 
-***
+Arminians anchor their reading in the explicit, straightforward texts about universal gospel provision and human responsibility, **"whosoever believes," "God desires all to be saved"**, allowing these to govern more technically worded sovereignty claims. They view the parallelism in passages like John 3:16 with election verses as carrying equivalent salvific scope, insisting that language of sincere invitation demands a meaningful human capacity to respond. Central to this is the conviction that responsibility language necessitates a grace that empowers without coercing.
 
-# POSITION A: CALVINISM: STRONGEST CASE
+---
 
-***
+# Position A: Calvinism: Strongest Case
+
+---
 
 ## Argument 1: Sovereignty in Election
 
-Calvinism builds its foundation on the reality of God's eternal, unconditioned decree in election, a truth vividly portrayed in Ephesians 1:4-5 where believers are chosen "before the foundation of the world" and predestined according to the good pleasure of God's will, entirely apart from any human action or foreseen merit. Romans 9:11-16 reinforces this by stressing that election depends "not on human will or exertion, but on God who has mercy," framing salvation as a purely divine initiative that excludes all boasting. This establishes salvation as thoroughly monergistic, where God's sovereign purpose alone determines who believes, contrasting sharply with any notion of human contribution.
+Calvinism builds its foundation on the reality of God's eternal, unconditioned decree in election, a truth vividly portrayed in Ephesians 1:4-5 where believers are chosen "before the foundation of the world" and predestined according to the good pleasure of God's will, entirely apart from any human action or foreseen merit. Romans 9:11-16 reinforces this by stressing that election depends "not on human will or exertion, but on God who has mercy," framing salvation as a purely divine initiative that excludes all boasting. This establishes salvation as thoroughly **monergistic**, where God's sovereign purpose alone determines who believes, contrasting sharply with any notion of human contribution.
 
-P1: Election explicitly precedes and excludes human action or foresight, rooted solely in divine purpose (Rom 9:11-16; Eph 1:4-5).
-P2: If God's decree governs from eternity, no subsequent foreseen faith can serve as its condition without reversing the order.
-P3: The New Testament consistently frames the final categories as the elect destined for glory versus those passed over in mercy's withholding.
-C: God elects individuals unconditionally according to his sovereign good pleasure.
+> **P1:** Election explicitly precedes and excludes human action or foresight, rooted solely in divine purpose (Rom 9:11-16; Eph 1:4-5).
+>
+> **P2:** If God's decree governs from eternity, no subsequent foreseen faith can serve as its condition without reversing the order.
+>
+> **P3:** The New Testament consistently frames the final categories as the elect destined for glory versus those passed over in mercy's withholding.
+>
+> **C:** God elects individuals unconditionally according to his sovereign good pleasure.
 
 ## Argument 2: Cumulative Sovereignty Language
 
 Beyond isolated prooftexts, Calvinism draws strength from the Bible's repeated emphasis on divine determination, where terms like "chosen," "predestined," "appointed," and "called according to purpose" accumulate across key soteriological passages (Acts 13:48; 2 Tim 1:9; Rom 8:28-30). While any single word might admit nuance, this consistent lexical cluster across contexts, from Paul's epistles to the Gospels, creates a powerful presumption that salvation originates and culminates in God's initiative alone, leaving no room for human autonomy at the decisive point.
 
-P1: Sovereignty terms such as “predestine,” “elect,” “appoint,” and “draw” form a dense cluster throughout judgment and salvation texts.
-P2: In their ordinary biblical usage, these terms emphasize divine initiative overriding human disposition.
-P3: The sheer accumulation of such language raises a formidable presumption against conditional interpretations.
-C: The most textually straightforward reading points to an effectual, sovereign salvation decree.
+> **P1:** Sovereignty terms such as "predestine," "elect," "appoint," and "draw" form a dense cluster throughout salvation texts.
+>
+> **P2:** In their ordinary biblical usage, these terms emphasize divine initiative overriding human disposition.
+>
+> **P3:** The sheer accumulation of such language raises a formidable presumption against conditional interpretations.
+>
+> **C:** The most textually straightforward reading points to an effectual, sovereign salvation decree.
 
 ## Argument 3: Atonement Intent
 
 Christ's sacrificial death demonstrates particular intent, as he lays down his life specifically "for the sheep" (John 10:11,15), securing their redemption in full and mirroring the particularity of his high priestly prayer in John 17:9 where he intercedes not for the world but for those given him. While the atonement's value proves infinite in sufficiency, its efficacy targets the elect, ensuring that God's saving purpose achieves perfect accomplishment without waste or mere possibility.
 
-P1: Christ's priestly work, including intercession, focuses distinctly on those the Father gives (John 17:9).
-P2: The efficacy of his death aligns precisely with the scope of his prayer, demanding particular redemption.
-P3: Universal provision language integrates seamlessly when subordinated to the electing decree.
-C: Limited atonement infallibly accomplishes salvation for the elect alone.
+> **P1:** Christ's priestly work, including intercession, focuses distinctly on those the Father gives (John 17:9).
+>
+> **P2:** The efficacy of his death aligns precisely with the scope of his prayer, demanding particular redemption.
+>
+> **P3:** Universal provision language integrates seamlessly when subordinated to the electing decree.
+>
+> **C:** Limited atonement infallibly accomplishes salvation for the elect alone.
 
-## Argument 4: Effectual Calling Genre
+## Argument 4: Effectual Calling
 
 In passages depicting the Spirit's work, such as John 6:44 where "no one can come unless the Father draws him," Calvinism finds irresistible efficacy baked into the language itself, with Old Testament precedents like Ezekiel 36:26-27 illustrating how God sovereignly replaces the heart of stone with one of flesh before obedience follows. Literary genre reinforces this: sovereignty declarations in didactic epistles and Gospel discourses set the controlling frame for interpreting calls to response.
 
-P1: Texts employ symbolic and direct language saturated with Old Testament regeneration imagery.
-P2: Precedents like heart-renewal (Ezek 36) show divine action precedes and guarantees response.
-P3: Human responsibility language subordinates to decree-explicit passages.
-C: Grace operates irresistibly to actualize God's electing purpose.
+> **P1:** Texts employ language saturated with Old Testament regeneration imagery (Ezek 36:26-27).
+>
+> **P2:** Precedents show divine action precedes and guarantees response.
+>
+> **P3:** Human responsibility language subordinates to decree-explicit passages.
+>
+> **C:** Grace operates irresistibly to actualize God's electing purpose.
 
-***
+---
 
-***
+## Position A - Critique of Position B
 
-# POSITION B: ARMINIANISM: STRONGEST CASE
+### Critique 1: Conditional Reading Overrides Sovereignty Pattern
 
-***
+Calvinism's primary charge against Arminianism is that it elevates a handful of universal-invitation texts, like John 3:16 or 1 Timothy 2:4, into controlling status, then systematically dilutes the force of far more explicit sovereignty declarations across Romans 8-9, Ephesians 1, and elsewhere. This creates an imbalance where election language must repeatedly bend to accommodate conditionality, imposing a human-centered grid on the canon rather than deriving doctrine from its cumulative witness.
+
+> **P1:** Arminianism grants decisive authority to a narrow set of "whosoever" and "all" passages.
+>
+> **P2:** It then interprets broader sovereignty texts as compatible with foreseen-faith conditions.
+>
+> **P3:** Consistently overriding plain lexical sense in sovereignty clusters proves hermeneutically expensive.
+>
+> **C:** Conditional election subordinates the canon's sovereignty pattern to select free-offer texts.
+
+### Critique 2: Foreknowledge Misread as Prescience
+
+Arminians often render "foreknew" in Romans 8:29 as mere prescience of faith, but Calvinists counter that the term carries relational election meaning throughout Scripture (e.g., Amos 3:2's intimate choice of Israel), demanding proof for the bare-foresight default, a burden unmet amid decree-dominant contexts.
+
+> **P1:** Biblical "foreknowledge" connotes electing love and choice, not neutral foresight.
+>
+> **P2:** Arminianism assumes prescience without textual warrant in election settings.
+>
+> **P3:** Contextual decree language overrides bare possibility.
+>
+> **C:** Foreknowledge reinforces unconditional election.
+
+---
+
+## Position A - Rebuttals to Position B
+
+### Rebuttal 1: Universal Offer Texts Revisited
+
+In John 3:16 the world means people from every nation who believe, as Revelation 5:9 shows elect from all tribes. 1 Timothy 2:4 wants all kinds saved, fitting verse 1's prayers for all kinds of people, with the ransom working exactly as God plans.
+
+> **P1:** "World" often means elect gathered from everywhere, not every individual without exception.
+>
+> **P2:** God's wish to save all kinds lines up with his decree to save the elect.
+>
+> **P3:** Commands to repent make sense given God's grace enabling response.
+>
+> **C:** The offer goes out to all, but saves those God has chosen.
+
+### Rebuttal 2: Provision Language Revisited
+
+John 12:19 calls Pharisees "the world," showing the term can describe a large perceived group rather than every individual. 2 Peter 2:1's "buying" refers to God's providential claim on all people, not redemptive atonement applied to false teachers.
+
+> **P1:** Scripture uses "all" and "world" for large representative groups, including elect.
+>
+> **P2:** Christ's intercessory prayer sets the real scope of his death's intent.
+>
+> **P3:** God's decree accounts for the broad language without requiring universal efficacy.
+>
+> **C:** Christ died for all kinds, but saves the elect specifically.
+
+### Rebuttal 3: Resistible Grace Revisited
+
+Acts 7:51 describes resisting the prophets, not the Spirit's internal effectual call. Matthew 23:37 addresses Jerusalem's leadership, not the elect sheep. John 6:37 declares all the Father gives to Christ will come without exception.
+
+> **P1:** The general external call gets resisted; the effectual internal call does not.
+>
+> **P2:** God changes the heart first, so the response that follows is certain.
+>
+> **P3:** Apostasy warnings apply to those who only appear to believe.
+>
+> **C:** God's grace for the elect cannot ultimately fail.
+
+### Rebuttal 4: Security Warnings Revisited
+
+Hebrews 6:9 follows the warning with confidence of "better things" for true believers, framing verses 4-6 as hypothetical. 2 Peter 2:22 describes those who return to the mire like dogs, indicating they were never regenerate from the start. John 10:28-29 promises no one plucks the sheep from either Christ's or the Father's hand.
+
+> **P1:** Warning passages describe the superficial experience of those who were never truly regenerate.
+>
+> **P2:** Departure from the faith proves the profession was never genuine to begin with (1 John 2:19).
+>
+> **P3:** God's keeping power is greater than any threat of apostasy.
+>
+> **C:** True saints persevere because God preserves them.
+
+---
+
+# Position B: Arminianism: Strongest Case
+
+---
 
 ## Argument 1: Universal Gospel Offer
 
-Arminianism roots its understanding in the Bible's clear and passionate presentation of God's love and invitation extended to every person without exception. Consider John 3:16, where God demonstrates his profound love for the world by giving his one and only Son so that everyone who believes receives eternal life, while those who do not face perishing. This sets up a straightforward connection between God's wide reaching purpose and the simple condition of faith. The same pattern appears in 1 Timothy 2:4 through 6, as Paul writes that God wants all people to come to know the truth and be saved, with Christ serving as the ransom paid for everyone. These passages show salvation as something God earnestly offers to all humanity, depending on the individual's willing response made possible through his grace.
+Arminianism roots its understanding in the Bible's clear and passionate presentation of God's love and invitation extended to every person without exception. Consider John 3:16, where God demonstrates his profound love for the world by giving his one and only Son so that everyone who believes receives eternal life, while those who do not face perishing. The same pattern appears in 1 Timothy 2:4-6, as Paul writes that God wants all people to come to know the truth and be saved, with Christ serving as the ransom paid for everyone. These passages show salvation as something God earnestly offers to all humanity, depending on the individual's willing response made possible through his grace.
 
-P1: Texts such as John 3:16 and 1 Timothy 2:4 to 6 use words like all, world, and whosoever to describe God's saving intent and the human condition in parallel ways.
-P2: The same words cover both God's desire to save and the requirement of belief.
-P3: Eternal life means a lasting relationship with God that comes through trusting in Christ.
-C: God elects people based on the faith he foresees in them, in line with his desire to save everyone.
+> **P1:** Texts such as John 3:16 and 1 Timothy 2:4-6 use words like "all," "world," and "whosoever" to describe God's saving intent and the human condition in direct parallel.
+>
+> **P2:** The same scope language covers both God's desire to save and the requirement of belief.
+>
+> **P3:** Eternal life is a lasting relationship with God that comes through trusting in Christ.
+>
+> **C:** God elects people based on the faith he foresees in them, in line with his desire to save everyone.
 
 ## Argument 2: Cumulative Provision Language
 
-What makes the Arminian view even stronger is how often Scripture uses language of universal atonement, with terms like the whole world, all people, everyone, and for us and the world appearing together in key places about Christ's death. Take 1 John 2:2, which says Jesus is the atoning sacrifice not just for our sins but also for the sins of the whole world. Or look at 2 Peter 2:1, where false teachers face judgment for denying the master who bought them, pointing to Christ's blood covering even those who reject him. One phrase alone might allow for different readings, but when these ideas pile up across the Gospels, letters, and preaching, they point strongly to Christ's death providing everything needed for every person's salvation, held back only by their own unbelief.
+What strengthens the Arminian reading is how consistently Scripture uses language of unlimited atonement, with terms like "the whole world," "all people," "everyone," and "for us and the world" appearing in key passages about Christ's death. 1 John 2:2 says Jesus is the atoning sacrifice not just for believers but for the sins of the whole world. 2 Peter 2:1 warns false teachers who deny the master who bought them, pointing to Christ's blood covering even those who ultimately reject him. When these ideas accumulate across the Gospels, epistles, and apostolic preaching, they point strongly to Christ's death providing everything needed for every person's salvation, held back only by unbelief.
 
-P1: Words describing provision for all, like world, all, everyone, and ransom for all, show up frequently when talking about atonement.
-P2: Normally, these words include all humanity, not just a select group.
-P3: The number and placement of these phrases make it hard to limit the atonement.
-C: Christ's death makes full salvation available to everyone, but it takes effect only when someone believes.
+> **P1:** Provision terms like "world," "all," "everyone," and "ransom for all" appear frequently in atonement contexts.
+>
+> **P2:** In their ordinary biblical range, these terms encompass all humanity, not a select group.
+>
+> **P3:** The density and consistency of such language builds a strong case against limiting the atonement.
+>
+> **C:** Christ's death makes full salvation available to everyone, taking effect only when someone believes.
 
 ## Argument 3: Prevenient Grace Restoration
 
-Arminianism explains how God deals with our total depravity by pointing to the grace that goes before faith, which Christ's death makes available to every person. John 1:9 says this true light gives light to everyone born into the world, and Titus 2:11 describes grace bringing salvation to all people by teaching them to turn from wickedness. This echoes God's pleas in Ezekiel 18:31 and 33:11, where he asks why anyone would choose death when he takes no pleasure in it and urges return to life. Grace works inside to free the will from sin's grip just enough for a real choice, upholding God's commands as sincere while honoring human freedom.
+Arminianism explains how God addresses total depravity by pointing to the grace that precedes faith, made available to every person through Christ's atonement. John 1:9 says this true light gives light to everyone born into the world, and Titus 2:11 describes grace bringing salvation to all people by training them to turn from wickedness. This echoes God's pleas in Ezekiel 18:31 and 33:11, where he asks why anyone would choose death when he takes no pleasure in it and urges return to life. Grace works inwardly to free the will from sin's grip just enough for a real choice, upholding God's commands as sincere while honoring human freedom.
 
-P1: Grace is shown as lighting up, appearing to, and teaching all people without picking and choosing.
-P2: This grace before faith fixes depravity enough for free decisions.
-P3: Calls to repent in the prophets assume people can respond.
-C: Grace makes response possible for everyone but lets them accept or turn it away.
+> **P1:** Grace is described as enlightening, appearing to, and training all people without selectivity (John 1:9; Titus 2:11).
+>
+> **P2:** This grace prior to faith addresses depravity sufficiently for genuine free decision.
+>
+> **P3:** Prophetic calls to repent assume the audience possesses restored capacity to respond.
+>
+> **C:** Grace makes response genuinely possible for everyone, yet allows acceptance or refusal.
 
 ## Argument 4: Conditional Perseverance Exhortations
 
-The Bible includes serious warnings about falling away that speak directly to believers, like Hebrews 6:4 to 6, which talks about people who have been enlightened, tasted God's gift, shared in the Holy Spirit, and experienced the goodness of the word and powers of the coming age, yet fall away so completely that renewing them becomes impossible. 2 Peter 2:20 to 22 adds those who escape the world's defilements through knowledge of Christ but get tangled up again, ending up worse off than before. Jesus warns in John 15:6 about branches not remaining in the vine being thrown away and burned, and Paul cautions in 1 Timothy 1:19 about shipwrecking faith. These fit the style of covenant warnings, calling believers to keep trusting to the end, treating security as something to hold onto through ongoing faithfulness.
+The Bible's serious warnings about falling away speak directly to believers, as Hebrews 6:4-6 describes people who have been enlightened, tasted God's gift, shared in the Holy Spirit, and experienced the powers of the coming age, yet fall away so completely that renewing them becomes impossible. 2 Peter 2:20-22 adds those who escape the world's defilements through knowledge of Christ but get tangled up again, ending worse off than before. Jesus warns in John 15:6 about branches not remaining in the vine being cast away, and Paul cautions in 1 Timothy 1:19 about shipwrecking faith. These fit the pattern of covenant warnings, calling believers to keep trusting to the end rather than treating security as unconditional.
 
-P1: Descriptions of falling away match what true believers experience.
-P2: Old Testament examples of breaking covenant serve as lessons for New Testament Christians.
-P3: Commands to endure show that staying faithful matters.
-C: Lasting salvation depends on keeping faith all the way.
+> **P1:** Apostasy descriptions use language that matches genuine believers throughout, not merely apparent ones.
+>
+> **P2:** Old Testament covenant-breaking patterns serve explicitly as warnings for New Testament Christians.
+>
+> **P3:** Commands to endure and remain in the vine assume that not enduring is a real possibility.
+>
+> **C:** Lasting salvation depends on keeping faith through to the end.
 
-***
+---
 
 ## Position B - Critique of Position A
 
 ### Critique 1: Unconditional Decree Strains Justice
 
-Arminianism questions Calvinism's idea of God picking some for salvation and passing over others with no regard for their response, because it raises tough issues about fairness. Romans 9 anticipates complaints about God being unfair but answers with his right to show mercy, yet this bumps against 2 Peter 3:9, where God holds back judgment not wanting anyone to perish. Commands for everyone to repent in Acts 17:30 seem less honest if most lack any real chance. Calvinism has to keep explaining how God's will to save all fits with choosing only some.
+Arminianism questions Calvinism's idea of God choosing some for salvation and passing over others without regard for their response, because it raises serious issues about fairness. Romans 9 anticipates complaints about injustice but answers with God's sovereign right to show mercy, yet this sits uncomfortably alongside 2 Peter 3:9, where God holds back judgment because he does not want anyone to perish. Commands for all to repent in Acts 17:30 ring hollow if the majority have no genuine opportunity. Calvinism faces the ongoing difficulty of explaining how God's stated desire to save all squares with choosing only some.
 
-P1: Calvinism puts decree texts like Romans 9 above pleas for universal salvation.
-P2: Passing over people conflicts with God's patience toward all.
-P3: Fairness calls for choices based on response.
-C: Election without conditions puts mystery over clear justice.
+> **P1:** Calvinism elevates decree texts like Romans 9 above the Bible's universal salvific pleas.
+>
+> **P2:** Passing over people without remedial possibility conflicts with God's patient desire for all.
+>
+> **P3:** Justice intuitively favors a framework where choices reflect genuine response.
+>
+> **C:** Election without conditions places inscrutable mystery above the canon's clear justice language.
 
 ### Critique 2: Particular Atonement Dilutes Provision Texts
 
-Calvinists often read words like world or all to mean the elect only, but 1 John 2:2 says Jesus atones not just for us but the whole world, and 2 Peter 2:1 has false teachers denying the one who bought them. This approach changes common meanings too much and creates a gap between Christ's death and his prayers for others in Hebrews 7:25.
+Calvinists regularly redefine "world" or "all" as meaning "all kinds" or the elect only, but 1 John 2:2 explicitly contrasts the author's community with the wider world, and 2 Peter 2:1 describes false teachers denying the master who bought them, making it hard to read their purchase as merely provisional. This approach changes common meanings across too many passages and creates a mismatch between Christ's death and the intercession for all in 1 Timothy 2:1-6.
 
-P1: Terms like world and all naturally include people outside the elect.
-P2: Narrowing them requires extra steps not in the text.
-P3: Christ's praying for many does not match dying for few.
-C: Christ's death reaches everyone in provision, if not always in effect.
+> **P1:** Expansive terms like "world" and "all" naturally include people outside the elect in context.
+>
+> **P2:** Narrowing them to mean only the elect requires lexical steps the text does not supply.
+>
+> **P3:** Christ praying for all and dying only for some creates a scope mismatch without clear warrant.
+>
+> **C:** Christ's death reaches everyone in provision, even if not everyone receives its saving effect.
 
-***
+---
 
 ## Position B - Rebuttal
 
 ### Rebuttal 1: Election Passages Revisited
 
-Romans 9 deals with groups of people, like nations in verses 25 to 26, and vessels of wrath harden themselves through sin in verse 22. Ephesians 1:4 to 5 chooses the church as a group known ahead for faith, much like God knowing Israel specially in Amos 3:2.
+Romans 9 deals primarily with groups of people, as verses 25-26 address nations rather than isolated individuals, and the vessels of wrath in verse 22 harden themselves through persistent sin rather than by naked divine decree. Ephesians 1:4-5 describes the church elected corporately in Christ, known ahead of time for faith, in the same way God intimately knew Israel in Amos 3:2.
 
-P1: The setting points to groups, not single people.
-P2: Hardening comes after they reject God.
-P3: The Bible as a whole ties choice to faith.
-C: God chooses ahead those who will believe.
+> **P1:** The immediate context of Romans 9 points to corporate and national election, not individual decree.
+>
+> **P2:** Hardening follows and responds to persistent rejection rather than preceding it.
+>
+> **P3:** The broader canonical pattern ties divine choice to foreseen faithful response.
+>
+> **C:** God chooses ahead those whom he foresees will believe.
 
 ### Rebuttal 2: Atonement Scope Revisited
 
-Christ's death works for everyone in a general way but saves fully those who trust him. John 17:9 focuses application on the elect while 1 John 2:2 keeps provision open to the world, letting both stand together.
+Christ's death works for everyone in provision but saves fully those who trust him, allowing John 17:9's focused intercession and 1 John 2:2's world-wide propitiation to stand together without conflict. Infinite worth supports both a genuine offer to all and a saving effect for believers.
 
-P1: Christ's worth covers all fully and some savingly.
-P2: Broad words go with focused ones naturally.
-P3: God offers truly to keep preaching honest.
-C: Full offer to all, full save for believers.
+> **P1:** Christ's infinite worth covers all humanity in sufficiency and believers in efficacy.
+>
+> **P2:** Broad provision language and focused application language complement each other naturally.
+>
+> **P3:** A sincere offer to all requires genuine provision for all, which unlimited atonement secures.
+>
+> **C:** Full provision for all, full salvation for those who believe.
 
 ### Rebuttal 3: Grace Efficacy Revisited
 
-People resist the Spirit's general work in Acts 7:51, and Jesus grieves in Matthew 23:37 over those who would not let him gather them. Revelation 22:17 invites whoever wants to take the water of life freely.
+People resist the Spirit's general work in Acts 7:51, and Jesus grieves in Matthew 23:37 over those who would not let him gather them, both showing that real volitional refusal occurs and that God's longing is genuine. Revelation 22:17 closes the canon with an open invitation to whoever thirsts, presupposing that all who hear have been enabled to respond.
 
-P1: Scripture shows real turning away from God.
-P2: Jesus' sadness means choice was possible.
-P3: Calls to all assume help given to all.
-C: Grace draws but people can say no.
+> **P1:** Scripture depicts real and uncoerced turning away from God's overtures.
+>
+> **P2:** Jesus' grief over Jerusalem indicates the choice to refuse was genuine and meaningful.
+>
+> **P3:** Closing invitations to all assume that all have been equipped to answer.
+>
+> **C:** Grace draws genuinely but allows genuine refusal.
 
 ### Rebuttal 4: Security Promises Revisited
 
-Hebrews 3:14 ties holding firm to becoming true partners, and warnings stay real for believers to heed. Those who leave in 1 John 2:19 were never really part of us.
+Hebrews 3:14 ties sharing in Christ to holding firm through the end, framing assurance as contingent rather than automatic. Those who depart in 1 John 2:19 show they were never truly of us, but the warnings in Hebrews 6 and 2 Peter 2 are addressed to people with real experiential markers of regeneration, not obvious pretenders, and must be read as genuine cautions.
 
-P1: Exhortations push real effort.
-P2: Leaving shows they never belonged fully.
-P3: Help to stay comes with calls to stay.
-C: God keeps those who keep trusting.
+> **P1:** Perseverance exhortations press believers toward genuine continued effort.
+>
+> **P2:** Departure can evidence false profession, but warnings target those with real regenerate markers.
+>
+> **P3:** God's help in persevering accompanies the call to persevere without eliminating the call.
+>
+> **C:** God keeps those who keep trusting, with ongoing faith as the real instrument of security.
 
-***
+---
 
-# POSITION A - Rebuttals to Position B
+# The Three Actual Hinges
 
-## Rebuttal 1: Universal Offer Texts Revisited
+The real issue is not whether either side believes in grace, depravity, or Christ's sufficiency. The real issue is **hermeneutical priority**: Calvinists treat sovereignty-decree passages like Romans 9 and Ephesians 1 as the controlling frame, while Arminians treat universal provision passages like John 3:16 and 1 Timothy 2:4 as the governing texts.
 
-In John 3:16 the world means people from every nation who believe, as Revelation 5:9 shows elect from all tribes. 1 Timothy 2:4 wants all kinds saved, fitting verse 1's prayers for everyone, with the ransom working as God plans.
+A second hinge is **semantic method**. Calvinism charges that Arminianism over-softens election language, while Arminianism charges that Calvinism over-narrows provision language. Both sides claim the other is the one making lexical adjustments without textual warrant.
 
-P1: World often means elect from everywhere.
-P2: God's wish lines up with his plan.
-P3: Commands make sense with his help.
-C: Offer goes out to all but saves the chosen.
+A third hinge is **genre control**. Calvinists lean on didactic epistles setting theological doctrine, while Arminians weight evangelistic Gospel calls and prophetic pleadings. Which genre has priority for constructing soteriology, and how each genre's commands relate to its indicatives, drives many of the remaining disagreements.
 
-## Rebuttal 2: Provision Language Revisited
+---
 
-John 12:19 calls Pharisees the world, meaning many elect. 2 Peter 2:1's buying means God provided life they rejected, not full atonement.
+# Selected Bibliography
 
-P1: Bible uses all and world for elect groups.
-P2: Christ's prayers set the real limit.
-P3: God's choice explains the words.
-C: Death for all kinds, saves the elect.
-
-## Rebuttal 3: Resistible Grace Revisited
-
-Acts 7:51 means rejecting prophets, not God's special call. Matthew 23:37 addresses leaders, not his sheep. John 6:37 says all given come.
-
-P1: General call gets resisted, special does not.
-P2: God changes hearts first.
-P3: Warnings push the outer call.
-C: God's grace for elect cannot fail.
-
-## Rebuttal 4: Security Warnings Revisited
-
-Hebrews 6:9 assures better things, treating verse 4 to 6 as warning. 2 Peter 2:22 calls them dogs from start. John 10:28 to 29 promises no loss.
-
-P1: Signs fit surface believers.
-P2: Leaving proves false start.
-P3: God holds tight.
-C: True saints stay by God's power.
-
-***
-
-# THE THREE ACTUAL HINGES
-
-Scripture presents both God's choice and human choice, so the sides disagree on what guides reading: do passages on God's plan like Romans 9 lead, or do offers to all like John 3:16? They also debate word meanings, with each saying the other changes too much. Finally, different book styles matter, epistles on doctrine versus Gospels calling people to believe. Think through the whole Bible to see which fits best.
-
-***
-
-# SELECTED BIBLIOGRAPHY
-
-Barrett, Matthew. The Grace of God Will Not Fail: A Companion to the Five Points of Calvinism. Camp Hill, PA:
-
-***
-
-# SELECTED BIBLIOGRAPHY
+<details>
+<summary>Click to expand bibliography</summary>
 
 Barrett, Matthew. *The Grace of God Will Not Fail: A Companion to the Five Points of Calvinism*. Camp Hill, PA: Evangelical Press, 2014.
 
@@ -273,17 +389,15 @@ Calvin, John. *Institutes of the Christian Religion*. Translated by Henry Beveri
 
 Forster, Roger T., and V. Purser. *God's Strategy in Human History*. Wheaton, IL: Tyndale House, 1974.
 
-George, Timothy. “The Arminian Confession of 1621.” In *The Gospel Coalition Readers’ Bible*, edited by Tim Keller and D. A. Carson. Wheaton, IL: Crossway, 2016.
+George, Timothy. "The Arminian Confession of 1621." In *The Gospel Coalition Readers' Bible*, edited by Tim Keller and D. A. Carson. Wheaton, IL: Crossway, 2016.
 
 Gonzalez, Justo L. *The Story of Christianity*, vol. 2. San Francisco: Harper & Row, 1985.
-
-Grudem, Wayne. “Free Grace, Government, and Missions: A Mildly Calvinistic Perspective.” *Journal of the Evangelical Theological Society* 33, no. 3 (September 1990): 297–308.
 
 Grudem, Wayne. *Systematic Theology: An Introduction to Biblical Doctrine*. 2nd ed. Grand Rapids: Zondervan Academic, 2020.
 
 Horton, Michael. *The Christian Faith: A Systematic Theology for Pilgrims on the Way*. Grand Rapids: Zondervan, 2011.
 
-Hunt, Dave. “The 'Free Will' Delusion.” In *Debating Calvinism: Five Points, Two Views*, by Dave Hunt and James White. Colorado Springs: Multnomah, 2004.
+Hunt, Dave. "The 'Free Will' Delusion." In *Debating Calvinism: Five Points, Two Views*, by Dave Hunt and James White. Colorado Springs: Multnomah, 2004.
 
 Kendall, R. T. *Calvin and English Calvinism to 1649*. Oxford: Oxford University Press, 1979.
 
@@ -295,36 +409,30 @@ Olson, Roger E. *Against Calvinism*. Grand Rapids: Zondervan, 2011.
 
 Olson, Roger E. *Arminian Theology: Myths and Realities*. Downers Grove, IL: InterVarsity Press, 2006.
 
-Packer, J. I. “Regeneration.” In *Evangelical Dictionary of Theology*, edited by Walter A. Elwell, 1004–6. 2nd ed. Grand Rapids: Baker, 2001.
+Packer, J. I. "Regeneration." In *Evangelical Dictionary of Theology*, edited by Walter A. Elwell, 1004-6. 2nd ed. Grand Rapids: Baker, 2001.
 
-Packer, J. I. “TULIP.” In *Evangelical Affirmations*, edited by Kenneth S. Kantzer and Carl F. H. Henry, 244–64. Grand Rapids: Zondervan, 1990.
+Packer, J. I. "TULIP." In *Evangelical Affirmations*, edited by Kenneth S. Kantzer and Carl F. H. Henry, 244-64. Grand Rapids: Zondervan, 1990.
 
 Palmer, Edwin H. *The Five Points of Calvinism*. Grand Rapids: Baker, 1972.
 
 Picirilli, Robert. *Grace, Faith, Free Will: Contrasting Views of Salvation: Calvinism and Arminianism*. Nashville: Randall House, 2002.
 
-Piper, John. “Are You a Calvinist, or an Arminian?” Desiring God, June 23, 2019. https://www.desiringgod.org/interviews/the-heart-of-the-calvinist-arminian-divide.
+Piper, John. "Are You a Calvinist, or an Arminian?" Desiring God, June 23, 2019. https://www.desiringgod.org/interviews/the-heart-of-the-calvinist-arminian-divide.
 
-Piper, John. *Five Points: Towards a Deeper Experience of God’s Grace*. Rev. ed. Chicago: Moody, 2010.
+Piper, John. *Five Points: Towards a Deeper Experience of God's Grace*. Rev. ed. Chicago: Moody, 2010.
 
 Reymond, Robert L. *A New Systematic Theology of the Christian Faith*. 2nd ed. Nashville: Thomas Nelson, 2001.
 
 Ryrie, Charles C. *The Grace of God*. Chicago: Moody, 1989.
 
-Steele, David N., Curtis C. Thomas, and S. Lance Quinn. *The Five Points of Calvinism: Defined, Defended, Documented*. Updated ed. Phillipsburg, NJ: P&R Publishing, 2004.
-
-Strobel, Lee. “What’s the Difference Between Calvinism and Arminianism?” Outreach Magazine, n.d. https://outreachmagazine.com/features/3921-calvinism-vs-arminianism-whats-the-difference.html.
-
-“An Outline of the FACTS of Arminianism vs. The TULIP of Calvinism.” Society of Evangelical Arminians, June 27, 2013. https://evangelicalarminians.org/an-outline-of-the-facts-of-arminianism-vs-the-tulip-of-calvinism/.
-
-“Calvinism vs. Arminianism.” GotQuestions.org, n.d. https://www.gotquestions.org/Calvinism-vs-Arminianism.html.
-
-“Calvinism vs. Arminianism Explained.” Scribd, March 17, 2026. https://www.scribd.com/document/969561997/The-5-Points-of-Calvinism-vs-Arminianism.
-
 Sproul, R. C. *Chosen by God*. Carol Stream, IL: Tyndale House, 1986.
 
-Wallace, Daniel B. “Random Acts of Greek.” In *Diatessaron*, n.d. https://bible.org/seriespage/9-limited-atonement.
+Steele, David N., Curtis C. Thomas, and S. Lance Quinn. *The Five Points of Calvinism: Defined, Defended, Documented*. Updated ed. Phillipsburg, NJ: P&R Publishing, 2004.
 
-White, James R. *The Potter’s Freedom: A Defense of the Reformation and a Refutation of Norman Geisler’s Chosen but Free*. Amityville, NY: Calvary Chapel, 2000.
+White, James R. *The Potter's Freedom: A Defense of the Reformation and a Refutation of Norman Geisler's Chosen but Free*. Amityville, NY: Calvary Chapel, 2000.
 
-Wright, Shawn. “Logical Critique of 5-Point Calvinism (TULIP).” Eitan Bar Articles, April 13, 2023. https://eitan.bar/articles/5-point-calvinism-tulip/.
+"An Outline of the FACTS of Arminianism vs. The TULIP of Calvinism." Society of Evangelical Arminians, June 27, 2013. https://evangelicalarminians.org/an-outline-of-the-facts-of-arminianism-vs-the-tulip-of-calvinism/.
+
+"Calvinism vs. Arminianism." GotQuestions.org, n.d. https://www.gotquestions.org/Calvinism-vs-Arminianism.html.
+
+</details>
