@@ -3,7 +3,6 @@ import re
 from urllib.parse import quote
 
 REPO_BASE_URL = "https://github.com/stevenfarless/misc-notes/blob/main"
-TREE_BASE_URL = "https://github.com/stevenfarless/misc-notes/tree/main"
 
 IGNORE = {".git", ".github", "README.md"}
 
@@ -20,13 +19,12 @@ def build_tree(root=".", depth=0, rel_path=""):
         entry_rel = f"{rel_path}/{entry}" if rel_path else entry
         encoded_rel = quote(entry_rel, safe="/")
         if os.path.isdir(full_path):
-            url = f"{TREE_BASE_URL}/{encoded_rel}"
-            lines.append(f"{indent}- **[{entry}/]({url})**")
+            lines.append(f"{indent}- **{entry}/**")
             lines.extend(build_tree(full_path, depth + 1, entry_rel))
         else:
             url = f"{REPO_BASE_URL}/{encoded_rel}"
             name = os.path.splitext(entry)[0]
-            lines.append(f"{indent}- [{name}]({url})")
+            lines.append(f"{indent}  - [{name}]({url})")
     return lines
 
 
