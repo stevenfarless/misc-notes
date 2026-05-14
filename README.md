@@ -22,4 +22,5 @@ Private notebook for misc notes, documents, and article backups.
     - [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md)
   - **[Theology Proper/](https://github.com/stevenfarless/misc-notes/tree/main/theology/Theology%20Proper)**
     - [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md)
+    - [Eternal Functional Subordination vs Classical Trinitarian Relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Eternal%20Functional%20Subordination%20vs%20Classical%20Trinitarian%20Relations.md)
 <!-- TREE_END -->
