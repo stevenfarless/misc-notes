@@ -348,7 +348,7 @@ Dualists accept that mind-brain correlations are tight and real but argue that c
 
 ### Rebuttal 3: Resurrection Redundancy Revisited
 
-Monists argue that the theological weight Paul places on resurrection implies whole-person death, making resurrection the exclusive hope. Dualists respond that resurrection retains full theological weight even on dualism: the intermediate state is explicitly described by Paul as "naked" and incomplete (2 Corinthians 5:3-4), a state he does not desire as a permanent condition. Resurrection reunites the person with a transformed body, completing the person's existence in a way that disembodied soul survival cannot. Dualism does not make resurrection cosmetic; it makes it the culmination of the person's existence after a temporary and impoverished intermediate period.
+Monists argue that the theological weight Paul places on resurrection implies whole-person death, which is correct and intended. But they sometimes argue that this makes the intermediate state incoherent for monists. Dualists respond that resurrection retains full theological weight even on dualism: the intermediate state is explicitly described by Paul as "naked" and incomplete (2 Corinthians 5:3-4), a state he does not desire as a permanent condition. Resurrection reunites the person with a transformed body, completing the person's existence in a way that disembodied soul survival cannot. Dualism does not make resurrection cosmetic; it makes it the culmination of the person's existence after a temporary and impoverished intermediate period.
 
 > **P1:** Paul describes the disembodied intermediate state as "naked" and undesired as a permanent condition (2 Corinthians 5:3-4), indicating it is incomplete rather than final.
 >
@@ -389,36 +389,66 @@ A third hinge is **the relationship between Hebrew holism and ontological dualis
 <details>
 <summary>Click to expand bibliography</summary>
 
-Berkhof, Louis. *Systematic Theology*. Grand Rapids: Eerdmans, 1941. See esp. "The Nature of Man," 191-201.
+## Monist / Physicalist
 
-Cooper, John W. *Body, Soul, and Life Everlasting: Biblical Anthropology and the Monism-Dualism Debate*. Grand Rapids: Eerdmans, 1989. 2nd ed. 2000.
+Brown, Warren S., Nancey Murphy, and H. Newton Malony, eds. *Whatever Happened to the Soul? Scientific and Theological Portraits of Human Nature*. Minneapolis: Fortress Press, 1998. Multi-author case for non-reductive physicalism drawing on neuroscience, philosophy, and biblical studies.
 
-Corcoran, Kevin. *Rethinking Human Nature: A Christian Materialist Alternative to the Soul*. Grand Rapids: Baker Academic, 2006.
+Corcoran, Kevin. *Rethinking Human Nature: A Christian Materialist Alternative to the Soul*. Grand Rapids: Baker Academic, 2006. Defends a constitution-view physicalism compatible with resurrection and personal identity.
 
-Green, Joel B. *Body, Soul, and Human Life: The Nature of Humanity in the Bible*. Studies in Theological Interpretation. Grand Rapids: Baker Academic, 2008.
+Green, Joel B. *Body, Soul, and Human Life: The Nature of Humanity in the Bible*. Studies in Theological Interpretation. Grand Rapids: Baker Academic, 2008. Exegetical case for holistic anthropology across both Testaments; engagement with neuroscience.
 
-Green, Joel B., and Stuart L. Palmer, eds. *In Search of the Soul: Four Views of the Mind-Body Problem*. Downers Grove, IL: InterVarsity Press, 2005.
+Green, Joel B., ed. *What About the Soul? Neuroscience and Christian Anthropology*. Nashville: Abingdon Press, 2004. Essays integrating neuroscientific findings with a non-dualist theological anthropology.
 
-Hasker, William. *The Emergent Self*. Ithaca, NY: Cornell University Press, 1999.
+Johnston, Philip S. *Shades of Sheol: Death and Afterlife in the Old Testament*. Downers Grove, IL: InterVarsity Press, 2002. Careful OT exegesis of death, Sheol, and afterlife; supports the minimal development of soul-survival in the Hebrew canon.
 
-Johnston, Philip S. *Shades of Sheol: Death and Afterlife in the Old Testament*. Downers Grove, IL: InterVarsity Press, 2002.
+Murphy, Nancey. *Bodies and Souls, or Spirited Bodies?* Current Issues in Theology. Cambridge: Cambridge University Press, 2006. Philosophical and theological defense of non-reductive physicalism; engages the free will and moral responsibility implications.
 
-Murphy, Nancey. *Bodies and Souls, or Spirited Bodies?* Current Issues in Theology. Cambridge: Cambridge University Press, 2006.
+Murphy, Nancey, and Warren S. Brown. *Did My Neurons Make Me Do It? Philosophical and Neurobiological Perspectives on Moral Responsibility and Free Will*. Oxford: Oxford University Press, 2007. Extends the physicalist anthropology to agency and accountability.
 
-Murphy, Nancey, and Warren S. Brown. *Did My Neurons Make Me Do It? Philosophical and Neurobiological Perspectives on Moral Responsibility and Free Will*. Oxford: Oxford University Press, 2007.
+Stendahl, Krister. "Immortality Is Too Much and Too Little." In *Meanings: The Bible as Document and as Guide*, 193–202. Philadelphia: Fortress Press, 1984. Influential essay arguing that the Greek immortality-of-the-soul concept distorts the biblical resurrection hope.
 
-Pearcey, Nancy, and Charles B. Thaxton. *The Soul of Science: Christian Faith and Natural Philosophy*. Wheaton, IL: Crossway, 1994.
+Wolff, Hans Walter. *Anthropology of the Old Testament*. Translated by Margaret Kohl. Philadelphia: Fortress, 1974. Standard lexical study of Hebrew anthropological terms; foundational for the holistic reading of *nephesh*, *ruach*, and *basar*.
 
-Polkinghorne, John. *The God of Hope and the End of the World*. New Haven: Yale University Press, 2002.
+Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Minneapolis: Fortress, 2003. Comprehensive historical and exegetical argument that resurrection, not soul-immortality, is the driving eschatological category in the New Testament.
 
-Scripture and Hermeneutics Seminar. *The Bible and Anthropology*. Edited by Craig Bartholomew et al. Grand Rapids: Zondervan, 2008.
+Wright, N. T. "Mind, Spirit, Soul, and Body: All for One and One for All, Reflections on Paul's Anthropology in His Complex Contexts." Society of Christian Philosophers, Fordham University, March 2011. https://ntwrightpage.com/2016/07/12/mind-spirit-soul-and-body/. Accessible essay on Paul's anthropological vocabulary; resists both crude dualism and reductive physicalism.
 
-Swinburne, Richard. *The Evolution of the Soul*. Rev. ed. Oxford: Clarendon Press, 1997.
+---
 
-Wright, N. T. *The Resurrection of the Son of God*. Christian Origins and the Question of God 3. Minneapolis: Fortress, 2003.
+## Dualist / Holistic Dualist
 
-Wright, N. T. "Mind, Spirit, Soul, and Body: All for One and One for All, Reflections on Paul's Anthropology in His Complex Contexts." Society of Christian Philosophers, Fordham University, March 2011. https://ntwrightpage.com/2016/07/12/mind-spirit-soul-and-body/.
+Berkhof, Louis. *Systematic Theology*. Grand Rapids: Eerdmans, 1941. Classic Reformed systematic; treatment of the dichotomous nature of man and the intermediate state represents the standard conservative dualist position.
 
-Wolff, Hans Walter. *Anthropology of the Old Testament*. Translated by Margaret Kohl. Philadelphia: Fortress, 1974.
+Cooper, John W. *Body, Soul, and Life Everlasting: Biblical Anthropology and the Monism-Dualism Debate*. Grand Rapids: Eerdmans, 1989. 2nd ed. 2000. The fullest exegetical and philosophical case for holistic dualism; direct engagement with monist alternatives on the intermediate state.
+
+Gundry, Robert H. *Sōma in Biblical Theology: With Emphasis on Pauline Anthropology*. Cambridge: Cambridge University Press, 1976. Detailed study of *soma* in Paul arguing for a consistent body-soul distinction in Pauline anthropology.
+
+Hasker, William. *The Emergent Self*. Ithaca, NY: Cornell University Press, 1999. Philosophical defense of emergent dualism; the soul as a genuinely distinct entity that emerges from but is not reducible to the brain.
+
+Moreland, J. P., and Scott B. Rae. *Body and Soul: Human Nature and the Crisis in Ethics*. Downers Grove, IL: InterVarsity Press, 2000. Philosophical and ethical case for substance dualism; argues that moral and personal identity claims require an immaterial soul.
+
+Moreland, J. P. *The Soul: How We Know It's Real and Why It Matters*. Chicago: Moody Publishers, 2014. Popular-level but philosophically informed defense of soul-body dualism against physicalist alternatives.
+
+Plantinga, Alvin. "Against Materialism." *Faith and Philosophy* 23, no. 1 (2006): 3–32. Rigorous philosophical argument that materialism about persons is incoherent; influential in Christian analytic philosophy.
+
+Swinburne, Richard. *The Evolution of the Soul*. Rev. ed. Oxford: Clarendon Press, 1997. Systematic philosophical defense of substance dualism; argues that mental events are not identical to brain events and that a soul survives death.
+
+Talbot, Mark R. "True Psychology Serves Theology." In *Christian Perspectives on Being Human*, edited by J. P. Moreland and David M. Ciocchi, 195–233. Grand Rapids: Baker, 1993. Argues that a robust Christian psychology requires anthropological dualism.
+
+---
+
+## Four Views / Crossover
+
+Corcoran, Kevin, ed. *Soul, Body, and Survival: Essays on the Metaphysics of Human Persons*. Ithaca, NY: Cornell University Press, 2001. Analytic philosophy collection representing multiple positions on personal identity, soul, and resurrection.
+
+Green, Joel B., and Stuart L. Palmer, eds. *In Search of the Soul: Four Views of the Mind-Body Problem*. Downers Grove, IL: InterVarsity Press, 2005. Contributors represent substance dualism (Swinburne), emergent dualism (Hasker), constitutional materialism (Corcoran), and a theological alternative (Green).
+
+Jeeves, Malcolm, ed. *Human Identity at the Intersection of Science, Technology, and Religion*. Farnham: Ashgate, 2011. Interdisciplinary essays on neuroscience, personal identity, and theological anthropology; multiple positions represented.
+
+Polkinghorne, John. *The God of Hope and the End of the World*. New Haven: Yale University Press, 2002. Engages both the science and the theology of resurrection; neither straightforwardly monist nor classically dualist.
+
+Schwöbel, Christoph, and Colin E. Gunton, eds. *Persons, Divine and Human*. Edinburgh: T&T Clark, 1991. Theological essays on personhood, the *imago Dei*, and the soul from multiple confessional perspectives.
+
+Thiselton, Anthony C. *Life After Death: A New Approach to the Last Things*. Grand Rapids: Eerdmans, 2012. Exegetical and philosophical survey of resurrection, intermediate state, and anthropology; engages both monist and dualist readings without full commitment to either.
 
 </details>
