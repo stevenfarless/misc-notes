@@ -499,7 +499,7 @@ Peoples, Glenn. "Fallacies in the Annihilationism Debate." *Journal of the Evang
 
 Peoples, Glenn. "The Case for Annihilationism." *Philosophical Theology* (blog). http://www.rightreason.org/. Accessible philosophical and exegetical defense.
 
-Stott, John R. W. "Judgment and Hell." In *Evangelical Essentials: A Liberal-Evangelical Dialogue*, by David L. Edwards and John Stott, 312–20. Downers Grove, IL: InterVarsity Press, 1988. Landmark statement of conditionalism by a prominent evangelical; significant for the debate's reception history.
+Stott, John R. W. "John Stott's Response to Chapter 6: Judgment and Hell." In *Evangelical Essentials: A Liberal-Evangelical Dialogue*, by David L. Edwards and John Stott, 312–20. Downers Grove, IL: InterVarsity Press, 1988. Landmark statement of conditionalism by a prominent evangelical; significant for the debate's reception history.
 
 "Rethinking Hell Statement on Evangelical Conditionalism." Rethinking Hell, April 3, 2019. https://rethinkinghell.com/statement. Signed doctrinal statement defining evangelical conditionalism.
 
