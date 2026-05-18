@@ -134,12 +134,10 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md)
   - **Soteriology/**
       - [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md)
-  - **Theology Proper/**
-      - [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md)
-      - [Eternal Functional Subordination vs Classical Trinitarian Relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Eternal%20Functional%20Subordination%20vs%20Classical%20Trinitarian%20Relations.md)
-      - [Theism vs Atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Theism%20vs%20Atheism.md)
   - **theology-proper/**
-      - [efs-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/efs-vs-classical-trinitarian-relations.md)
+      - [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md)
+      - [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md)
+      - [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md)
   - [.editorconfig](https://github.com/stevenfarless/misc-notes/blob/main/.editorconfig)
   - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
