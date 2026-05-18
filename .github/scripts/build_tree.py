@@ -2,9 +2,9 @@ import os
 import re
 from urllib.parse import quote
 
-BASEURL = "/misc-notes"
+REPO_BASE_URL = "https://github.com/stevenfarless/misc-notes/blob/main"
 
-IGNORE = {".git", ".github", "README.md", "_config.yml", "index.md"}
+IGNORE = {".git", ".github", "README.md"}
 
 
 def build_tree(root=".", depth=0, rel_path=""):
@@ -22,9 +22,8 @@ def build_tree(root=".", depth=0, rel_path=""):
             lines.append(f"{indent}- **{entry}/**")
             lines.extend(build_tree(full_path, depth + 1, entry_rel))
         else:
+            url = f"{REPO_BASE_URL}/{encoded_rel}"
             name = os.path.splitext(entry)[0]
-            path_no_ext = os.path.splitext(encoded_rel)[0]
-            url = f"{BASEURL}/{path_no_ext}/"
             lines.append(f"{indent}  - [{name}]({url})")
     return lines
 
