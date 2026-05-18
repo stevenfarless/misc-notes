@@ -2,12 +2,12 @@
 title: Calvinism vs Arminianism
 tags: [soteriology, theology, calvinism, arminianism, TULIP, election, grace, free-will, perseverance]
 related:
-  - theology/Eschatology/Eternal Conscious Torment vs Annihilation.md
-  - theology/Anthropology/Monism vs Dualism.md
-  - theology/Christology/Chalcedonian Christology vs Kenotic Christology.md
-  - theology/Pneumatology/Cessationism vs Continuationism.md
-  - theology/Hermeneutics/Dispensationalism vs Covenant Theology.md
-  - theology/Theology Proper/Classical Theism vs Open Theism.md
+  - theology/eschatology/eternal-conscious-torment-vs-annihilation.md
+  - theology/anthropology/monism-vs-dualism.md
+  - theology/christology/chalcedonian-christology-vs-kenotic-christology.md
+  - theology/pneumatology/cessationism-vs-continuationism.md
+  - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
+  - theology/theology-proper/classical-theism-vs-open-theism.md
 ---
 
 # Calvinism vs Arminianism
