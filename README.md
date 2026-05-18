@@ -115,7 +115,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
   - **bibliology/**
       - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
   - **christology/**
-      - [chalcedonian-christology-vs-kenoti-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenoti-christology.md)
+      - [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md)
   - **church-history/**
       - [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md)
   - **ecclesiology/**
