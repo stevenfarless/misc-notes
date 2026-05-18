@@ -16,15 +16,15 @@ Notes treat both sides of any debate with scholarly rigor without artificially b
 
 Every debate file follows the same structure:
 
-1. **YAML front matter** — `title`, `tags`, and `related` fields
-2. **Table of Contents** — internal anchor links
-3. **Domain & Evidence** — what both sides agree on and what evidence counts
-4. **Key Definitions** — each position's definition of disputed terms, plus the opposing critique
-5. **Foundational Assumptions** — what each side is taking for granted
-6. **Position A: Strongest Case** — syllogistic arguments with critiques and rebuttals
-7. **Position B: Strongest Case** — same format
-8. **The Three Actual Hinges** — the irreducible points where the debate lives or dies
-9. **Selected Bibliography** — primary and secondary sources, collapsed by default
+1. **YAML front matter**: `title`, `tags`, and `related` fields
+2. **Table of Contents**: internal anchor links
+3. **Domain & Evidence**: what both sides agree on and what evidence counts
+4. **Key Definitions**: each position's definition of disputed terms, plus the opposing critique
+5. **Foundational Assumptions**: what each side is taking for granted
+6. **Position A: Strongest Case**: syllogistic arguments with critiques and rebuttals
+7. **Position B: Strongest Case**: same format
+8. **The Three Actual Hinges**: the irreducible points where the debate lives or dies
+9. **Selected Bibliography**: primary and secondary sources, collapsed by default
 
 ---
 
