@@ -1,6 +1,9 @@
 ---
 title: Monism vs. Dualism - Biblical Anthropology
 tags: [anthropology, theology, monism, dualism, physicalism, intermediate-state, soul, eschatology]
+related:
+  - theology/Eschatology/Eternal Conscious Torment vs Annihilation.md
+  - theology/Soteriology/Calvinism vs Arminianism.md
 ---
 
 # Monism vs. Dualism - Biblical Anthropology
