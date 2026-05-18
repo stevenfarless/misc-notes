@@ -32,7 +32,7 @@ tags: [anthropology, theology, monism, dualism, physicalism, intermediate-state,
 
 Both positions affirm that humans are created by God, that the physical body is good and not a prison, that bodily resurrection is the ultimate eschatological hope rather than a purely spiritual afterlife, and that Scripture rather than Greek philosophy should govern anthropological conclusions.
 
-Both employ literal-grammatical-historical hermeneutics in principle. Monists treat Hebrew anthropological vocabulary as evidence that the biblical writers conceived of the person as a unified psychosomatic whole, treating dichotomist and trichotomist readings as imports from Platonic or Cartesian categories. Dualists treat the same vocabulary alongside specific New Testament texts as evidence that the person has both a material and an immaterial constituent, with the immaterial capable of existing apart from the body in the intermediate state.
+Both employ grammatical-historical hermeneutics in principle. Monists treat Hebrew anthropological vocabulary as evidence that the biblical writers conceived of the person as a unified psychosomatic whole, treating dichotomist and trichotomist readings as imports from Platonic or Cartesian categories. Dualists treat the same vocabulary alongside specific New Testament texts as evidence that the person has both a material and an immaterial constituent, with the immaterial capable of existing apart from the body in the intermediate state.
 
 This document maps each side's strongest case, their critiques of the opposing position, and the live hermeneutical and philosophical disputes, without forcing resolution.
 
