@@ -27,6 +27,4 @@ Private notebook for misc notes, documents, and article backups.
   - **Theology Proper/**
       - [Classical Theism vs Open Theism](/misc-notes/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism/)
       - [Eternal Functional Subordination vs Classical Trinitarian Relations](/misc-notes/theology/Theology%20Proper/Eternal%20Functional%20Subordination%20vs%20Classical%20Trinitarian%20Relations/)
-  - [_config](/misc-notes/_config/)
-  - [index](/misc-notes/index/)
 <!-- TREE_END -->
