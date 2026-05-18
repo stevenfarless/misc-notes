@@ -1,11 +1,9 @@
 ---
-title: Calvinism vs. Arminianism
+title: Calvinism vs Arminianism
 tags: [soteriology, theology, calvinism, arminianism, TULIP, election, grace]
 ---
 
-# Calvinism vs. Arminianism
-
-## An Exploration of Two Perspectives
+# Calvinism vs Arminianism
 
 ---
 
