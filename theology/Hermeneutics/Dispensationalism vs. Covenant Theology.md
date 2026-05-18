@@ -17,12 +17,12 @@ tags: [hermeneutics, dispensationalism, covenant-theology, eschatology, israel, 
 - [Foundational Assumptions](#foundational-assumptions)
 - [Position A: Dispensationalism](#position-a-dispensationalism-strongest-case)
   - [Arguments](#argument-1-the-israel-church-distinction-is-exegetically-necessary)
-  - [Critiques of Covenant Theology](#position-a--critique-of-position-b)
-  - [Rebuttals](#position-a--rebuttals-to-position-b)
+  - [Critiques of Covenant Theology](#position-a-critique-of-position-b)
+  - [Rebuttals](#position-a-rebuttals-to-position-b)
 - [Position B: Covenant Theology](#position-b-covenant-theology-strongest-case)
   - [Arguments](#argument-1-one-covenant-of-grace-one-people-of-god)
-  - [Critiques of Dispensationalism](#position-b--critique-of-position-a)
-  - [Rebuttals](#position-b--rebuttals-to-position-a)
+  - [Critiques of Dispensationalism](#position-b-critique-of-position-a)
+  - [Rebuttals](#position-b-rebuttals-to-position-a)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -146,7 +146,7 @@ Dispensationalists argue that nowhere does the New Testament explicitly transfer
 
 ---
 
-## Position A -- Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Covenant Theology Imports Extra-Textual Covenants
 
@@ -174,7 +174,7 @@ Covenant theologians often argue that Israel functions as a type of the church, 
 
 ---
 
-## Position A -- Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: Romans 9-11 Revisited
 
@@ -262,7 +262,7 @@ Hebrews 8:13 says that in speaking of a new covenant, God has made the first one
 
 ---
 
-## Position B -- Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Consistent Literalism Is Selectively Applied
 
@@ -290,7 +290,7 @@ The mystery in Ephesians 3 is that Gentiles are fellow heirs with Israel in one 
 
 ---
 
-## Position B -- Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: Romans 9-11 and Ethnic Israel Revisited
 
