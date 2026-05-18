@@ -1,6 +1,6 @@
 # misc-notes
 
-Private research notebook for theological and comparative-religion debate notes. Each file maps a live doctrinal dispute in a bilateral format: strongest case for each position, internal critiques, rebuttals, and a "three actual hinges" section identifying the irreducible points of disagreement.
+Research notebook for theological and comparative-religion debate notes. Each file maps a live doctrinal dispute in a bilateral format: strongest case for each position, internal critiques, rebuttals, and a "three actual hinges" section identifying the irreducible points of disagreement.
 
 ---
 
@@ -8,7 +8,7 @@ Private research notebook for theological and comparative-religion debate notes.
 
 This repo exists to maintain rigorous, source-grounded notes on theological debates rather than accumulating disconnected reading highlights. The bilateral format forces engagement with the best form of each position rather than strawmen. Notes are intended to be revised as understanding develops, not treated as settled positions.
 
-Theological background: the research operates from a conditional immortality / annihilationist position and engages seriously with Reformed/Calvinist soteriology. Notes treat both sides of any debate with scholarly rigor without artificially balancing them.
+Notes treat both sides of any debate with scholarly rigor without artificially balancing them.
 
 ---
 
@@ -51,7 +51,8 @@ related:
 
 ## Canonical Tag List
 
-Use only these tags. Add new ones here before using them in a file.
+<details>
+<summary>Use only these tags. Add new ones here before using them in a file.</summary>
 
 | Tag | Covers |
 |---|---|
@@ -96,6 +97,8 @@ Use only these tags. Add new ones here before using them in a file.
 | `theology-proper` | Doctrine of God: attributes, Trinity, divine action |
 | `theism` | Belief in the existence of a personal God |
 | `trinity` | Doctrine of God as one being in three persons |
+
+</details>
 
 ---
 
