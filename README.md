@@ -112,6 +112,10 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
 - **theology/**
   - **Anthropology/**
       - [Monism vs Dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Anthropology/Monism%20vs%20Dualism.md)
+  - **anthropology/**
+      - [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md)
+  - **bibliology/**
+      - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
   - **Bibliology/**
       - [Plenary Inerrancy vs Limited Inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/Bibliology/Plenary%20Inerrancy%20vs%20Limited%20Inerrancy.md)
   - **Christology/**
@@ -126,12 +130,16 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [Dispensationalism vs. Covenant Theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hermeneutics/Dispensationalism%20vs.%20Covenant%20Theology.md)
   - **Pneumatology/**
       - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
+  - **soteriology/**
+      - [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md)
   - **Soteriology/**
       - [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md)
   - **Theology Proper/**
       - [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md)
       - [Eternal Functional Subordination vs Classical Trinitarian Relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Eternal%20Functional%20Subordination%20vs%20Classical%20Trinitarian%20Relations.md)
       - [Theism vs Atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Theism%20vs%20Atheism.md)
+  - **theology-proper/**
+      - [efs-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/efs-vs-classical-trinitarian-relations.md)
   - [.editorconfig](https://github.com/stevenfarless/misc-notes/blob/main/.editorconfig)
   - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
