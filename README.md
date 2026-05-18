@@ -27,6 +27,5 @@ Private notebook for misc notes, documents, and article backups.
   - **Theology Proper/**
       - [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md)
       - [Eternal Functional Subordination vs Classical Trinitarian Relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Eternal%20Functional%20Subordination%20vs%20Classical%20Trinitarian%20Relations.md)
-  - [_config](https://github.com/stevenfarless/misc-notes/blob/main/_config.yml)
   - [index](https://github.com/stevenfarless/misc-notes/blob/main/index.md)
 <!-- TREE_END -->
