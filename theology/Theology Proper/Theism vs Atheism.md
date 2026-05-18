@@ -34,11 +34,11 @@ tags: [theology-proper, theism, atheism, existence-of-god, natural-theology, cos
 
 ## Domain & Evidence
 
-The debate concerns whether any god exists — specifically, for classical theism, whether a personal, omnipotent, omniscient, morally perfect being exists who is the uncaused cause and sustainer of the universe. Both sides operate within analytic philosophy of religion and appeal to logic, empirical cosmology, and moral philosophy. Neither side has direct empirical access to the contested entity; the dispute is over what the available evidence and a priori reasoning make probable or rational to believe.
+The debate concerns whether any god exists. For classical theism specifically, the question is whether a personal, omnipotent, omniscient, morally perfect being exists who is the uncaused cause and sustainer of the universe. Both sides operate within analytic philosophy of religion and appeal to logic, empirical cosmology, and moral philosophy. Neither side has direct empirical access to the contested entity; the dispute is over what the available evidence and a priori reasoning make probable or rational to believe.
 
-Both sides in the serious academic debate accept the canons of logic and, in principle, the deliverances of science. The disagreement is over interpretation: whether the existence of a contingent universe, the fine-tuning of physical constants, the reality of objective moral facts, and the distribution of suffering are better explained by theism or by naturalism. The debate is therefore largely abductive — an inference to the best explanation — rather than deductive proof on either side.
+Both sides in the serious academic debate accept the canons of logic and, in principle, the deliverances of science. The disagreement is over interpretation: whether the existence of a contingent universe, the fine-tuning of physical constants, the reality of objective moral facts, and the distribution of suffering are better explained by theism or by naturalism. The debate is largely abductive (inference to the best explanation) rather than deductive proof on either side.
 
-This debate is upstream of the internal theological debates in this repo. If theism is false, conditional immortality, ECT, and questions of soteriology are moot. If theism is true, the nature of the God who exists becomes the next question — and the arguments deployed here (particularly the moral argument and the nature of the first cause) bear on whether classical theism specifically, as opposed to deism or open theism, is what the evidence supports. See `theology/Eschatology` and `theology/Anthropology` for downstream implications.
+This debate is upstream of the internal theological debates in this repo. If theism is false, conditional immortality, ECT, and questions of soteriology are moot. If theism is true, the nature of the God who exists becomes the next question, and the arguments deployed here (particularly the moral argument and the nature of the first cause) bear on whether classical theism specifically, as opposed to deism or open theism, is what the evidence supports. See `theology/Eschatology` and `theology/Anthropology` for downstream implications.
 
 ---
 
@@ -46,11 +46,11 @@ This debate is upstream of the internal theological debates in this repo. If the
 
 ### Classical Theism
 
-**Position A, theism:** A personal God exists who is the uncaused, necessary, self-existent cause of all contingent reality; who is omnipotent, omniscient, and perfectly good; and who is distinct from the universe he created. The dominant form in this repo's context is Christian classical theism: trinitarian, committed to special revelation in Scripture, and affirming that God acts in history. Natural theology (arguments from reason and evidence) is used to establish bare theism; revelation specifies its content.
+**Position A, theism:** A personal God exists who is the uncaused, necessary, self-existent cause of all contingent reality; who is omnipotent, omniscient, and perfectly good; and who is distinct from the universe he created. The dominant form in this repo's context is Christian classical theism: trinitarian, committed to special revelation in Scripture, and affirming that God acts in history. Natural theology (arguments from reason and evidence) establishes bare theism; revelation specifies its content.
 
 ### Atheism
 
-**Position B, atheism:** No god or gods exist. The universe and its contents are fully explicable, in principle, without reference to any intentional supernatural agent. Naturalism — the view that the physical world is causally closed and that all events have natural causes — is the standard positive framework most atheist philosophers adopt, though atheism strictly entails only the denial of theism.
+**Position B, atheism:** No god or gods exist. The universe and its contents are fully explicable, in principle, without reference to any intentional supernatural agent. Naturalism (the view that the physical world is causally closed and that all events have natural causes) is the standard positive framework most atheist philosophers adopt, though atheism strictly entails only the denial of theism.
 
 ### Agnosticism
 
@@ -58,7 +58,7 @@ Agnosticism is an epistemic claim (the question cannot be known or is currently 
 
 ### Reformed Epistemology
 
-Alvin Plantinga's position that belief in God can be "properly basic" — warranted without inferential justification from natural theology arguments, analogously to perceptual or memorial beliefs. On this view, the theist is not obligated to argue from cosmology or fine-tuning; the burden of proof does not rest asymmetrically on the theist. This is a significant meta-level move that affects how the debate is framed, not just which arguments win.
+Alvin Plantinga's position that belief in God can be "properly basic," warranted without inferential justification from natural theology arguments, analogously to perceptual or memorial beliefs. On this view, the theist is not obligated to argue from cosmology or fine-tuning; the burden of proof does not rest asymmetrically on the theist. This is a significant meta-level move that affects how the debate is framed before any particular argument is evaluated.
 
 ---
 
@@ -66,15 +66,15 @@ Alvin Plantinga's position that belief in God can be "properly basic" — warran
 
 ### Position A assumes
 
-Theists begin with the **principle of sufficient reason** (PSR): every contingent fact has an explanation. If the universe is contingent — if it could have failed to exist — then its existence requires an explanation external to itself. The PSR is not self-evident to all philosophers; its denial is the first move many naturalists make. Classical theists argue the PSR is a bedrock of rational inquiry and that its denial is more costly than theism.
+Theists begin with the **principle of sufficient reason** (PSR): every contingent fact has an explanation. If the universe is contingent (if it could have failed to exist), then its existence requires an explanation external to itself. The PSR is not self-evident to all philosophers; its denial is the first move many naturalists make. Classical theists argue the PSR is a bedrock of rational inquiry and that its denial is more costly than theism.
 
-A further assumption is that **objective moral facts exist** and that they require a non-natural grounding. If moral realism is true — if "torturing children for fun is wrong" is objectively true independent of human opinion — the theist argues this fact is best grounded in the nature of a perfectly good God. Naturalists who accept moral realism (e.g., Parfit, Railton) deny this entailment; error theorists (Mackie) reject moral realism entirely.
+A further assumption is that **objective moral facts exist** and that they require a non-natural grounding. If moral realism is true (if "torturing children for fun is wrong" is objectively true independent of human opinion), the theist argues this fact is best grounded in the nature of a perfectly good God. Naturalists who accept moral realism (e.g., Parfit, Railton) deny this entailment; error theorists (Mackie) reject moral realism entirely.
 
 ### Position B assumes
 
 Atheists typically begin with **methodological naturalism as the default**: the burden of proof rests on the party claiming a supernatural entity exists, not on the party denying it. Absence of conclusive theistic proof is treated as evidence for naturalism, not merely as undecided. This assumption is contested by Reformed epistemology.
 
-A further assumption is that **the probability of God's existence given the distribution of evil is low**. The evidential problem of evil is not a deductive proof; it is a probabilistic argument. Its force depends on the prior probability of theism and on whether there are plausible God-justifying reasons for specific evils. Skeptical theism challenges the second premise.
+A further assumption is that **the probability of God's existence given the distribution of evil is low**. The evidential problem of evil is a probabilistic argument, and its force depends on the prior probability of theism and on whether there are plausible God-justifying reasons for specific evils. Skeptical theism challenges the second premise.
 
 ---
 
@@ -96,7 +96,7 @@ The Kalam cosmological argument, developed by medieval Islamic philosophers and 
 >
 > **P5:** A spaceless, timeless, immaterial, uncaused cause that freely chose to create is most plausibly a personal agent rather than an abstract object (abstract objects do not cause things).
 >
-> **C:** The universe has a personal, uncaused, timeless cause — which is what theists mean by God.
+> **C:** The universe has a personal, uncaused, timeless cause, which is what theists mean by God.
 
 ## Argument 2: Teleological Argument (Fine-Tuning)
 
@@ -116,9 +116,9 @@ The physical constants and initial conditions of the universe fall within extrao
 
 C.S. Lewis's popular version and Robert Adams's and William Lane Craig's academic versions argue that the existence of objective moral facts is best explained by the existence of a perfectly good God whose nature constitutes the standard of goodness. The argument does not require that atheists behave immorally; it requires that atheism lacks the ontological resources to ground moral realism.
 
-> **P1:** Objective moral facts exist (moral realism is true — torturing children for fun is wrong independent of anyone's opinion).
+> **P1:** Objective moral facts exist (moral realism is true, and torturing children for fun is wrong independent of anyone's opinion).
 >
-> **P2:** Objective moral facts require an ontological grounding — a reason why they are true that is not reducible to human preference or evolutionary pressure.
+> **P2:** Objective moral facts require an ontological grounding, a reason why they are true that is not reducible to human preference or evolutionary pressure.
 >
 > **P3:** The nature of a perfectly good, necessarily existent God provides such grounding: moral facts are grounded in what conforms to or contradicts God's essentially good nature.
 >
@@ -128,7 +128,7 @@ C.S. Lewis's popular version and Robert Adams's and William Lane Craig's academi
 
 ## Argument 4: Ontological Argument (Plantinga's Modal Version)
 
-Plantinga's modal ontological argument moves from the possibility of a maximally great being to its actual existence, using S5 modal logic. It is not a proof that convinces neutral parties but a demonstration that theistic belief is not irrational — that there exists a valid argument for God's existence whose premises a rational person can accept.
+Plantinga's modal ontological argument moves from the possibility of a maximally great being to its actual existence, using S5 modal logic. It functions as a demonstration that theistic belief is not irrational, that there exists a valid argument for God's existence whose premises a rational person can accept.
 
 > **P1:** It is possible that a maximally great being exists (a being that is omnipotent, omniscient, and perfectly good in every possible world).
 >
@@ -140,7 +140,7 @@ Plantinga's modal ontological argument moves from the possibility of a maximally
 
 ---
 
-## Position A — Critique of Position B
+## Position A -- Critique of Position B
 
 ### Critique 1: Naturalism Cannot Ground the Reliability of Reason
 
@@ -156,7 +156,7 @@ If human cognitive faculties are the product of unguided evolution, their reliab
 
 ### Critique 2: The Multiverse Response to Fine-Tuning Fails
 
-The standard naturalist response to fine-tuning is the multiverse: if sufficiently many universes exist with varying constants, the life-permitting combination is not improbable — we simply find ourselves in one of the rare universes that permits life (the anthropic principle). Theists respond that the multiverse hypothesis introduces a universe-generating mechanism that itself requires fine-tuning (the laws and initial conditions governing the multiverse must themselves be calibrated), and that the multiverse is unobservable and unfalsifiable, making it a metaphysical postulate, not a scientific explanation.
+The standard naturalist response to fine-tuning is the multiverse: if sufficiently many universes exist with varying constants, the life-permitting combination is not improbable, and we simply find ourselves in one of the rare universes that permits life (the anthropic principle). Theists respond that the multiverse hypothesis introduces a universe-generating mechanism that itself requires fine-tuning, since the laws and initial conditions governing the multiverse must themselves be calibrated. The multiverse is also unobservable and unfalsifiable, making it a metaphysical postulate rather than a scientific explanation.
 
 > **P1:** The multiverse hypothesis requires a universe-generating mechanism with its own laws and parameters.
 >
@@ -164,7 +164,7 @@ The standard naturalist response to fine-tuning is the multiverse: if sufficient
 >
 > **P3:** An unobservable, unfalsifiable multiverse is a metaphysical postulate with no evidential advantage over theism as an explanation of fine-tuning.
 >
-> **C:** The multiverse response to fine-tuning relocates the problem rather than resolving it, and does so by appealing to an entity as metaphysically extravagant as God.
+> **C:** The multiverse response relocates the problem rather than resolving it, and does so by appealing to an entity as metaphysically extravagant as God.
 
 ### Critique 3: The Problem of Evil Depends on Skeptical Theism Being Implausible
 
@@ -172,7 +172,7 @@ The evidential problem of evil argues that the quantity and distribution of suff
 
 > **P1:** The evidential problem of evil infers from our inability to identify God's justifying reasons for specific evils that no such reasons exist.
 >
-> **P2:** This inference requires that finite human minds would likely be able to identify the justifying reasons an omniscient God would have — an assumption with no independent support.
+> **P2:** This inference requires that finite human minds would likely be able to identify the justifying reasons an omniscient God would have, an assumption with no independent support.
 >
 > **P3:** The cognitive distance between a finite creature and an omniscient creator makes our inability to identify justifying reasons predictable whether or not God exists.
 >
@@ -180,15 +180,15 @@ The evidential problem of evil argues that the quantity and distribution of suff
 
 ---
 
-## Position A — Rebuttals to Position B
+## Position A -- Rebuttals to Position B
 
 ### Rebuttal 1: The Burden of Proof Is Not Asymmetric
 
-Atheists often claim that the default position is naturalism and that theists bear the full burden of proof. Plantinga's Reformed Epistemology denies this: belief in God can be properly basic, warranted by the sensus divinitatis (Calvin) or by religious experience, without requiring prior success in natural theology arguments. The atheist must show not merely that the arguments for God are unconvincing but that belief in God is irrational or unwarranted — a much stronger claim.
+Atheists often claim that the default position is naturalism and that theists bear the full burden of proof. Plantinga's Reformed Epistemology denies this: belief in God can be properly basic, warranted by the sensus divinitatis (Calvin) or by religious experience, without requiring prior success in natural theology arguments. The atheist must show not merely that the arguments for God are unconvincing but that belief in God is irrational or unwarranted, which is a much stronger claim.
 
 > **P1:** Properly basic beliefs are warranted without inferential justification; perceptual beliefs and memorial beliefs are examples.
 >
-> **P2:** Reformed Epistemology holds that belief in God can be properly basic — produced by reliable faculties (sensus divinitatis, religious experience) in appropriate circumstances.
+> **P2:** Reformed Epistemology holds that belief in God can be properly basic, produced by reliable faculties (sensus divinitatis, religious experience) in appropriate circumstances.
 >
 > **P3:** If theistic belief is properly basic, the atheist must show it is defeated, not merely that arguments for it are inconclusive.
 >
@@ -214,11 +214,11 @@ Atheists sometimes appeal to Hawking-Hartle "no-boundary" proposals or Vilenkin'
 
 ## Argument 1: The Evidential Problem of Evil
 
-The logical problem of evil (Mackie, Flew) — that God's existence is logically incompatible with any evil — is widely considered defeated by Plantinga's free will defense. The evidential version (Rowe, Draper) is the live form: given the actual quantity, distribution, and apparent gratuitousness of suffering — especially in non-human animals over millions of years before any human moral agent existed — the probability of theism is reduced. Paul Draper's version uses the "hypothesis of indifference" (HI): the evidence about pleasure and pain fits a universe indifferent to life better than it fits a universe governed by a perfectly good God.
+The logical problem of evil (Mackie, Flew), that God's existence is logically incompatible with any evil, is widely considered defeated by Plantinga's free will defense. The evidential version (Rowe, Draper) is the live form: given the actual quantity, distribution, and apparent gratuitousness of suffering, especially in non-human animals over millions of years before any human moral agent existed, the probability of theism is reduced. Paul Draper's version uses the "hypothesis of indifference" (HI): the evidence about pleasure and pain fits a universe indifferent to life better than it fits a universe governed by a perfectly good God.
 
 > **P1:** The distribution of animal suffering over millions of years of evolutionary history, before any free human agent existed, cannot be attributed to human free will.
 >
-> **P2:** A perfectly good, omnipotent God who had morally sufficient reasons for all that suffering would produce a pattern of suffering different from the one we observe — more proportionate to moral desert and more clearly purposeful.
+> **P2:** A perfectly good, omnipotent God who had morally sufficient reasons for all that suffering would produce a pattern of suffering different from the one we observe, more proportionate to moral desert and more clearly purposeful.
 >
 > **P3:** The hypothesis of indifference (no God cares about the suffering) predicts the observed pattern of suffering at least as well as theism.
 >
@@ -228,37 +228,37 @@ The logical problem of evil (Mackie, Flew) — that God's existence is logically
 
 ## Argument 2: The Argument from Divine Hiddenness
 
-J.L. Schellenberg argues that a perfectly loving God would ensure that all non-resistant nonbelievers come to belief in him — because a personal loving relationship requires both parties to be aware of each other. Yet non-resistant nonbelief clearly exists: people who have sincerely sought God and not found him, or who have no concepts available to form theistic belief through no fault of their own. If God exists and is perfectly loving, non-resistant nonbelief is improbable.
+J.L. Schellenberg argues that a perfectly loving God would ensure that all non-resistant nonbelievers come to belief in him, because a personal loving relationship requires both parties to be aware of each other. Yet non-resistant nonbelief clearly exists: people who have sincerely sought God and not found him, or who have no concepts available to form theistic belief through no fault of their own. If God exists and is perfectly loving, non-resistant nonbelief is improbable.
 
 > **P1:** A perfectly loving God would ensure that all non-resistant nonbelievers are able to believe in him, since love requires the possibility of relationship.
 >
 > **P2:** Non-resistant nonbelief exists: there are sincere seekers who have not arrived at belief through no culpable failure on their part.
 >
-> **P3:** If premise 1 is true and premise 2 is true, God does not exist — or is not perfectly loving.
+> **P3:** If premise 1 is true and premise 2 is true, God does not exist, or is not perfectly loving.
 >
 > **C:** The existence of non-resistant nonbelief is evidence against the existence of a perfectly loving God.
 
 ## Argument 3: The Argument from Physical Minds
 
-Every mental event — every thought, emotion, perception, and experience — is correlated with, and appears to be causally dependent on, a specific physical brain state. Damage to the brain alters personality, memory, and cognition in predictable ways. Anesthesia eliminates consciousness. The developmental dependence of mind on brain is exactly what physicalism predicts and is not what substance dualism or soul-based theism predicts. If the mind is a non-physical soul, the tight dependency of mind on brain is unexplained.
+Every mental event (every thought, emotion, perception, and experience) is correlated with, and appears to be causally dependent on, a specific physical brain state. Damage to the brain alters personality, memory, and cognition in predictable ways. Anesthesia eliminates consciousness. The developmental dependence of mind on brain is exactly what physicalism predicts and is what substance dualism or soul-based theism must explain away. If the mind is a non-physical soul, the tight dependency of mind on brain is unexplained.
 
-> **P1:** Every known mental function — memory, personality, perception, reasoning — is causally dependent on specific brain states.
+> **P1:** Every known mental function (memory, personality, perception, reasoning) is causally dependent on specific brain states.
 >
 > **P2:** Brain damage, pharmacology, and anesthesia alter or eliminate mental functions in ways that precisely track physical interventions.
 >
 > **P3:** If the mind were a non-physical soul that uses the brain as an instrument, we would expect mental functions to be partly independent of brain states.
 >
-> **P4:** The tight dependency of mind on brain is predicted by physicalism and is not predicted by substance dualism.
+> **P4:** The tight dependency of mind on brain is predicted by physicalism and sits uneasily with substance dualism.
 >
 > **C:** The evidence from neuroscience favors physicalism over substance dualism, and physicalism is easier to accommodate on naturalism than on classical theism.
 
 ---
 
-## Position B — Critique of Position A
+## Position B -- Critique of Position A
 
-### Critique 1: The Cosmological Argument Doesn't Establish a Personal God
+### Critique 1: The Cosmological Argument Underdetermines Theism
 
-Even if the universe has a cause, the inference to a personal agent is not forced. The cause could be an impersonal force, a brute necessary being, or a mathematical structure. The move from "uncaused cause" to "personal agent" requires additional premises that the argument does not supply. Furthermore, the first-cause argument applies equally to God: if everything that exists requires a cause, God requires one too. If God is simply stipulated as an exception to the causal principle, the atheist can equally stipulate the universe as the exception.
+Even if the universe has a cause, the inference to a personal agent is not forced. The cause could be an impersonal force, a brute necessary being, or a mathematical structure. The move from "uncaused cause" to "personal agent" requires additional premises that the argument does not supply. Furthermore, if God is exempt from the causal principle as a necessary being, the atheist can claim the universe itself (or a quantum vacuum) is necessary and similarly exempt.
 
 > **P1:** The cosmological argument establishes at most that the universe has a cause; it does not establish that the cause is personal, good, or interested in human beings.
 >
@@ -276,15 +276,15 @@ Some philosophers (Ian Hacking, Ian Robins) argue that the fine-tuning argument 
 >
 > **P2:** The inference from "we observe fine-tuning" to "fine-tuning was designed" ignores the selection effect: we had to be in a life-permitting universe to ask the question.
 >
-> **P3:** The probability calculus the fine-tuning argument requires — the probability of life-permitting constants on naturalism — is undefined without a reference class of universes, which we do not have.
+> **P3:** The probability calculus the fine-tuning argument requires (the probability of life-permitting constants on naturalism) is undefined without a reference class of universes, which we do not have.
 >
 > **C:** The fine-tuning argument's probabilistic framework is epistemically ill-defined, and the anthropic selection effect blocks the inference to design.
 
 ### Critique 3: The Moral Argument Assumes Moral Realism Without Defending It
 
-The moral argument's first premise — that objective moral facts exist — is the most contested premise in metaethics. Error theorists (Mackie, Joyce) deny that any moral claims are objectively true. Quasi-realists (Blackburn) and expressivists deny that moral claims describe facts at all. Even among moral realists, naturalist moral realists (Railton, Parfit, Enoch) maintain that moral facts can be grounded without God. The moral argument begs the most important question against the atheist who is also a moral anti-realist.
+The moral argument's first premise, that objective moral facts exist, is the most contested premise in metaethics. Error theorists (Mackie, Joyce) deny that any moral claims are objectively true. Quasi-realists (Blackburn) and expressivists deny that moral claims describe facts at all. Even among moral realists, naturalist moral realists (Railton, Parfit, Enoch) maintain that moral facts can be grounded without God. The moral argument begs the most important question against the atheist who is also a moral anti-realist.
 
-> **P1:** Moral realism — the view that moral claims are objectively true or false — is contested; error theory, expressivism, and quasi-realism are serious philosophical alternatives.
+> **P1:** Moral realism (the view that moral claims are objectively true or false) is contested; error theory, expressivism, and quasi-realism are serious philosophical alternatives.
 >
 > **P2:** The moral argument requires moral realism as its first premise; if moral realism is false, the argument does not get started.
 >
@@ -294,7 +294,7 @@ The moral argument's first premise — that objective moral facts exist — is t
 
 ---
 
-## Position B — Rebuttals to Position A
+## Position B -- Rebuttals to Position A
 
 ### Rebuttal 1: Skeptical Theism Undermines More Than the Problem of Evil
 
@@ -304,7 +304,7 @@ The skeptical theist response to the problem of evil holds that finite minds can
 >
 > **P2:** If our access to God's reasons is that limited, we equally cannot assess his reasons for commanding obedience, rewarding faith, or acting redemptively.
 >
-> **P3:** A God whose reasons are systematically opaque to us is a God whose moral character we cannot know — which undermines the theist's claim that God is perfectly good.
+> **P3:** A God whose reasons are systematically opaque to us is a God whose moral character we cannot know, which undermines the theist's claim that God is perfectly good.
 >
 > **C:** Skeptical theism, deployed consistently, undermines the theist's own positive claims about God's character as much as it deflects the problem of evil.
 
@@ -324,11 +324,11 @@ Plantinga's claim that theistic belief can be properly basic and warranted witho
 
 # The Three Actual Hinges
 
-The first hinge is **the Principle of Sufficient Reason**. The cosmological argument's force depends entirely on whether the PSR is accepted. If every contingent fact requires an explanation, the universe's existence requires an external cause. If the universe can be a brute fact — existing without explanation — the entire cosmological family of arguments fails. The PSR cannot itself be proved without circularity; its denial cannot be shown to be incoherent. This is a bedrock metaphysical disagreement, not an empirical one, and neither side can compel the other without begging the question.
+The first hinge is **the Principle of Sufficient Reason**. The cosmological argument's force depends entirely on whether the PSR is accepted. If every contingent fact requires an explanation, the universe's existence requires an external cause. If the universe can be a brute fact (existing without explanation), the entire cosmological family of arguments fails. The PSR cannot itself be proved without circularity; its denial cannot be shown to be incoherent. This is a bedrock metaphysical disagreement, and neither side can compel the other without begging the question.
 
-The second hinge is **the evidential weight of the problem of evil vs. the positive arguments**. Both sides typically acknowledge this is a probabilistic dispute. The theist's positive arguments (cosmological, fine-tuning, moral) raise the probability of God's existence; the problem of evil and divine hiddenness lower it. The dispute is whether the net probability favors theism or naturalism. This requires assigning prior probabilities and likelihoods that are genuinely contested. Richard Swinburne argues the cumulative case tips toward theism; Graham Oppy argues the posterior probability of naturalism remains higher. There is no neutral algorithm for resolving this.
+The second hinge is **the evidential weight of the problem of evil against the positive arguments**. Both sides typically acknowledge this is a probabilistic dispute. The theist's positive arguments (cosmological, fine-tuning, moral) raise the probability of God's existence; the problem of evil and divine hiddenness lower it. The dispute is whether the net probability favors theism or naturalism. This requires assigning prior probabilities and likelihoods that are genuinely contested. Richard Swinburne argues the cumulative case tips toward theism; Graham Oppy argues the posterior probability of naturalism remains higher. There is no neutral algorithm for resolving this.
 
-The third hinge is **the relationship between mind and matter**. If physicalism is true and consciousness is fully explicable as a product of physical processes, the argument from physical minds is a genuine cost for theism. If consciousness is not fully physically explicable — if there is a "hard problem" (Chalmers) that physicalism cannot solve — then theism has explanatory resources naturalism lacks (an immaterial mind as the ground of being). The theist can run a consciousness argument: the existence of irreducible first-person experience is better explained by a universe whose ground is a mind than by a universe whose ground is mindless matter. The evidential force runs in opposite directions depending on whether the hard problem is real or dissoluble.
+The third hinge is **the relationship between mind and matter**. If physicalism is true and consciousness is fully explicable as a product of physical processes, the argument from physical minds is a genuine cost for theism. If consciousness is not fully physically explicable (if there is a "hard problem" per Chalmers that physicalism cannot solve), theism has explanatory resources naturalism lacks (an immaterial mind as the ground of being). The theist can run a consciousness argument: the existence of irreducible first-person experience is better explained by a universe whose ground is a mind than by a universe whose ground is mindless matter. The evidential force runs in opposite directions depending on whether the hard problem is real or dissoluble.
 
 ---
 
@@ -341,7 +341,7 @@ Craig, William Lane, and J.P. Moreland, eds. *The Blackwell Companion to Natural
 
 Craig, William Lane. *Reasonable Faith: Christian Truth and Apologetics*. 3rd ed. Wheaton, IL: Crossway, 2008.
 
-Draper, Paul. "Pain and Pleasure: An Evidential Problem for Theists." *Noûs* 23, no. 3 (1989): 331–350.
+Draper, Paul. "Pain and Pleasure: An Evidential Problem for Theists." *Nous* 23, no. 3 (1989): 331-350.
 
 Mackie, J.L. *The Miracle of Theism: Arguments For and Against the Existence of God*. Oxford: Clarendon Press, 1982.
 
@@ -353,7 +353,7 @@ Plantinga, Alvin. *Warranted Christian Belief*. Oxford: Oxford University Press,
 
 Plantinga, Alvin. "Naturalism Defeated?" Manuscript, 1994. Revised and published in *Naturalism Defeated? Essays on Plantinga's Evolutionary Argument Against Naturalism*, edited by James Beilby. Ithaca, NY: Cornell University Press, 2002.
 
-Rowe, William L. "The Problem of Evil and Some Varieties of Atheism." *American Philosophical Quarterly* 16, no. 4 (1979): 335–341.
+Rowe, William L. "The Problem of Evil and Some Varieties of Atheism." *American Philosophical Quarterly* 16, no. 4 (1979): 335-341.
 
 Schellenberg, J.L. *Divine Hiddenness and Human Reason*. Ithaca, NY: Cornell University Press, 1993.
 
@@ -363,6 +363,6 @@ Swinburne, Richard. *Is There a God?* Rev. ed. Oxford: Oxford University Press, 
 
 Van Inwagen, Peter. *The Problem of Evil*. Oxford: Clarendon Press, 2006.
 
-Wykstra, Stephen J. "The Humean Obstacle to Evidential Arguments from Suffering: On Avoiding the Evils of 'Appearance'." *International Journal for Philosophy of Religion* 16, no. 2 (1984): 73–93.
+Wykstra, Stephen J. "The Humean Obstacle to Evidential Arguments from Suffering: On Avoiding the Evils of 'Appearance'." *International Journal for Philosophy of Religion* 16, no. 2 (1984): 73-93.
 
 </details>
