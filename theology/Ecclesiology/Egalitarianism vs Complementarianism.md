@@ -16,12 +16,12 @@ tags: [ecclesiology, theology, women-in-ministry, egalitarian, complementarian, 
 - [Foundational Assumptions](#foundational-assumptions)
 - [Position A: Egalitarianism](#position-a-egalitarianism-strongest-case)
   - [Arguments](#argument-1-galatians-328-and-the-new-creation-order)
-  - [Critiques of Complementarianism](#position-a--critique-of-position-b)
-  - [Rebuttals](#position-a--rebuttals-to-position-b)
+  - [Critiques of Complementarianism](#position-a-critique-of-position-b)
+  - [Rebuttals](#position-a-rebuttals-to-position-b)
 - [Position B: Complementarianism](#position-b-complementarianism-strongest-case)
   - [Arguments](#argument-1-1-timothy-212-and-creational-order)
-  - [Critiques of Egalitarianism](#position-b--critique-of-position-a)
-  - [Rebuttals](#position-b--rebuttals-to-position-a)
+  - [Critiques of Egalitarianism](#position-b-critique-of-position-a)
+  - [Rebuttals](#position-b-rebuttals-to-position-a)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -145,7 +145,7 @@ Acts 2:17–18 quotes Joel 2:28–29 as being fulfilled at Pentecost: "Your sons
 
 ---
 
-## Position A,  Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Creation Grounding Is Asserted, Not Demonstrated
 
@@ -185,7 +185,7 @@ Complementarians treat *mias gunaikos andra* (1 Timothy 3:2; Titus 1:6) as requi
 
 ---
 
-## Position A,  Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: The Creation-Order Argument in 1 Timothy 2 Revisited
 
@@ -291,7 +291,7 @@ Across the entire New Testament, every named elder, overseer, and bishop is male
 
 ---
 
-## Position B,  Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Galatians 3:28 Is Soteriological, Not Ecclesiological
 
@@ -343,7 +343,7 @@ Egalitarians cite Phoebe, Junia, Priscilla, and Philip's daughters as evidence f
 
 ---
 
-## Position B,  Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: 1 Corinthians 11 and Head-Covering Revisited
 
