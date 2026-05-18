@@ -513,7 +513,7 @@ Travis, Stephen H. *Christ and the Judgment of God: The Limits of Divine Retribu
 
 Aquinas, Thomas. *Summa Theologica*. Ia-IIae, q. 87; Supplement, qq. 97–99. Translated by the Fathers of the English Dominican Province. New York: Benziger, 1947. Primary source for medieval ECT; argues eternal punishment follows from the infinite offense of sin against God.
 
-Burkitt, William. *Expository Notes with Practical Observations on the New Testament*. London, 1700. Classic Puritan exegetical source for ECT on key judgment texts.
+Burkitt, William. *Expository Notes with Practical Observations on the New Testament*. London, 1700–1703. Classic Puritan exegetical source for ECT on key judgment texts.
 
 Chan, Francis, and Preston Sprinkle. *Erasing Hell: What God Said about Eternity and the Things We've Made Up*. Colorado Springs: David C. Cook, 2011. Popular-level defense of ECT against universalist and conditionalist alternatives; widely read.
 
