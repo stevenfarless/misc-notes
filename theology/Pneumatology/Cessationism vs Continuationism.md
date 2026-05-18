@@ -16,12 +16,12 @@ tags: [ecclesiology, pneumatology, spiritual-gifts, cessationism, continuationis
 - [Foundational Assumptions](#foundational-assumptions)
 - [Position A: Cessationism](#position-a-cessationism-strongest-case)
   - [Arguments](#argument-1-the-foundational-and-confirmatory-purpose-of-the-sign-gifts)
-  - [Critiques of Continuationism](#position-a--critique-of-position-b)
-  - [Rebuttals](#position-a--rebuttals-to-position-b)
+  - [Critiques of Continuationism](#position-a-critique-of-position-b)
+  - [Rebuttals](#position-a-rebuttals-to-position-b)
 - [Position B: Continuationism](#position-b-continuationism-strongest-case)
   - [Arguments](#argument-1-no-cessation-text-exists)
-  - [Critiques of Cessationism](#position-b--critique-of-position-a)
-  - [Rebuttals](#position-b--rebuttals-to-position-a)
+  - [Critiques of Cessationism](#position-b-critique-of-position-a)
+  - [Rebuttals](#position-b-rebuttals-to-position-a)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -145,7 +145,7 @@ The New Testament apostolic healings were immediate, total, and unconditional: P
 
 ---
 
-## Position A -- Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Continuationism Cannot Account for the Absence of Genuine Apostolic-Quality Gifts
 
@@ -185,7 +185,7 @@ If prophecy continues today, the church needs a way to distinguish genuine Spiri
 
 ---
 
-## Position A -- Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: The "No Cessation Text" Argument Revisited
 
@@ -291,7 +291,7 @@ Paul's extended treatment of spiritual gifts in 1 Corinthians 12-14 is written a
 
 ---
 
-## Position B -- Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Ephesians 2:20 Cannot Carry the Cessationist Weight Placed on It
 
@@ -331,7 +331,7 @@ Cessationists argue that ongoing prophecy conflicts with the sufficiency of Scri
 
 ---
 
-## Position B -- Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: Hebrews 2:3-4 Revisited
 
