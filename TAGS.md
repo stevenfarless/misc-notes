@@ -1,7 +1,7 @@
 # Tag Index
 
 > Auto-generated on every push to `main`. Do not edit by hand.
-> **85 tags** across all notes.
+> **87 tags** across all notes.
 
 | Tag | Files |
 |-----|-------|
@@ -46,6 +46,7 @@
 | `existence-of-god` | [Theism vs Atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Theism%20vs%20Atheism.md) |
 | `final-punishment` | [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Eschatology/Eternal%20Conscious%20Torment%20vs%20Annihilation.md) |
 | `foreknowledge` | [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md) |
+| `free-will` | [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md) |
 | `grace` | [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md), [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `hell` | [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Eschatology/Eternal%20Conscious%20Torment%20vs%20Annihilation.md) |
 | `hermeneutics` | [Plenary Inerrancy vs Limited Inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/Bibliology/Plenary%20Inerrancy%20vs%20Limited%20Inerrancy.md), [Egalitarianism vs Complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Egalitarianism%20vs%20Complementarianism.md), [Dispensationalism vs. Covenant Theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hermeneutics/Dispensationalism%20vs.%20Covenant%20Theology.md), [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md), [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
@@ -65,6 +66,7 @@
 | `omniscience` | [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md) |
 | `ontological-argument` | [Theism vs Atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Theism%20vs%20Atheism.md) |
 | `open-theism` | [Classical Theism vs Open Theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Classical%20Theism%20vs%20Open%20Theism.md) |
+| `perseverance` | [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md) |
 | `philippians-2` | [Chalcedonian Christology vs Kenotic Christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Christology/Chalcedonian%20Christology%20vs%20Kenotic%20Christology.md) |
 | `pneumatology` | [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md) |
 | `problem-of-evil` | [Theism vs Atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Theology%20Proper/Theism%20vs%20Atheism.md) |
