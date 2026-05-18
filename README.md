@@ -107,33 +107,27 @@ related:
 The tree below is auto-regenerated on every push to `main` by `.github/workflows/update-readme.yml`.
 
 <!-- TREE_START -->
-- **Religions/**
-    - [Islam vs Christianity](https://github.com/stevenfarless/misc-notes/blob/main/Religions/Islam%20vs%20Christianity.md)
+- **religions/**
+    - [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md)
 - **theology/**
-  - **Anthropology/**
-      - [Monism vs Dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Anthropology/Monism%20vs%20Dualism.md)
   - **anthropology/**
       - [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md)
   - **bibliology/**
       - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
-  - **Bibliology/**
-      - [Plenary Inerrancy vs Limited Inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/Bibliology/Plenary%20Inerrancy%20vs%20Limited%20Inerrancy.md)
-  - **Christology/**
-      - [Chalcedonian Christology vs Kenotic Christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Christology/Chalcedonian%20Christology%20vs%20Kenotic%20Christology.md)
-  - **Church History/**
-      - [Was the Reformation Necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/Church%20History/Was%20the%20Reformation%20Necessary.md)
-  - **Ecclesiology/**
-      - [Egalitarianism vs Complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Ecclesiology/Egalitarianism%20vs%20Complementarianism.md)
-  - **Eschatology/**
-      - [Eternal Conscious Torment vs Annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/Eschatology/Eternal%20Conscious%20Torment%20vs%20Annihilation.md)
-  - **Hermeneutics/**
-      - [Dispensationalism vs. Covenant Theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/Hermeneutics/Dispensationalism%20vs.%20Covenant%20Theology.md)
-  - **Pneumatology/**
-      - [Cessationism vs Continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Pneumatology/Cessationism%20vs%20Continuationism.md)
+  - **christology/**
+      - [chalcedonian-christology-vs-kenoti-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenoti-christology.md)
+  - **church-history/**
+      - [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md)
+  - **ecclesiology/**
+      - [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md)
+  - **eschatology/**
+      - [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md)
+  - **hermeneutics/**
+      - [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md)
+  - **pneumatology/**
+      - [cessationism-vs-continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/cessationism-vs-continuationism.md)
   - **soteriology/**
       - [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md)
-  - **Soteriology/**
-      - [Calvinism vs Arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Soteriology/Calvinism%20vs%20Arminianism.md)
   - **theology-proper/**
       - [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md)
       - [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md)
