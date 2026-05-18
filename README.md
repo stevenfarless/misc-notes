@@ -5,6 +5,8 @@ Private notebook for misc notes, documents, and article backups.
 ---
 
 <!-- TREE_START -->
+- **Religions/**
+    - [Islam vs Christianity](https://github.com/stevenfarless/misc-notes/blob/main/Religions/Islam%20vs%20Christianity.md)
 - **theology/**
   - **Anthropology/**
       - [Monism vs Dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/Anthropology/Monism%20vs%20Dualism.md)
