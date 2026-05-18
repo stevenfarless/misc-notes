@@ -16,12 +16,12 @@ tags: [church-history, reformation, catholicism, protestantism, sola-scriptura, 
 - [Foundational Assumptions](#foundational-assumptions)
 - [Position A: The Reformation Was Necessary](#position-a-the-reformation-was-necessary-strongest-case)
   - [Arguments](#argument-1-the-reformation-addressed-doctrinal-corruption-that-became-systemic)
-  - [Critiques of Position B](#position-a--critique-of-position-b)
-  - [Rebuttals](#position-a--rebuttals-to-position-b)
+  - [Critiques of Position B](#position-a-critique-of-position-b)
+  - [Rebuttals](#position-a-rebuttals-to-position-b)
 - [Position B: The Reformation Was Not Necessary](#position-b-the-reformation-was-not-necessary-strongest-case)
   - [Arguments](#argument-1-the-catholic-church-already-had-internal-reform-capacity)
-  - [Critiques of Position A](#position-b--critique-of-position-a)
-  - [Rebuttals](#position-b--rebuttals-to-position-a)
+  - [Critiques of Position A](#position-b-critique-of-position-a)
+  - [Rebuttals](#position-b-rebuttals-to-position-a)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -147,7 +147,7 @@ This claim is not refuted just because Protestantism later fragmented. A movemen
 
 ---
 
-## Position A -- Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Internal Reform Had Already Failed
 
@@ -187,7 +187,7 @@ If Trent had simply clarified language while preserving the substance of sola fi
 
 ---
 
-## Position A -- Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: Corruption Was Not Merely Moral
 
@@ -275,7 +275,7 @@ In other words, Trent's condemnations show doctrinal disagreement, but doctrinal
 
 ---
 
-## Position B -- Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Sola Scriptura Undercuts the Very Authority Needed for Reform
 
@@ -303,7 +303,7 @@ Catholic critics argue that Trent did not reject grace, faith, or Christ's work.
 
 ---
 
-## Position B -- Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: Abuse Does Not Equal Total Corruption
 
