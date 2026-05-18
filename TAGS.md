@@ -1,14 +1,14 @@
 # Tag Index
 
 > Auto-generated on every push to `main`. Do not edit by hand.
-> **87 tags** across all notes.
+> **88 tags** across all notes.
 
 | Tag | Files |
 |-----|-------|
 | `Chicago-Statement` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
 | `ECT` | [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md) |
 | `EFS` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
-| `ESS` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
+| `ERAS` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `TULIP` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `annihilationism` | [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md) |
 | `anthropology` | [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md) |
@@ -16,6 +16,7 @@
 | `arminianism` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `atheism` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `authority` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
+| `authority-submission` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `bibliology` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
 | `calvinism` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `catholicism` | [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md) |
@@ -25,7 +26,7 @@
 | `christology` | [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md), [chalcedonian-christology-vs-kenoti-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenoti-christology.md) |
 | `church` | [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md) |
 | `church-history` | [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md) |
-| `classical-theism` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md), [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
+| `classical-theism` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
 | `communicatio-idiomatum` | [chalcedonian-christology-vs-kenoti-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenoti-christology.md) |
 | `comparative-religion` | [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md) |
 | `complementarian` | [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md) |
@@ -41,7 +42,7 @@
 | `egalitarian` | [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md) |
 | `election` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `eschatology` | [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md), [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md), [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md) |
-| `eternal-subordination` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
+| `eternal-generation` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `existence-of-god` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `final-punishment` | [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md) |
 | `foreknowledge` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
@@ -63,6 +64,7 @@
 | `monism` | [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md) |
 | `moral-argument` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `natural-theology` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
+| `nicene-orthodoxy` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `omniscience` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
 | `ontological-argument` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `open-theism` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
@@ -88,7 +90,6 @@
 | `theology` | [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md), [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md), [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md), [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md), [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `theology-proper` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md), [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md), [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `trent` | [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md) |
-| `trinitarian-relations` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `trinity` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `two-natures` | [chalcedonian-christology-vs-kenoti-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenoti-christology.md) |
 | `women-in-ministry` | [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md) |
