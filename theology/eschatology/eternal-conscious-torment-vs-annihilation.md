@@ -2,9 +2,9 @@
 title: Eternal Conscious Torment vs. Conditional Immortality / Annihilationism
 tags: [eschatology, theology, annihilationism, conditional-immortality, ECT, hell, final-punishment]
 related:
-  - theology/Anthropology/Monism vs Dualism.md
-  - theology/Soteriology/Calvinism vs Arminianism.md
-  - theology/Hermeneutics/Dispensationalism vs Covenant Theology.md
+  - theology/anthropology/monism-vs-dualism.md
+  - theology/soteriology/calvinism-vs-arminianism.md
+  - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
 ---
 
 # Eternal Conscious Torment vs. Conditional Immortality / Annihilationism
