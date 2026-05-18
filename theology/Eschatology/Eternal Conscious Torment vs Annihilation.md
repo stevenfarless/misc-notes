@@ -41,11 +41,11 @@ related:
 
 Both positions affirm core Christian commitments: God's holiness demands judgment, all face resurrection and accountability, sin merits wrath, and Scripture alone settles the matter. They share strict literal-grammatical-historical hermeneutics. Conditionalists take *death/destroy* at face value unless grammar or context demands otherwise, reading Revelation through OT precedents. Traditionalists apply the same to torment texts and Matthew 25:46's syntax, treating symbols per their genre cues.
 
-This document maps their strongest cases, arguments from text patterns, rebuttals to key verses, live disputes on hermeneutical priority — without resolution, so readers weigh the evidence themselves.
+This document maps their strongest cases, arguments from text patterns, rebuttals to key verses, live disputes on hermeneutical priority, without resolution, so readers weigh the evidence themselves.
 
 The debate sits mainly in **textual theology**, because the question turns on how biblical language, genre, and canonical patterns describe the final fate of the wicked. The relevant evidence is the text itself, along with lexical usage, syntax, literary genre, and intertextual patterns between Old and New Testament judgment passages.
 
-**Historical theology** also matters, since patristic precedent and confessional tradition show how Christians have read these texts over time. **Philosophical theology** matters too, but only at the level of coherence — it can test whether a proposed reading of punishment, immortality, or personhood fits the biblical case.
+**Historical theology** also matters, since patristic precedent and confessional tradition show how Christians have read these texts over time. **Philosophical theology** matters too, but only at the level of coherence, it can test whether a proposed reading of punishment, immortality, or personhood fits the biblical case.
 
 The live disagreements are fairly specific. The two sides dispute which texts should function as anchors, whether *eternal* points to a process or a result, how much weight ordinary death-language should carry against explicit torment-language, and whether punishment requires a continuing subject.
 
@@ -117,7 +117,7 @@ Conditionalism starts here: eternal life is not presented as a built-in human po
 
 ## Argument 2: Cumulative Destruction Language
 
-The conditionalist case also depends on accumulation. Scripture does not use just one death word in one passage — it keeps returning to *perish*, *destroy*, *death*, *consume*, and *second death*. Any single term can have a range, but a repeated cluster of the same kind of language creates a strong presumption.
+The conditionalist case also depends on accumulation. Scripture does not use just one death word in one passage, it keeps returning to *perish*, *destroy*, *death*, *consume*, and *second death*. Any single term can have a range, but a repeated cluster of the same kind of language creates a strong presumption.
 
 > **P1:** *Perish*, *destroy*, *death*, and *second death* cluster across judgment texts.
 >
@@ -145,7 +145,7 @@ Revelation adds another layer, because it is saturated with symbolic vision lang
 
 > **P1:** Revelation uses symbolic vision language saturated with Old Testament judgment imagery.
 >
-> **P2:** Old Testament sources — smoke rising forever, worm, fire — often signify irreversible destruction, not perpetual torment.
+> **P2:** Old Testament sources, smoke rising forever, worm, fire, often signify irreversible destruction, not perpetual torment.
 >
 > **P3:** Revelation itself labels the lake of fire "the second death" for human beings.
 >
@@ -161,7 +161,7 @@ The main conditionalist criticism is that ECT often starts with a small number o
 
 > **P1:** ECT gives controlling authority to a narrow set of passages (Matthew 25; Revelation 14; Revelation 20).
 >
-> **P2:** Doing so requires interpreting many other judgment texts — death, perish, destroy, second death — as compatible with endless life in misery.
+> **P2:** Doing so requires interpreting many other judgment texts, death, perish, destroy, second death, as compatible with endless life in misery.
 >
 > **P3:** A theory that must consistently override ordinary lexical sense across many passages is textually costly.
 >
@@ -181,11 +181,11 @@ Conditionalists also argue that Matthew 25:46 does not settle the *mechanism* of
 
 ### Critique 3: Apocalyptic Symbolism Misapplied
 
-A further objection concerns Revelation. Conditionalists do not deny that the passage contains terrible imagery — they deny that the imagery should be flattened into one uniform model for every referent in the lake of fire. Death and Hades themselves are cast there, and that fact warns against reading every figure as if it were a conscious human subject.
+A further objection concerns Revelation. Conditionalists do not deny that the passage contains terrible imagery, they deny that the imagery should be flattened into one uniform model for every referent in the lake of fire. Death and Hades themselves are cast there, and that fact warns against reading every figure as if it were a conscious human subject.
 
 > **P1:** Revelation interprets its own symbols, and *second death* is the text's gloss for the human case.
 >
-> **P2:** Transferring the devil's torment imagery uniformly to all lake-of-fire entrants ignores that Death and Hades — non-conscious entities — are also cast there.
+> **P2:** Transferring the devil's torment imagery uniformly to all lake-of-fire entrants ignores that Death and Hades, non-conscious entities, are also cast there.
 >
 > **P3:** Shared imagery does not imply identical experience for every referent in the vision.
 >
@@ -217,7 +217,7 @@ Conditionalists answer Matthew 25:46 by separating permanence from mechanism. Th
 >
 > **P3:** A reading in which the wicked receive irreversible death preserves both the verse's eternality and the broader life-versus-death pattern.
 >
-> **C:** Conditionalism does not negate Matthew 25:46 — it supplies a mechanism consistent with the rest of Scripture.
+> **C:** Conditionalism does not negate Matthew 25:46, it supplies a mechanism consistent with the rest of Scripture.
 
 ### Rebuttal 2: Revelation 14 Revisited
 
@@ -299,7 +299,7 @@ A second traditionalist pressure point is conceptual. Punishment normally implie
 
 ## Argument 4: Destruction as Ruin
 
-Traditionalists also answer the destruction language directly. They do not need to deny that Scripture speaks of destruction — they only need to show that *destruction* can mean ruin, devastation, or loss without implying extinction.
+Traditionalists also answer the destruction language directly. They do not need to deny that Scripture speaks of destruction, they only need to show that *destruction* can mean ruin, devastation, or loss without implying extinction.
 
 > **P1:** Biblical language of destruction can denote ruin, devastation, or loss of well-being without implying nonexistence.
 >
@@ -367,7 +367,7 @@ Traditionalists also argue that final extinction feels too thin for the language
 
 ### Rebuttal 1: Canonical Prioritization
 
-Traditionalists answer by saying that they are not ignoring the broader canon — they are prioritizing the clearer texts. If a passage directly says *torment forever and ever*, it should guide the reading of texts whose language could mean destruction or ruin in more than one way.
+Traditionalists answer by saying that they are not ignoring the broader canon, they are prioritizing the clearer texts. If a passage directly says *torment forever and ever*, it should guide the reading of texts whose language could mean destruction or ruin in more than one way.
 
 > **P1:** Explicit torment texts are more determinate on consciousness and duration than destruction texts.
 >
@@ -393,7 +393,7 @@ Traditionalists also push back on the result-language move. Even if eternal puni
 
 Traditionalists grant that Revelation is symbolic, then add that symbols still communicate real content. Genre changes the mode of presentation, not the substance of what is being presented.
 
-> **P1:** Symbols communicate substantive realities — genre shifts mode of presentation, not content.
+> **P1:** Symbols communicate substantive realities, genre shifts mode of presentation, not content.
 >
 > **P2:** *Torment* plus *no rest* plus *forever-and-ever* is difficult to reconcile with extinction even allowing for symbolism.
 >
@@ -445,9 +445,9 @@ A third domain is **philosophical theology**. That is where the parties test cla
 
 **Eternal conscious torment** holds that all human beings are raised for final judgment and that the lost continue forever in a conscious state of punishment, exclusion, ruin, or torment. Traditionalist sources often reject the idea that this requires belief in an inherently indestructible soul, arguing instead that God can sustain the wicked in existence forever if he wills.
 
-**Death, destruction, perish, second death** — these are the most contested terms in the debate. Conditionalists argue that they retain their ordinary force and point to actual final death, while traditionalists argue that biblical destruction language can denote ruin, devastation, exclusion, or loss without implying cessation of existence.
+**Death, destruction, perish, second death**, these are the most contested terms in the debate. Conditionalists argue that they retain their ordinary force and point to actual final death, while traditionalists argue that biblical destruction language can denote ruin, devastation, exclusion, or loss without implying cessation of existence.
 
-**Eternal punishment** — traditionalists generally read this as punishment that continues forever. Conditionalists argue that deverbal nouns can denote the result of an act, so *eternal punishment* may mean a punishment whose effect is permanent, analogous to irreversible capital punishment.
+**Eternal punishment**, traditionalists generally read this as punishment that continues forever. Conditionalists argue that deverbal nouns can denote the result of an act, so *eternal punishment* may mean a punishment whose effect is permanent, analogous to irreversible capital punishment.
 
 ---
 
@@ -455,9 +455,9 @@ A third domain is **philosophical theology**. That is where the parties test cla
 
 The strongest case for conditional immortality is cumulative. Scripture repeatedly presents the final alternatives as life for the saved and death, destruction, perishing, and second death for the wicked, so the default inference is that the wicked do not live forever in any form.
 
-The first argument is straightforward: Scripture presents eternal life as a gift rather than a universal human possession. If that is true, the lost are not being denied a life they already naturally possess — they are being denied the gift itself.
+The first argument is straightforward: Scripture presents eternal life as a gift rather than a universal human possession. If that is true, the lost are not being denied a life they already naturally possess, they are being denied the gift itself.
 
-The fourth argument comes from genre. Revelation is not written like a legal code or a straightforward doctrinal summary. It is symbolic vision literature, saturated with Old Testament judgment imagery. Conditionalists argue that this matters a great deal when the text speaks of fire, smoke, worm, and the second death — and that Revelation's own label for the lake of fire governs its interpretation.
+The fourth argument comes from genre. Revelation is not written like a legal code or a straightforward doctrinal summary. It is symbolic vision literature, saturated with Old Testament judgment imagery. Conditionalists argue that this matters a great deal when the text speaks of fire, smoke, worm, and the second death, and that Revelation's own label for the lake of fire governs its interpretation.
 
 ---
 
