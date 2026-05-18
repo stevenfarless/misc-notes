@@ -2,8 +2,8 @@
 title: Chalcedonian Christology vs. Kenotic Christology
 tags: [christology, incarnation, chalcedon, kenosis, two-natures, philippians-2, communicatio-idiomatum]
 related:
-  - theology/Theology Proper/Eternal Functional Subordination vs Classical Trinitarian Relations.md
-  - theology/Soteriology/Calvinism vs Arminianism.md
+  - theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md
+  - theology/soteriology/calvinism-vs-arminianism.md
 ---
 
 # Chalcedonian Christology vs. Kenotic Christology
