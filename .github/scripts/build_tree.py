@@ -4,7 +4,7 @@ from urllib.parse import quote
 
 BASEURL = "/misc-notes"
 
-IGNORE = {".git", ".github", "README.md"}
+IGNORE = {".git", ".github", "README.md", "_config.yml", "index.md"}
 
 
 def build_tree(root=".", depth=0, rel_path=""):
