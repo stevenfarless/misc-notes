@@ -370,7 +370,7 @@ However, the entailment does not run cleanly in both directions. Some conditiona
 
 The cleanest connection is between **Platonic substance dualism** and **ECT**: if the soul is naturally immortal and incapable of annihilation, ECT follows almost automatically, since the soul cannot simply cease. Break the natural immortality assumption and ECT requires additional positive warrant.
 
-See also: `theology/Hell/ECT vs CI.md`
+See also: `theology/Eschatology/Eternal Conscious Torment vs Annihilation.md`
 
 ---
 
