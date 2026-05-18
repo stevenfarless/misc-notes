@@ -19,12 +19,12 @@ related:
 - [Foundational Assumptions](#foundational-assumptions)
 - [Position A: Chalcedonian Christology](#position-a-chalcedonian-christology-strongest-case)
   - [Arguments](#argument-1-the-new-testament-requires-full-deity-and-full-humanity-without-mixture)
-  - [Critiques of Kenotic Christology](#position-a--critique-of-position-b)
-  - [Rebuttals](#position-a--rebuttals-to-position-b)
+  - [Critiques of Kenotic Christology](#position-a-critique-of-position-b)
+  - [Rebuttals](#position-a-rebuttals-to-position-b)
 - [Position B: Kenotic Christology](#position-b-kenotic-christology-strongest-case)
   - [Arguments](#argument-1-philippians-2-describes-a-real-self-emptying)
-  - [Critiques of Chalcedonian Christology](#position-b--critique-of-position-a)
-  - [Rebuttals](#position-b--rebuttals-to-position-a)
+  - [Critiques of Chalcedonian Christology](#position-b-critique-of-position-a)
+  - [Rebuttals](#position-b-rebuttals-to-position-a)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -140,7 +140,7 @@ Texts like Mark 13:32, where the Son does not know the day or hour, are real and
 
 ---
 
-## Position A -- Critique of Position B
+## Position A: Critique of Position B
 
 ### Critique 1: Kenotic Christology Risks Ontological Reduction of Deity
 
@@ -164,7 +164,7 @@ Once one says the Son surrendered or suspended one divine attribute in the incar
 >
 > **P3:** The result is a potentially unstable doctrine with no clear stopping point.
 >
-> **C:** Kenotic Christology lacks a sufficiently stable principle for distinguishing permissible incarnation-related limitation from impermissible reduction of deity.
+> **C:** Kenotic Christology lacks a sufficiently stable principle for distinguishing permissible incarnation-limit from impermissible reduction of deity.
 
 ### Critique 3: The Biblical Pattern Includes Manifestations of Divine Authority During the Incarnate Life
 
@@ -180,7 +180,7 @@ Jesus forgives sins, commands nature, knows hearts, receives worship, and exerci
 
 ---
 
-## Position A -- Rebuttals to Position B
+## Position A: Rebuttals to Position B
 
 ### Rebuttal 1: Taking the Humanity Seriously Does Not Require Subtracting from Deity
 
@@ -262,7 +262,7 @@ The incarnation is not only the addition of a human nature while everything else
 
 ---
 
-## Position B -- Critique of Position A
+## Position B: Critique of Position A
 
 ### Critique 1: Chalcedon Often Functions as a Boundary Formula Rather Than an Explanatory Account
 
@@ -290,7 +290,7 @@ A recurring concern in non-kenotic Christology is that the incarnate life begins
 
 ---
 
-## Position B -- Rebuttals to Position A
+## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: Not All Kenotic Models Surrender Attributes Ontologically
 
