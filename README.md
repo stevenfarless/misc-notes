@@ -109,6 +109,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
 <!-- TREE_START -->
 - **religions/**
     - [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md)
+    - [judaism-vs-christianity-messianic-prophecy](https://github.com/stevenfarless/misc-notes/blob/main/religions/judaism-vs-christianity-messianic-prophecy.md)
 - **theology/**
   - **anthropology/**
       - [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md)
