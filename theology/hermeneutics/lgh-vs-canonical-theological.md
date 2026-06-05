@@ -36,7 +36,7 @@ This debate is methodological before it is doctrinal. The dispute is not over wh
 
 The main body of evidence is the New Testament's use of the Old Testament. Matthew applies Hosea 11:1 to Jesus, although Hosea is plainly speaking of Israel's exodus. Paul in Galatians 3 places unusual weight on the singular form of "seed" in the Abrahamic promise. Hebrews reads Psalm 2, Psalm 8, Psalm 95, and Jeremiah 31 in ways that go beyond a narrowly contextual reading. The question is not whether these uses occur; the question is what hermeneutical account can explain them without making interpretation arbitrary.
 
-This debate also shapes several other disputes. It affects how prophecy and fulfillment are understood, how typology functions, how the church relates to Israel, and whether the New Testament is clarifying the Old Testament or reframing it. In your repo, this file sits underneath the debates on dispensationalism and covenant theology, and it also connects directly to the Judaism vs. Christianity file on messianic prophecy.
+This debate also shapes several other disputes. It affects how prophecy and fulfillment are understood, how typology functions, how the church relates to Israel, and whether the New Testament is clarifying the Old Testament or reframing it.
 
 ---
 
