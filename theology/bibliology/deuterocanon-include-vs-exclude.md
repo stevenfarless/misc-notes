@@ -1,6 +1,6 @@
 ---
-title: Deuterocanon: Include vs. Exclude
-tags: [canon, deuterocanon, apocrypha, old-testament, scripture, catholic, protestant, catholic-church, reformation, trent, septuagint, masoretic-text]
+title: "Deuterocanon: Include vs. Exclude"
+tags: [canon, deuterocanon, apocrypha, old-testament, scripture, catholic, protestant, reformation, trent, septuagint, masoretic-text]
 ---
 
 [Part One: Debate Outline](#part-one-debate-outline)
@@ -48,9 +48,9 @@ Evidence includes:
 
 **Deuterocanon**: Books included in the Septuagint but not in the Masoretic Text. Also called Apocrypha by Protestants. The term means "belonging to a second canon."
 
-**Masoretic Text**: The standardized Hebrew text of the Old Testament, finalized by Jewish scribes around the 7th–10th centuries CE. Forms the basis for the Protestant Old Testament.
+**Masoretic Text**: The standardized Hebrew text of the Old Testament, finalized by Jewish scribes around the 7th-10th centuries CE. Forms the basis for the Protestant Old Testament.
 
-**Septuagint**: The Greek translation of the Old Testament, produced around the 3rd–2nd centuries BCE. Includes the deuterocanonical books and was the primary Old Testament text used by the early church.
+**Septuagint**: The Greek translation of the Old Testament, produced around the 3rd-2nd centuries BCE. Includes the deuterocanonical books and was the primary Old Testament text used by the early church.
 
 **Apocrypha**: Literally "hidden." Protestant term for the deuterocanonical books, often implying they are not Scripture.
 
