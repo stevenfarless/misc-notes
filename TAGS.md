@@ -18,7 +18,7 @@
 | `atheism` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `authority` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
 | `authority-submission` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
-| `bibliology` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
+| `bibliology` | [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md), [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
 | `calvinism` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `canon` | [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md) |
 | `catholic` | [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md) |
