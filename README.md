@@ -4,14 +4,6 @@ Research notebook for theological and comparative-religion debate notes. Each fi
 
 ---
 
-## Purpose
-
-This repo exists to maintain rigorous, source-grounded notes on theological debates rather than accumulating disconnected reading highlights. The bilateral format forces engagement with the best form of each position rather than strawmen. Notes are intended to be revised as understanding develops, not treated as settled positions.
-
-Notes treat both sides of any debate with scholarly rigor without artificially balancing them.
-
----
-
 ## Document Structure
 
 Every debate file follows the same structure:
