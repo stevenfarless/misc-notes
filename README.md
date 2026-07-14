@@ -109,7 +109,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md)
       - [majority-text-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/majority-text-vs-critical-text.md)
       - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
-      - [Textus Receptus vs Critical Text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/Textus%20Receptus%20vs%20Critical%20Text.md)
+      - [textus-receptus-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/textus-receptus-vs-critical-text.md)
   - **christology/**
       - [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md)
   - **church-history/**
