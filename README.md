@@ -129,5 +129,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md)
       - [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md)
       - [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md)
+- **topic-studies/**
+    - [f](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/f)
   - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
