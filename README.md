@@ -131,6 +131,5 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md)
 - **topic-studies/**
     - [cannibalism_in_the_bible](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/cannibalism_in_the_bible.md)
-    - [f](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/f)
   - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
