@@ -28,6 +28,7 @@ No single definition governs every passage. Literal report, prophetic threat, po
   - [The Institution Narratives and 1 Corinthians](#the-institution-narratives-and-1-corinthians)
   - [Pagan Accusations and Christian Replies](#pagan-accusations-and-christian-replies)
 - [History of Interpretation](#history-of-interpretation)
+- [Reception History Across Major Traditions](#reception-history-across-major-traditions)
 - [Canonical Synthesis](#canonical-synthesis)
 - [Conclusions](#conclusions)
 - [Passage Index](#passage-index)
@@ -219,6 +220,108 @@ Modern scholarship has expanded the questions asked of the material. Lasine exam
 
 These approaches do not eliminate covenant judgment from the texts. They challenge interpretations that allow covenant theology to absorb every other feature of the narratives and poems. Jeremiah’s announcement, Lamentations’ protest, Baruch’s confession, and Josephus’s moralizing history cannot be made to speak with one voice.
 
+## Reception History Across Major Traditions
+
+The reception history divides into two overlapping conversations. Jewish and Christian interpreters read the siege passages as accounts or warnings of covenant catastrophe. Christian traditions also disputed the meaning of John 6 and the Lord’s Supper. The second conversation eventually became much more confessional and technical than the first. A church’s language about presence, participation, sacrifice, and faith often determined how it distinguished the Eucharist from ordinary cannibalism.
+
+### Jewish Interpretation
+
+Rabbinic and medieval Jewish readings generally did not soften the bodily horror of the siege texts. *Eikhah Rabbah* connects Lamentations 4:10 with famine traditions and with the mothers of 2 Kings 6. Rashi’s gloss on Lamentations 4:10 is equally direct: compassionate women cooked their children, and the children became food during Jerusalem’s destruction.[^27] The interpretive question was usually not whether the words referred to cannibalism, but how the catastrophe related to Israel’s sin, divine judgment, the destruction of the temples, and the suffering of the innocent.
+
+The Christian use of Deuteronomy 28, Lamentations, and Josephus complicated later Jewish interpretation. Christian polemicists could cite the siege of Jerusalem as proof that the covenant curses had fallen decisively upon the Jewish people. Medieval Jewish commentators therefore read under conditions in which an exegetical claim could also function as an accusation against a living minority. Wendy Love Anderson has shown that some Jewish readings redirected attention toward famine as a human catastrophe and resisted the claim that the texts licensed permanent Christian condemnation of Jews.[^28]
+
+Jewish interpretation preserves a tension already present in Lamentations. The destruction may be confessed as judgment, but its extremity remains available for protest. The mothers and children do not disappear behind an abstract doctrine of retribution.
+
+### Syriac Christianity
+
+The accessible Syriac evidence is much fuller for the Eucharist than for the siege-cannibalism passages. Ephrem the Syrian approached the sacrament through poetry, typology, and paradox. Bread, body, fire, Spirit, and life remain distinct images while interpreting one another. His language is realistic, but he does not attempt a later scholastic account of substance and accidents. Sebastian Brock’s work on Ephrem’s Eucharistic hymns shows how Syriac theology could affirm the mystery through symbolic density rather than analytical definition.[^29]
+
+Jacob of Serugh is more explicit. In a homily on the mysteries, he says that the Holy Spirit descends upon the bread and wine and makes them the body and blood. He can even describe the church as a bride who eats the bridegroom, then immediately treats the event as unprecedented, life-giving, and sacramental. In another homily, the apostles eat Christ’s body while he remains alive and present with them.[^30] The imagery is deliberately startling. It does not describe the slaughter and consumption of an absent victim. It describes a mystery in which the living Christ gives himself.
+
+This tradition is useful because it does not escape the scandal by reducing body and blood to empty figures. Neither does it identify the Eucharist with ordinary anthropophagy. The difference lies in the giver, the mode of presence, the action of the Spirit, and the life granted to the communicant.
+
+### Greek and Byzantine Christianity
+
+Greek patristic interpretation also combined realism with a rejection of crude dismemberment. John Chrysostom read John 6 sacramentally and tied the gift of Christ’s flesh and blood to the incarnation. Christ became kin to humanity by sharing flesh and blood, then gave that same life-bearing flesh and blood to the church.[^31] Chrysostom did not treat the discourse as an invitation to consume pieces of a corpse.
+
+Cyril of Jerusalem instructed the newly baptized not to regard the consecrated bread and wine as bare elements. Sense still encounters bread and wine, but faith receives the body and blood of Christ.[^32] John of Damascus later explained the Eucharist through the action of the Holy Spirit and the use of familiar created things. God joins supernatural grace to ordinary eating and drinking so that human beings may receive what exceeds ordinary nature.[^33]
+
+Byzantine theology did not develop a single technical explanation identical to the Latin doctrine of transubstantiation. It nevertheless maintained that the Eucharistic gifts truly become or are the body and blood of Christ. Its characteristic vocabulary is mystery, transformation, participation, and the Spirit’s action. The cannibalism objection fails within that framework because the sacrament is not a repetition of Christ’s death or a division of his living body.
+
+### Medieval Latin Christianity
+
+Augustine supplied categories that shaped the Latin West for centuries. He rejected the interpretation of John 6 according to which Christ’s body would be cut into pieces and consumed like meat from a market. At the same time, he did not reduce the passage to a disposable metaphor. Eating Christ involves sacrament, faith, incorporation, and abiding within Christ’s body, the church.[^34] Augustine’s distinction between the visible sacrament and its spiritual reality later permitted sharply different medieval and Reformation appropriations.
+
+Thomas Aquinas gave the mature scholastic account. He affirmed the true presence of Christ and described the conversion of bread and wine as transubstantiation. Yet he also insisted that Christ is present in a manner proper to the sacrament, not as a body occupies an ordinary place. Aquinas explicitly says that the appearances of bread and wine remain partly because eating human flesh and drinking blood in their ordinary form would be horrible. The sacramental species conceal what would otherwise provoke revulsion and prevent the Eucharist from becoming ordinary flesh-eating.[^35]
+
+Medieval Latin interpretation therefore did not answer the cannibalism charge by weakening Eucharistic realism. It answered by defining a sacramental mode of presence. Christ is whole, living, and undivided. The host is broken, but Christ is not dismembered.
+
+### The Reformation
+
+The Reformation did not produce a single Protestant interpretation of sacred eating. The disputes concerned the authority of Christ’s words, the relation between sign and thing signified, Christ’s ascended body, the work of the Spirit, the faith of the recipient, and the sacrificial language of the Mass. “Literal” and “symbolic” are inadequate labels for the resulting positions.
+
+Luther insisted that Christ’s body and blood are truly given and received with the bread and wine. Calvin rejected both transubstantiation and a bare memorial, arguing that believers truly feed upon Christ through the Spirit. Other reformers gave greater weight to remembrance and ecclesial confession. All of these positions denied that the Supper is a fresh killing of Christ. Their disagreements concerned how the once-crucified and risen Christ gives himself to the church.
+
+The older siege texts continued to be read through covenant judgment and providence, especially where Deuteronomy 28 was compared with Kings, Lamentations, and Josephus. Reformation interpretation was strongest when it preserved those literary connections. It was weakest when it moved too quickly from corporate judgment to claims about the personal guilt of particular victims.
+
+### Roman Catholic Interpretation
+
+The Council of Trent responded to Reformation disputes by affirming that the whole substance of bread and wine is converted into Christ’s body and blood. The Catholic Church calls this change transubstantiation. Contemporary Catholic teaching continues to confess Christ as truly, really, and substantially present under the species of bread and wine.[^36]
+
+The same teaching excludes a crude cannibalistic account. Christ is present whole and entire under each species and in every part of each species. Breaking the consecrated bread does not divide Christ.[^37] The Eucharist makes present the one sacrifice of Christ sacramentally; it does not repeat his death as another act of slaughter.
+
+Catholic interpretation of John 6 normally gives the discourse strong Eucharistic force, though it does not isolate the sacrament from faith, incarnation, or ecclesial communion. Eating and drinking are reception of the living Christ under sacramental signs. The mode is real without being the ordinary biological consumption of human tissue.
+
+### Eastern Orthodox Interpretation
+
+Eastern Orthodox theology likewise confesses that the Eucharistic gifts truly become Christ’s body and blood. It usually places less weight on a mandatory philosophical explanation of the change. The epiclesis, the action of the Holy Spirit, the liturgy, and the mystery of communion supply the principal frame.[^38]
+
+John of Damascus remains an important witness. He connects the change of bread and wine with the Spirit’s action and with God’s practice of joining grace to familiar material things. Modern Orthodox catechetical sources retain that emphasis. Bread and wine are not reminders of an absent Christ. They are the mysteries through which the risen Christ gives his body and blood to the church.
+
+Orthodox interpretation therefore differs from memorialism without requiring communicants to imagine physical tissue, local dismemberment, or a repeated death. The Eucharist is an encounter with the living and glorified Christ.
+
+### Lutheran Interpretation
+
+The Augsburg Confession states that Christ’s body and blood are truly present and distributed in the Lord’s Supper. The Formula of Concord sharpens the claim by teaching oral reception by both worthy and unworthy communicants, while distinguishing the benefits received by faith from the judgment incurred through unbelief.[^39]
+
+Lutheran teaching rejects the idea that the elements are empty signs. It also rejects transubstantiation as the necessary explanation of Christ’s presence. Bread and wine remain, and Christ gives his body and blood according to his institution. The eating is oral and sacramental, not a metaphor for thought alone.
+
+This strong language can sound closest to a cannibalistic interpretation when removed from its confessional setting. Within Lutheran theology, however, Christ is neither killed again nor divided into pieces. His body and blood are received in the sacramental union established by his word.
+
+### Reformed Interpretation
+
+The Reformed tradition opposed both transubstantiation and a merely commemorative meal. Calvin described the Supper as a true and substantial communion with Christ, while locating Christ’s body in heaven and the believer’s participation in the work of the Holy Spirit. Faith does not merely remember an absent benefit. It receives Christ and the benefits of his death.[^40]
+
+The Belgic Confession describes the Supper as nourishment for those incorporated into Christ’s family. The Westminster Confession says that believers truly and really feed upon Christ, though not carnally or corporally. The signs remain bread and wine, while the thing signified is spiritually present to faith.[^41]
+
+Reformed interpretation of John 6 often begins with believing reception of Christ rather than with the sacramental act considered in isolation. Many Reformed writers nevertheless hear John 6 as compatible with the Supper because both concern the same reality: life-giving communion with the crucified and risen Christ. The rejection of cannibalism rests on the denial of local, carnal consumption, not on the denial of real participation.
+
+### Anglican Interpretation
+
+Article 28 of the Thirty-Nine Articles calls the Supper a participation in Christ’s body and blood for those who receive with faith. It rejects transubstantiation and states that Christ’s body is eaten in a heavenly and spiritual manner, with faith as the means of reception.[^42]
+
+That formula placed classical Anglican teaching near the Reformed tradition while retaining a strong sacramental vocabulary. Later Anglicanism developed a wider range of positions, from evangelical memorialism through Reformed spiritual presence to Anglo-Catholic accounts close to Roman Catholic Eucharistic realism. No single later Anglican interpretation can be inferred from the Articles alone.
+
+Across that range, responsible Anglican theology distinguishes Eucharistic eating from anthropophagy by denying that the rite involves a new death or the ordinary digestion of a human body.
+
+### Baptist Interpretation
+
+Baptist reception is also diverse. The Second London Baptist Confession of 1689 closely follows Westminster in describing the Supper as remembrance, spiritual nourishment, communion with Christ, and communion among believers. It rejects transubstantiation and says that worthy recipients feed upon Christ by faith rather than carnally or corporally.[^43]
+
+The *Baptist Faith and Message* uses simpler commemorative language: bread and the fruit of the vine memorialize Christ’s death and anticipate his return.[^44] Many Baptist churches emphasize proclamation, self-examination, congregational unity, and obedience rather than a technical doctrine of presence. Reformed Baptists preserve stronger language of spiritual feeding than many revivalist or low-church Baptist statements.
+
+It is therefore inaccurate to reduce the Baptist position to the claim that “nothing happens.” The common denominator is that Christ is not physically dismembered or consumed. The traditions differ over whether the meal is best described chiefly as memorial, ordinance, covenant communion, spiritual nourishment, or some combination of these.
+
+### Modern Critical Interpretation
+
+Modern critical scholarship has separated questions that confessional polemic often joined. One question concerns what John 6 meant within the Gospel’s literary and compositional history. Another concerns how early Christian communities connected the discourse with Eucharistic practice. A third concerns how later churches developed doctrines of presence. These inquiries overlap, but they are not identical.
+
+Some scholars regard John 6:51–58 as a Eucharistic development within the discourse. Others read the chapter as a coherent christological treatment of believing participation that also carries sacramental resonance. Literary studies examine misunderstanding, manna, incarnation, and abiding. Social-historical work studies meals, group identity, and the boundary-making force of accusations against Christians.
+
+Modern interpretation of the Hebrew Bible has also widened. Literary studies have examined the reversal of Solomon’s judgment in 2 Kings 6. Feminist, trauma-informed, and child-centered readings have challenged interpretations that assign shame almost entirely to starving women. Political readings have restored armies, rulers, blockade, and economic collapse to the center of the account. Recent work on prophetic cannibal imagery asks how rulers, empires, and communities are portrayed as bodies that consume or are consumed.
+
+These methods have not rendered theological interpretation obsolete. They have made it harder to speak responsibly without distinguishing textual claim, historical reconstruction, moral evaluation, and later doctrinal use. A full reception history would require more extensive work in untranslated Syriac, Greek, Latin, Hebrew, and vernacular sources. The survey here is representative, but it now covers the principal interpretive streams that shaped the subject.
+
 ## Canonical Synthesis
 
 The biblical material forms a related group rather than a uniform motif.
@@ -318,7 +421,6 @@ The sacrificial interpretation of the consumed child in 2 Kings 6 remains specul
 
 John 6 continues to support several substantial interpretations. A strongly Eucharistic reading, a primarily christological reading with Eucharistic resonance, and an intentionally multivalent reading all account for significant features of the text. The case for a harmlessly figurative reading is weaker because it does not adequately explain the discourse’s bodily intensity and narrative offense.
 
-The history of Jewish, Syriac, Byzantine, medieval Latin, Reformation, Catholic, Orthodox, Lutheran, Reformed, Anglican, Baptist, and modern critical interpretation has not been treated exhaustively here. The present source base supports a selective survey rather than a complete reception history.
 
 ## Bibliography
 
@@ -338,6 +440,10 @@ Josephus. *The Jewish War*. 6.201–213. Translated by William Whiston.
 
 Anderson, Wendy Love. “Parents Eating Their Children: The Torah’s Curse and Its Undertones in Medieval Interpretation.” *TheTorah.com*. 2018, updated 2026.
 
+
+*Eikhah Rabbah*. 4.14. Sefaria Library. https://www.sefaria.org/Eikhah_Rabbah.4.14.
+
+Rashi. Commentary on Lamentations 4:10. Sefaria Library. https://www.sefaria.org/Lamentations.4.10?with=Commentary.
 ### Early Christian Sources
 
 Athenagoras. *A Plea for the Christians*. Chapter 3.
@@ -348,12 +454,26 @@ Minucius Felix. *Octavius*. Chapter 9.
 
 Tertullian. *Apology*. Chapter 7.
 
+
+Augustine. *Tractates on the Gospel of John*. Tractates 26–27.
+
+Brock, Sebastian P. “A Hymn of St Ephrem on the Eucharist.” In *Singer of the Word of God: Ephrem the Syrian and His Significance in Late Antiquity*, 217–224. Piscataway, NJ: Gorgias Press, 2020. https://doi.org/10.31826/9781463239619-020.
+
+Cyril of Jerusalem. *Catechetical Lecture 22*.
+
+Jacob of Serugh. “Homily on the Reception of the Holy Mysteries” and Eucharistic extracts. Translated by R. H. Connolly. *The Downside Review* 27 (1908): 278–287.
+
+John Chrysostom. *Homilies on the Gospel of John*. Homilies 46–47.
+
+John of Damascus. *An Exposition of the Orthodox Faith*. 4.13.
 ### Commentaries and Exegetical Monographs
 
 Hens-Piazza, Gina. *Nameless, Blameless, and Without Shame: Two Cannibal Mothers Before a King*. Collegeville, MN: Liturgical Press, 2003.
 
 Quick, Laura. *Deuteronomy 28 and the Aramaic Curse Tradition*. Oxford: Oxford University Press, 2017.
 
+
+Aquinas, Thomas. *Summa Theologiae*. Third Part, questions 73–78.
 ### Journal Articles and Essays
 
 Downing, F. Gerald. “Cynics and Christians, Oedipus and Thyestes.” *Journal of Ecclesiastical History* 44, no. 1 (1993): 1–10. https://doi.org/10.1017/S0022046900010162.
@@ -387,6 +507,28 @@ Wafawanaka, Robert. “‘So We Cooked My Son and Ate Him’: 2 Kings 6:24–7:2
 Wagemakers, Bart. “Anti-Christian Accusations in the Roman Empire.” *Tijdschrift voor Geschiedenis* 123, no. 1 (2010): 4–19. https://doi.org/10.5117/TVGESCH2010.1.WAGE.
 
 Warren, Nathanael James. “A Cannibal Feast in Ezekiel.” *Journal for the Study of the Old Testament* 38, no. 4 (2014): 501–512. https://doi.org/10.1177/0309089214536493.
+
+### Confessions and Ecclesial Documents
+
+*The Augsburg Confession*. Article 10.
+
+*The Baptist Faith and Message 2000*. Article 7.
+
+*The Belgic Confession*. Article 35.
+
+*Catechism of the Catholic Church*. Paragraphs 1373–1381 and 1410–1413.
+
+*The Formula of Concord, Solid Declaration*. Article 7.
+
+*The Second London Baptist Confession of Faith*. Chapter 30.
+
+*The Thirty-Nine Articles of Religion*. Articles 28–29.
+
+*The Westminster Confession of Faith*. Chapter 29.
+
+Council of Trent. Session 13, *Decree Concerning the Most Holy Sacrament of the Eucharist*.
+
+Orthodox Church in America. “Holy Eucharist.” *The Orthodox Faith*, vol. 2. https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist.
 
 ### Historical and Reception Studies
 
@@ -447,3 +589,40 @@ Chapman, Honora Howell. “Josephus and the Cannibalism of Mary (BJ 6.199–219)
 [^25]: Honora Howell Chapman, “Josephus and the Cannibalism of Mary (BJ 6.199–219),” in *A Companion to Greek and Roman Historiography*, ed. John Marincola (Wiley, 2007), https://doi.org/10.1002/9781405185110.ch41.
 
 [^26]: Jené Pareles, “Cannibal Maria in the Siege of Jerusalem: New Approaches,” *Religion Compass* 17 (2023): e12479.
+
+
+[^27]: Rashi, commentary on Lamentations 4:10, Sefaria Library, https://www.sefaria.org/Lamentations.4.10?with=Commentary; *Eikhah Rabbah* 4.14, Sefaria Library, https://www.sefaria.org/Eikhah_Rabbah.4.14.
+
+[^28]: Wendy Love Anderson, “Parents Eating Their Children: The Torah’s Curse and Its Undertones in Medieval Interpretation,” *TheTorah.com* (2018, updated 2026).
+
+[^29]: Sebastian P. Brock, “A Hymn of St Ephrem on the Eucharist,” in *Singer of the Word of God: Ephrem the Syrian and His Significance in Late Antiquity* (Piscataway, NJ: Gorgias Press, 2020), 217–224, https://doi.org/10.31826/9781463239619-020.
+
+[^30]: Jacob of Serugh, “Homily on the Reception of the Holy Mysteries” and Eucharistic extracts, trans. R. H. Connolly, *The Downside Review* 27 (1908): 278–287, https://www.tertullian.org/fathers/jacob_serugh_homily_extracts.htm.
+
+[^31]: John Chrysostom, *Homilies on the Gospel of John*, homilies 46–47, https://www.newadvent.org/fathers/240146.htm and https://www.newadvent.org/fathers/240147.htm.
+
+[^32]: Cyril of Jerusalem, *Catechetical Lecture 22*, secs. 4–6, https://www.newadvent.org/fathers/310122.htm.
+
+[^33]: John of Damascus, *An Exposition of the Orthodox Faith* 4.13, https://www.newadvent.org/fathers/33044.htm.
+
+[^34]: Augustine, *Tractates on the Gospel of John* 26–27, especially the distinction between sacramental eating and the carnal idea of a corpse divided into pieces, https://www.newadvent.org/fathers/1701026.htm and https://www.newadvent.org/fathers/1701027.htm.
+
+[^35]: Thomas Aquinas, *Summa Theologiae* III, q. 75, especially arts. 1 and 5, https://www.newadvent.org/summa/4075.htm.
+
+[^36]: Council of Trent, Session 13, *Decree Concerning the Most Holy Sacrament of the Eucharist*; *Catechism of the Catholic Church*, paras. 1376 and 1413, https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.index.html and https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/in_brief.html.
+
+[^37]: *Catechism of the Catholic Church*, para. 1377, https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving_memorial_presence.index.html.
+
+[^38]: Orthodox Church in America, “Holy Eucharist,” *The Orthodox Faith*, vol. 2, https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist; John of Damascus, *Exposition* 4.13.
+
+[^39]: *The Augsburg Confession*, art. 10, https://bookofconcord.cph.org/en/augsburg-confession/chief_articles/article_x/; *The Formula of Concord, Solid Declaration*, art. 7, https://bookofconcord.cph.org/en/formula-of-concord-solid-declaration/vii_the_holy_supper/.
+
+[^40]: John Calvin, *Institutes of the Christian Religion* 4.17, https://ccel.org/ccel/calvin/institutes/institutes.vi.xviii.html.
+
+[^41]: *The Belgic Confession*, art. 35, https://www.crcna.org/welcome/beliefs/confessions/belgic-confession; *The Westminster Confession of Faith*, chap. 29, https://opc.org/wcf.html.
+
+[^42]: *The Thirty-Nine Articles of Religion*, arts. 28–29, Church of England, https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion.
+
+[^43]: *The Second London Baptist Confession of Faith*, chap. 30, https://the1689.org/chapters/30.
+
+[^44]: *The Baptist Faith and Message 2000*, art. 7, https://bfm.sbc.net/.
