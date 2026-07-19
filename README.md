@@ -118,6 +118,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
   - **ecclesiology/**
       - [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md)
   - **eschatology/**
+      - [conscious-intermediate-state-vs-soul-sleep](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/conscious-intermediate-state-vs-soul-sleep.md)
       - [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md)
   - **hermeneutics/**
       - [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md)
