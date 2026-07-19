@@ -1,4 +1,4 @@
---
+---
 title: Colorblind Equality vs. Race-Conscious Justice
 tags: [theology, anthropology, racism, racial-justice, equality, justice, hermeneutics, church-history]
 ---
