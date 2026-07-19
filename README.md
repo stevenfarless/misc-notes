@@ -104,6 +104,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
     - [judaism-vs-christianity-messianic-prophecy](https://github.com/stevenfarless/misc-notes/blob/main/religions/judaism-vs-christianity-messianic-prophecy.md)
 - **theology/**
   - **anthropology/**
+      - [colorblind-equality-vs-race-conscious-justice](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/colorblind-equality-vs-race-conscious-justice.md)
       - [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md)
   - **bibliology/**
       - [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md)
