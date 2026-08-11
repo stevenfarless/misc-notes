@@ -568,13 +568,13 @@ The evidence needed to decide this hinge includes detailed intertextual analysis
 
 ## Primary and Historical Sources
 
-Augustine. *The City of God against the Pagans*. Book 21. Translated by Marcus Dods. In *Nicene and Post-Nicene Fathers*, First Series, vol. 2, edited by Philip Schaff. Buffalo, NY: Christian Literature Publishing, 1887. https://www.newadvent.org/fathers/120121.htm. Augustine gives the classic historical defense of equal duration in Matthew 25:46 and became foundational for the Western traditionalist consensus.
+Augustine. *The City of God against the Pagans*. Book 21. Translated by Marcus Dods. In *Nicene and Post-Nicene Fathers*, First Series, vol. 2, edited by Philip Schaff. Buffalo, NY: Christian Literature Publishing, 1887. <https://www.newadvent.org/fathers/120121.htm>. Augustine gives the classic historical defense of equal duration in Matthew 25:46 and became foundational for the Western traditionalist consensus.
 
 ## Conditional Immortality / Annihilationism
 
 Date, Christopher M., Gregory G. Stump, and Joshua W. Anderson, eds. *Rethinking Hell: Readings in Evangelical Conditionalism*. Eugene, OR: Cascade Books, 2014. This anthology gathers major evangelical conditionalist texts and provides a broad map of the movement’s biblical, historical, and theological arguments.
 
-Fudge, Edward William. *The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment*. 3rd ed. Eugene, OR: Cascade Books, 2011. https://wipfandstock.com/9781608999309/the-fire-that-consumes/. Fudge offers the most extensive modern cumulative case for final destruction, with sustained attention to Old Testament background and the history of interpretation.
+Fudge, Edward William. *The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment*. 3rd ed. Eugene, OR: Cascade Books, 2011. <https://wipfandstock.com/9781608999309/the-fire-that-consumes/>. Fudge offers the most extensive modern cumulative case for final destruction, with sustained attention to Old Testament background and the history of interpretation.
 
 Marshall, I. Howard. “The Theology of Eternal Punishment.” In *Eschatology in Bible and Theology: Evangelical Essays at the Dawn of a New Millennium*, edited by Kent E. Brower and Mark W. Elliott, 263–82. Downers Grove, IL: InterVarsity Press, 1997. Marshall presents a concise evangelical argument for conditional immortality while acknowledging the force of the major traditionalist texts.
 
@@ -592,6 +592,6 @@ Peterson, Robert A. “Fallacies in the Annihilationism Debate? A Response to Gl
 
 Crockett, William V., ed. *Four Views on Hell*. Grand Rapids: Zondervan, 1992. This comparative volume presents literal and metaphorical forms of eternal conscious torment, conditionalism, and a purgatorial position, with responses among the contributors.
 
-Fudge, Edward William, and Robert A. Peterson. *Two Views of Hell: A Biblical and Theological Dialogue*. Downers Grove, IL: InterVarsity Press, 2000. https://www.ivpress.com/two-views-of-hell. This focused exchange gives each side sustained space to present its positive case and answer the opposing interpretation.
+Fudge, Edward William, and Robert A. Peterson. *Two Views of Hell: A Biblical and Theological Dialogue*. Downers Grove, IL: InterVarsity Press, 2000. <https://www.ivpress.com/two-views-of-hell>. This focused exchange gives each side sustained space to present its positive case and answer the opposing interpretation.
 
 </details>
