@@ -31,6 +31,7 @@ related:
   - [Argument 4: Historical and Confessional Reception Creates a Substantial Burden of Proof](#argument-4-historical-and-confessional-reception-creates-a-substantial-burden-of-proof)
   - [Position B: Critique of Position A](#position-b-critique-of-position-a)
   - [Position B: Rebuttals to Position A](#position-b-rebuttals-to-position-a)
+- [Secondary Considerations](#secondary-considerations)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -44,7 +45,7 @@ The dividing proposition is precise: **after final judgment, do the wicked remai
 
 The primary domain is **biblical theology and exegesis**. The controlling evidence includes the syntax of Matthew 25:46, the meaning of death and destruction language, the force of *aiōnios* and “forever and ever,” the relationship between Mark 9:43–48 and Isaiah 66:24, and the interpretation of Revelation 14:9–11 and 20:10–15. Lexical evidence matters, though individual words do not decide the question apart from context, genre, and canonical usage.
 
-**Intertextual and genre analysis** carry unusual weight because the strongest traditionalist texts occur in apocalyptic discourse. Revelation draws extensively from Isaiah, Daniel, Ezekiel, Genesis, and other Old Testament judgment scenes. The dispute therefore concerns the content communicated by Revelation’s symbols and the degree to which their Old Testament sources define that content.
+**Intertextual and genre analysis** carry unusual weight because several of the most disputed traditionalist texts occur in apocalyptic or imagery-rich judgment discourse, especially Revelation 14 and 20. Revelation draws extensively from Isaiah, Daniel, Ezekiel, Genesis, and other Old Testament judgment scenes. Matthew 25:46 remains a central nonapocalyptic text and requires separate syntactic analysis. The dispute therefore concerns the content communicated by Revelation’s symbols and the degree to which their Old Testament sources define that content.
 
 **Historical theology** supplies a secondary form of evidence. Eternal conscious torment became the dominant position in the Western church and is explicit in major Lutheran and Reformed confessions. Conditionalists answer that historical dominance establishes an interpretive burden rather than an exegetical conclusion and that minority or proto-conditionalist strands appear before the modern period. Historical evidence can show how texts were received, what assumptions became standard, and how much revision a proposed reading requires. It cannot replace the exegesis of the texts themselves.
 
@@ -160,7 +161,7 @@ The parallelism in Matthew establishes equal finality and eschatological signifi
 
 ## Argument 4: Old Testament Judgment Imagery and the Second Death Control Revelation
 
-The conditionalist treatment of Revelation is intertextual rather than dismissive. Revelation 14:9–11 contains real conscious torment and “no rest day or night.” Conditionalists can affirm that the condemned consciously experience divine wrath. The dispute concerns whether the vision states that each human remains conscious forever.
+The conditionalist treatment of Revelation is intertextual rather than dismissive. Revelation 14:9–11 depicts torment and “no rest day or night.” Many conditionalists affirm that the condemned consciously experience divine wrath during judgment; others argue that the vision’s torment imagery symbolically portrays final destruction. Both approaches deny that the vision unambiguously states that each human remains conscious forever.
 
 The smoke formula echoes Old Testament scenes of irreversible overthrow. Isaiah says that Edom’s smoke ascends forever even while the land becomes a deserted waste (Isaiah 34:9–10). Revelation later uses the same formula for fallen Babylon, whose smoke rises forever though the city is destroyed and found no more (Revelation 18:21; 19:3). Smoke can therefore function as a perpetual memorial of completed judgment.
 
@@ -174,7 +175,21 @@ Revelation 20 requires a distinction among referents. Verse 10 explicitly says t
 >
 > **P3:** Revelation explicitly assigns endless torment in 20:10 to the devil, beast, and false prophet, while identifying the lake in relation to unredeemed humanity as the second death.
 >
-> **C:** Revelation coherently permits conscious judgment followed by final human death, while reserving explicit endless-torment language for the figures named in 20:10.
+> **C:** Revelation coherently permits conscious judgment followed by final human death, while explicitly applying endless-torment language in 20:10 to the figures named there.
+
+### Argument 5: Eternal Destruction in 2 Thessalonians 1:9 Does Not Clearly Require Continuing Existence
+
+Second Thessalonians 1:9 is often translated or paraphrased as describing the wicked as “shut out from the presence of the Lord.” Conditionalists argue that this can obscure the grammar of the Greek phrase, which more literally speaks of “eternal destruction from the presence of the Lord.” The text does not explicitly narrate two successive acts: first destruction or ruin, then perpetual exclusion in a continuing ruined state.
+
+The prepositional phrase can be understood as destruction proceeding from the Lord’s presence or as destruction away from his favorable presence. Conditionalists hold that either reading is compatible with an irreversible destruction and that neither independently proves continued conscious existence. The issue must therefore be settled by the wider judgment pattern, not by importing the fuller ECT conclusion into the phrase “from the presence of the Lord.”
+
+> **P1:** Second Thessalonians 1:9 calls the penalty “eternal destruction.”
+>
+> **P2:** The Greek does not separately state that the wicked are first destroyed and then kept alive in conscious exclusion from God.
+>
+> **P3:** “From the presence of the Lord” can describe the source or setting of the destruction without specifying an endless conscious state.
+>
+> **C:** The verse is compatible with final destruction and does not, by itself, establish eternal conscious torment.
 
 ## Position A: Critique of Position B
 
@@ -424,6 +439,20 @@ Intertextuality supplies background rather than a rule that every later use must
 >
 > **C:** Old Testament background qualifies literalistic readings but does not remove Revelation’s evidence for continuing conscious punishment.
 
+### Critique 5: Conditionalism Must Account for Degrees of Punishment
+
+Scripture portrays final judgment as responsive to deeds, knowledge, and culpability. Traditionalists argue that an endless conscious state can preserve permanent differences in punishment more readily than a shared terminal outcome. Conditionalists answer that differentiated punishment can occur before final destruction: the wicked may receive punishment proportionate to their deeds and then undergo the irreversible second death.
+
+The question, therefore, is not whether conditionalism can recognize degrees of punishment, but whether Scripture presents those differences as everlasting experiences or as judgments culminating in the same final death. Passages commonly raised in this connection include Matthew 10:15, Luke 12:47–48, Romans 2:5–11, and Revelation 20:12–13.
+
+> **P1:** Scripture teaches judgment according to deeds, knowledge, and culpability.
+>
+> **P2:** A common final outcome does not by itself exclude differentiated punishment before that outcome.
+>
+> **P3:** Eternal conscious torment can preserve permanent experiential differences, whereas conditionalism locates proportionate differences in the judicial punishment preceding the second death.
+>
+> **C:** Degrees of punishment are a significant comparative consideration, but they do not independently decide whether final punishment ends in destruction or continues forever.
+
 ## Position B: Rebuttals to Position A
 
 ### Rebuttal 1: Matthew 25:46 Favors Corresponding Duration Because Both Nouns Name Experienced Destinies
@@ -483,6 +512,20 @@ The existence of disputed conditionalist precedents prevents claims of complete 
 > **C:** Historical reception functions as corroborating evidence and a burden-of-proof consideration rather than as a substitute for exegesis.
 
 ---
+
+## Secondary Considerations
+
+### The Penalty Borne by Christ
+
+Conditionalists argue that Christ “died for sins” and was “put to death in the flesh.” If his death is substitutionary, this coheres naturally with death as the wages of sin and with final destruction as the ultimate penalty. Traditionalists reply that Christ’s atoning suffering cannot be reduced to a simple equivalence between the duration of his death and the duration of the lost’s punishment; the dignity of his person and the unique character of his work matter.
+
+The argument is therefore suggestive within a conditionalist framework, especially when read alongside Romans 6:23 and the New Testament’s emphasis on Christ’s death for sins. It does not independently settle the doctrine of final punishment, because both sides must account for the full character of Christ’s representative work.
+
+### Proportional Justice
+
+Conditionalists commonly argue that a finite experience of punishment followed by irreversible death better reflects judgment according to deeds than endless conscious suffering for sins committed in time. Traditionalists answer that the gravity of sin is not measured merely by its temporal duration and that Scripture’s teaching on divine holiness and judgment, rather than an independent calculation of proportionality, must govern the doctrine.
+
+Both positions should treat proportionality as a secondary theological consideration. It can test the coherence of a proposed reading, but it cannot replace close interpretation of the principal judgment texts.
 
 # The Three Actual Hinges
 
