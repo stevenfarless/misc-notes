@@ -124,6 +124,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md)
       - [lgh-vs-canonical-theological](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/lgh-vs-canonical-theological.md)
   - **pneumatology/**
+      - [case for cessationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/case%20for%20cessationism.txt)
       - [cessationism-vs-continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/cessationism-vs-continuationism.md)
   - **soteriology/**
       - [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md)
