@@ -111,7 +111,6 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [majority-text-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/majority-text-vs-critical-text.md)
       - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
       - [textus-receptus-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/textus-receptus-vs-critical-text.md)
-      - [textus_receptus_vs_critical_text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/textus_receptus_vs_critical_text.md)
   - **christology/**
       - [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md)
   - **church-history/**
