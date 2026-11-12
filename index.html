@@ -358,6 +358,14 @@
       const count = document.getElementById("result-count");
       const empty = document.getElementById("empty-state");
 
+      // GitHub Pages converts Markdown files to HTML. A local file:// copy
+      // still contains the original .md files, so point to those source files.
+      if (window.location.protocol === "file:") {
+        document.querySelectorAll('a[href$=".html"]').forEach(link => {
+          link.href = link.getAttribute("href").replace(/\\.html$/, ".md");
+        });
+      }
+
       function filterEntries() {
         const query = input.value.trim().toLocaleLowerCase();
         let visible = 0;
