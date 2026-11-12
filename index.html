@@ -197,7 +197,7 @@
         <span aria-hidden="true">⌕</span>
         <input id="search" type="search" placeholder="Search studies and subjects…" autocomplete="off" aria-label="Search studies and subjects">
       </label>
-      <span class="result-count" id="result-count" aria-live="polite">21 studies</span>
+      <span class="result-count" id="result-count" aria-live="polite">21 studies · 1 supplementary note</span>
     </div>
   </div>
 
@@ -374,7 +374,7 @@
           section.hidden = !hasVisible;
         }
 
-        count.textContent = query ? visible + (visible === 1 ? " result" : " results") : entries.length + " studies";
+        count.textContent = query ? visible + (visible === 1 ? " result" : " results") : "21 studies · 1 supplementary note";
         empty.style.display = visible ? "none" : "block";
       }
 
