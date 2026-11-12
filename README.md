@@ -48,4 +48,44 @@ Debate files generally include a table of contents, definitions, arguments, crit
 ## File Tree
 
 <!-- TREE_START -->
+- **religions/**
+    - [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md)
+    - [judaism-vs-christianity-messianic-prophecy](https://github.com/stevenfarless/misc-notes/blob/main/religions/judaism-vs-christianity-messianic-prophecy.md)
+- **theology/**
+  - **anthropology/**
+      - [colorblind-equality-vs-race-conscious-justice](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/colorblind-equality-vs-race-conscious-justice.md)
+      - [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md)
+  - **bibliology/**
+      - [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md)
+      - [majority-text-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/majority-text-vs-critical-text.md)
+      - [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md)
+      - [textus-receptus-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/textus-receptus-vs-critical-text.md)
+  - **christology/**
+      - [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md)
+  - **church-history/**
+      - [was-the-reformation-necessary](https://github.com/stevenfarless/misc-notes/blob/main/theology/church-history/was-the-reformation-necessary.md)
+  - **ecclesiology/**
+      - [egalitarianism-vs-complementarianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/ecclesiology/egalitarianism-vs-complementarianism.md)
+  - **eschatology/**
+      - [conscious-intermediate-state-vs-soul-sleep](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/conscious-intermediate-state-vs-soul-sleep.md)
+      - [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md)
+  - **hermeneutics/**
+      - [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md)
+      - [lgh-vs-canonical-theological](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/lgh-vs-canonical-theological.md)
+  - **pneumatology/**
+      - [case-for-cessationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/case-for-cessationism.txt)
+      - [cessationism-vs-continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/cessationism-vs-continuationism.md)
+  - **soteriology/**
+      - [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md)
+  - **theology-proper/**
+      - [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md)
+      - [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md)
+      - [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md)
+- **topic-studies/**
+    - [cannibalism_in_the_bible](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/cannibalism_in_the_bible.md)
+  - [.gitignore](https://github.com/stevenfarless/misc-notes/blob/main/.gitignore)
+  - [.nojekyll](https://github.com/stevenfarless/misc-notes/blob/main/.nojekyll)
+  - [articles](https://github.com/stevenfarless/misc-notes/blob/main/articles.json)
+  - [index](https://github.com/stevenfarless/misc-notes/blob/main/index.html)
+  - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
