@@ -1,3 +1,7 @@
+---
+title: Tag Index
+---
+
 # Tag Index
 
 > Auto-generated on every push to `main`. Do not edit by hand.
