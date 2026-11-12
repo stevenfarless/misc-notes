@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f0e7">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{{ page.title | default: site.title | escape }} | Miscellaneous Notes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f4f0e7;
+      --paper-deep: #eae3d6;
+      --ink: #292820;
+      --muted: #716d61;
+      --rule: #d8d0c1;
+      --accent: #7b3e36;
+      --accent-dark: #5e2e29;
+      --sage: #526653;
+      --card: rgba(255, 253, 248, .72);
+      --serif: "Gentium Book Plus", Georgia, serif;
+      --sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(ellipse at 12% 0%, rgba(255,255,255,.7), transparent 38rem),
+        var(--paper);
+      color: var(--ink);
+      font-family: var(--serif);
+      font-size: 19px;
+      line-height: 1.68;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    a:hover { color: var(--accent-dark); }
+    a:focus-visible { outline: 2px solid var(--sage); outline-offset: 4px; }
+    .masthead {
+      border-bottom: 1px solid var(--rule);
+      padding: 19px 0;
+      font: .72rem/1.4 var(--sans);
+      letter-spacing: .13em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .masthead-inner, .footer-inner {
+      width: min(1120px, calc(100% - 44px));
+      margin-inline: auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+    }
+    .masthead a { color: inherit; text-decoration: none; }
+    .masthead a:hover { color: var(--accent); }
+    .page-shell { width: min(850px, calc(100% - 44px)); margin: 0 auto; }
+    .page-tools {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 24px 0 17px;
+      border-bottom: 1px solid var(--rule);
+      color: var(--muted);
+      font: .72rem/1.5 var(--sans);
+      letter-spacing: .045em;
+    }
+    .page-tools a { text-decoration: none; }
+    article { padding: 46px 0 92px; overflow-wrap: anywhere; }
+    article > :first-child { margin-top: 0; }
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--ink);
+      font-weight: 700;
+      line-height: 1.25;
+      text-wrap: pretty;
+    }
+    h1 {
+      margin: 0 0 1.2em;
+      font-size: clamp(2.25rem, 6vw, 3.45rem);
+      letter-spacing: -.035em;
+      line-height: 1.08;
+    }
+    h2 {
+      margin: 2.1em 0 .65em;
+      padding-bottom: .25em;
+      border-bottom: 1px solid var(--rule);
+      font-size: 1.75rem;
+      letter-spacing: -.02em;
+    }
+    h3 { margin: 1.8em 0 .55em; font-size: 1.35rem; }
+    h4 { margin: 1.5em 0 .4em; font-size: 1.12rem; }
+    p { margin: 0 0 1.15em; }
+    li { margin: .28em 0; padding-left: .15em; }
+    ul, ol { margin: 0 0 1.35em; padding-left: 1.5em; }
+    blockquote {
+      margin: 1.6em 0;
+      padding: .15em 1.25em;
+      border-left: 3px solid var(--sage);
+      color: #5d594e;
+    }
+    blockquote > :last-child { margin-bottom: 0; }
+    hr { margin: 2.6em 0; border: 0; border-top: 1px solid var(--rule); }
+    table {
+      display: block;
+      width: 100%;
+      margin: 1.6em 0;
+      overflow-x: auto;
+      border-collapse: collapse;
+      font-size: .9em;
+      line-height: 1.5;
+    }
+    th, td {
+      min-width: 110px;
+      padding: 10px 13px;
+      border: 1px solid var(--rule);
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: var(--paper-deep); font-weight: 700; }
+    tr:nth-child(even) td { background: rgba(255,253,248,.42); }
+    code {
+      padding: .12em .32em;
+      border: 1px solid var(--rule);
+      border-radius: 2px;
+      background: rgba(234,227,214,.7);
+      font: .82em/1.5 ui-monospace, SFMono-Regular, Consolas, monospace;
+      overflow-wrap: anywhere;
+    }
+    pre {
+      max-width: 100%;
+      margin: 1.5em 0;
+      padding: 18px 20px;
+      overflow-x: auto;
+      border: 1px solid var(--rule);
+      background: #eee9df;
+      line-height: 1.5;
+    }
+    pre code { padding: 0; border: 0; background: transparent; overflow-wrap: normal; }
+    img { max-width: 100%; height: auto; }
+    details {
+      margin: 1.3em 0;
+      padding: 13px 17px;
+      border: 1px solid var(--rule);
+      background: var(--card);
+    }
+    summary { color: var(--accent); cursor: pointer; font-weight: 700; }
+    details > :last-child { margin-bottom: 0; }
+    .page-footer {
+      border-top: 1px solid var(--rule);
+      padding: 23px 0 32px;
+      color: var(--muted);
+      font: .7rem/1.7 var(--sans);
+    }
+    @media (max-width: 640px) {
+      body { font-size: 17px; }
+      .masthead-inner, .footer-inner, .page-shell { width: calc(100% - 30px); }
+      .masthead .repo-label { display: none; }
+      .page-tools { font-size: .66rem; }
+      article { padding-top: 34px; }
+      h2 { font-size: 1.5rem; }
+      h3 { font-size: 1.22rem; }
+      th, td { padding: 8px 10px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a href="{{ '/' | relative_url }}">Miscellaneous Notes</a>
+      <span class="repo-label">An independent research notebook</span>
+      <a href="https://github.com/stevenfarless/misc-notes">Source repository ↗</a>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <nav class="page-tools" aria-label="Page navigation">
+      <a href="{{ '/' | relative_url }}">← All studies</a>
+      <a href="https://github.com/stevenfarless/misc-notes/blob/main/{{ page.path }}">View Markdown source ↗</a>
+    </nav>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="page-footer">
+    <div class="footer-inner">
+      <span>Miscellaneous Notes · A personal research notebook</span>
+      <a href="{{ '/' | relative_url }}">Return to index</a>
+    </div>
+  </footer>
+</body>
+</html>
