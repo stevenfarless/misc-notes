@@ -4,6 +4,7 @@ tags: [religion, theology, apologetics, comparative-religion, judaism, christian
 related:
   - theology/bibliology/deuterocanon-include-vs-exclude.md
   - theology/hermeneutics/lgh-vs-canonical-theological.md
+
 ---
 
 # Judaism vs. Christianity on Messianic Prophecy
