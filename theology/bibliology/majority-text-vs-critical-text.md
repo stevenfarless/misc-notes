@@ -2,7 +2,9 @@
 title: Majority Text vs. Critical Text
 tags: [bibliology, textual-criticism, majority-text, byzantine-text, critical-text, manuscript-transmission, cbgm]
 related:
-  - textual-criticism/textus-receptus-vs-critical-text.md
+  - theology/bibliology/textus-receptus-vs-critical-text.md
+  - theology/bibliology/plenary-vs-limited-inerrancy.md
+
 ---
 
 # Majority Text vs. Critical Text
