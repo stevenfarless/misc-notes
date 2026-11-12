@@ -1,6 +1,9 @@
 ---
 title: Was the Reformation Necessary?
 tags: [church-history, reformation, catholicism, protestantism, sola-scriptura, sola-fide, trent]
+related:
+  - theology/bibliology/deuterocanon-include-vs-exclude.md
+  - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
 ---
 
 # Was the Reformation Necessary?
