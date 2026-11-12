@@ -4,6 +4,7 @@ tags: [hermeneutics, method, dispensationalism, covenant-theology, typology, pro
 related:
   - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
   - religions/judaism-vs-christianity-messianic-prophecy.md
+  - theology/pneumatology/cessationism-vs-continuationism.md
 ---
 
 # Literal-Grammatical-Historical vs. Canonical-Theological Interpretation
