@@ -167,6 +167,7 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
     - [cannibalism_in_the_bible](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/cannibalism_in_the_bible.md)
   - [.gitignore](https://github.com/stevenfarless/misc-notes/blob/main/.gitignore)
   - [_config](https://github.com/stevenfarless/misc-notes/blob/main/_config.yml)
+  - [articles](https://github.com/stevenfarless/misc-notes/blob/main/articles.json)
   - [Gemfile](https://github.com/stevenfarless/misc-notes/blob/main/Gemfile)
   - [index](https://github.com/stevenfarless/misc-notes/blob/main/index.html)
   - [preview](https://github.com/stevenfarless/misc-notes/blob/main/preview.bat)
