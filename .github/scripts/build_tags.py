@@ -89,7 +89,7 @@ def main():
     table = render_table(index)
     count = len(index)
 
-    content = f"""# Tag Index
+    content = f"""---\ntitle: Tag Index\n---\n\n# Tag Index
 
 > Auto-generated on every push to `main`. Do not edit by hand.
 > **{count} tags** across all notes.
