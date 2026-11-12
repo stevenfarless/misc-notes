@@ -1,6 +1,9 @@
 ---
 title: Conscious Intermediate State vs. Soul Sleep
 tags: [theology, eschatology, biblical-anthropology, intermediate-state, soul-sleep, resurrection, conditional-immortality, historical-theology]
+related:
+  - theology/anthropology/monism-vs-dualism.md
+  - theology/eschatology/eternal-conscious-torment-vs-annihilation.md
 ---
 
 # Conscious Intermediate State vs. Soul Sleep
