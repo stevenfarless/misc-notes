@@ -492,7 +492,7 @@ van der Watt, J. G. “I Am the Bread of Life: Imagery in John 6:32–51.” *Ac
 
 Wafawanaka, Robert. “‘So We Cooked My Son and Ate Him’: 2 Kings 6:24–7:20 as Symbol of Desperation and Despair within City Walls.” *Review & Expositor* 119, nos. 3–4 (2022): 398–406. https://doi.org/10.1177/00346373231166173.
 
-Wagemakers, Bart. “Anti-Christian Accusations in the Roman Empire.” *Tijdschrift voor Geschiedenis* 123, no. 1 (2010): 4–19. https://doi.org/10.5117/TVGESCH2010.1.WAGE.
+Wagemakers, Bart. “Incest, Infanticide, and Cannibalism: Anti-Christian Imputations in the Roman Empire.” *Greece & Rome* 57, no. 2 (2010): 337–354. https://doi.org/10.1017/S0017383510000069.
 
 Warren, Nathanael James. “A Cannibal Feast in Ezekiel.” *Journal for the Study of the Old Testament* 38, no. 4 (2014): 501–512. https://doi.org/10.1177/0309089214536493.
 
@@ -568,7 +568,7 @@ Chapman, Honora Howell. “Josephus and the Cannibalism of Mary (BJ 6.199–219)
 
 [^21]: F. Gerald Downing, “Cynics and Christians, Oedipus and Thyestes,” *Journal of Ecclesiastical History* 44, no. 1 (1993): 1–10, https://doi.org/10.1017/S0022046900010162.
 
-[^22]: Bart Wagemakers, “Anti-Christian Accusations in the Roman Empire,” *Tijdschrift voor Geschiedenis* 123, no. 1 (2010): 4–19, https://doi.org/10.5117/TVGESCH2010.1.WAGE.
+[^22]: Bart Wagemakers, “Incest, Infanticide, and Cannibalism: Anti-Christian Imputations in the Roman Empire,” *Greece & Rome* 57, no. 2 (2010): 337–354, https://doi.org/10.1017/S0017383510000069.
 
 [^23]: Justin Martyr, *First Apology* 66; Athenagoras, *A Plea for the Christians* 3; Tertullian, *Apology* 7; Minucius Felix, *Octavius* 9.
 
