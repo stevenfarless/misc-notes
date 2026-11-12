@@ -1,6 +1,9 @@
 ---
 title: Theism vs. Atheism
 tags: [theology-proper, theism, atheism, existence-of-god, natural-theology, cosmological-argument, teleological-argument, moral-argument, ontological-argument, problem-of-evil, divine-hiddenness, reformed-epistemology]
+related:
+  - theology/theology-proper/classical-theism-vs-open-theism.md
+  - theology/anthropology/monism-vs-dualism.md
 ---
 
 # Theism vs. Atheism
