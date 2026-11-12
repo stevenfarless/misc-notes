@@ -208,7 +208,7 @@ This reception history belongs in the study because it shows how Christian eatin
 
 Jewish interpretation frequently connected the Torah’s cannibal curses with the destruction of Jerusalem. Rabbinic and medieval readers related Leviticus 26 and Deuteronomy 28 to Lamentations and to remembered siege traditions. Wendy Love Anderson argues that medieval Jewish interpreters sometimes shifted emphasis as Christian polemic increasingly used cannibalism texts as evidence against Jews.[^24] Some readings foregrounded the universal effects of starvation rather than accepting a narrowly anti-Jewish moralization of the disasters.
 
-Josephus’s account of Maria during the Roman siege of Jerusalem became central to Christian reception. In *Jewish War* 6.201–213, a woman kills, cooks, and eats her infant. The episode is rhetorically elaborate and closely associated with Josephus’s interpretation of the city’s corruption and ruin. Honora Chapman notes that Christian writers cited this scene extensively because it appeared to corroborate the Mosaic curses and the prophetic siege texts.[^25] Jené Pareles surveys newer approaches that examine gender, rhetoric, and historiography rather than treating Josephus as a transparent external confirmation.[^26]
+Josephus’s account of Maria during the Roman siege of Jerusalem became central to Christian reception. In *Jewish War* 6.201–213, a woman kills, cooks, and eats her infant. The episode is rhetorically elaborate and closely associated with Josephus’s interpretation of the city’s corruption and ruin. Honora Chapman notes that Christian writers cited this scene extensively because it appeared to corroborate the Mosaic curses and the prophetic siege texts.[^25] Mo Pareles surveys newer approaches that examine gender, rhetoric, and historiography rather than treating Josephus as a transparent external confirmation.[^26]
 
 These readings shaped later Jewish and Christian interpretation of the siege texts. The following reception-history survey treats Jewish interpretation and the major Christian traditions in greater detail, including their distinct approaches to Eucharistic language.
 
@@ -470,7 +470,7 @@ Fredrickson, David E. “Eucharistic Symbolism in the Gospel of John.” *Word &
 
 Garroway, Kristine. “2 Kings 6:24–30: A Case of Unintentional Elimination Killing.” *Journal of Biblical Literature* 137, no. 1 (2018): 53–70. https://doi.org/10.15699/jbl.1371.2018.199221.
 
-Graybill, Rhiannon. “A Cannibal Reading of the Hebrew Prophets.” *Journal for the Study of the Old Testament* 49, no. 3 (2025). https://doi.org/10.1177/03090892241304409.
+Graybill, Rhiannon. “A Cannibal Reading of the Hebrew Prophets.” *Journal for the Study of the Old Testament* 49, no. 3 (2025): 287–305. https://doi.org/10.1177/03090892241304409.
 
 Ho, Sin Pan. “Moses and Christ in the Wilderness Narrative: Transformation of Religious Traditions in 1 Cor 10.” *Religions* 14, no. 7 (2023): 906. https://doi.org/10.3390/rel14070906.
 
@@ -576,7 +576,7 @@ Chapman, Honora Howell. “Josephus and the Cannibalism of Mary (BJ 6.199–219)
 
 [^25]: Honora Howell Chapman, “Josephus and the Cannibalism of Mary (BJ 6.199–219),” in *A Companion to Greek and Roman Historiography*, ed. John Marincola (Wiley, 2007), https://doi.org/10.1002/9781405185110.ch41.
 
-[^26]: Jené Pareles, “Cannibal Maria in the Siege of Jerusalem: New Approaches,” *Religion Compass* 17 (2023): e12479.
+[^26]: Mo Pareles, “Cannibal Maria in the Siege of Jerusalem: New Approaches,” *Religion Compass* 17 (2023): e12479.
 
 [^27]: Rashi, commentary on Lamentations 4:10, Sefaria Library, https://www.sefaria.org/Lamentations.4.10?with=Commentary; *Eikhah Rabbah* 4.14, Sefaria Library, https://www.sefaria.org/Eikhah_Rabbah.4.14.
 
