@@ -1,6 +1,11 @@
 ---
 title: Classical Theism vs. Open Theism
 tags: [theology-proper, omniscience, foreknowledge, open-theism, classical-theism, molinism, impassibility, divine-providence]
+related:
+  - theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md
+  - theology/theology-proper/theism-vs-atheism.md
+  - theology/christology/chalcedonian-christology-vs-kenotic-christology.md
+  - theology/soteriology/calvinism-vs-arminianism.md
 ---
 
 # Classical Theism vs. Open Theism
