@@ -2,12 +2,10 @@
 title: Calvinism, Arminianism, and the Soteriological Spectrum
 tags: [soteriology, theology, calvinism, arminianism, lutheranism, amyraldism, orthodoxy, election, grace, free-will]
 related:
-  - theology/eschatology/eternal-conscious-torment-vs-annihilation.md
-  - theology/anthropology/monism-vs-dualism.md
-  - theology/christology/chalcedonian-christology-vs-kenotic-christology.md
-  - theology/pneumatology/cessationism-vs-continuationism.md
-  - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
   - theology/theology-proper/classical-theism-vs-open-theism.md
+  - theology/pneumatology/cessationism-vs-continuationism.md
+  - religions/islam-vs-christianity.md
+
 ---
 
 # Calvinism, Arminianism, and the Soteriological Spectrum
