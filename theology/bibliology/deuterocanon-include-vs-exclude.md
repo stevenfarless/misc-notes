@@ -1,6 +1,9 @@
 ---
 title: "Deuterocanon: Include vs. Exclude"
 tags: [canon, deuterocanon, apocrypha, old-testament, scripture, catholic, protestant, reformation, trent, septuagint, masoretic-text, bibliology]
+related:
+  - theology/church-history/was-the-reformation-necessary.md
+  - religions/judaism-vs-christianity-messianic-prophecy.md
 ---
 
 # Deuterocanon: Include vs. Exclude
