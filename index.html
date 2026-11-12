@@ -362,7 +362,7 @@
       // still contains the original .md files, so point to those source files.
       if (window.location.protocol === "file:") {
         document.querySelectorAll('a[href$=".html"]').forEach(link => {
-          link.href = link.getAttribute("href").replace(/\\.html$/, ".md");
+          link.href = link.getAttribute("href").slice(0, -5) + ".md";
         });
       }
 
