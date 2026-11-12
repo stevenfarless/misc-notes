@@ -1,6 +1,10 @@
 ---
 title: Plenary Inerrancy vs. Limited Inerrancy
 tags: [bibliology, inerrancy, inspiration, scripture, infallibility, Chicago-Statement, hermeneutics, authority]
+related:
+  - theology/bibliology/majority-text-vs-critical-text.md
+  - theology/bibliology/textus-receptus-vs-critical-text.md
+  - religions/islam-vs-christianity.md
 ---
 
 # Plenary Inerrancy vs. Limited Inerrancy
