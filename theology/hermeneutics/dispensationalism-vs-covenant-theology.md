@@ -1,6 +1,9 @@
 ---
 title: Dispensationalism vs. Covenant Theology
 tags: [hermeneutics, dispensationalism, covenant-theology, eschatology, israel, church, lgh]
+related:
+  - theology/hermeneutics/lgh-vs-canonical-theological.md
+  - theology/church-history/was-the-reformation-necessary.md
 ---
 
 # Dispensationalism vs. Covenant Theology
