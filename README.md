@@ -1,6 +1,35 @@
+---
+title: Miscellaneous Notes
+---
+
 # misc-notes
 
 Research notebook for theological and comparative-religion debate notes. Each file maps a live doctrinal dispute in a bilateral format: strongest case for each position, internal critiques, rebuttals, and a "three actual hinges" section identifying the irreducible points of disagreement.
+
+## Local Website Preview
+
+The repository includes a local Jekyll preview configured with the same `github-pages` package used to build GitHub Pages sites. Markdown studies are converted into styled HTML pages while the preview is running. The Markdown files remain the source documents.
+
+**Windows setup**
+
+1. Install Ruby with DevKit from [RubyInstaller](https://rubyinstaller.org/). Allow the MSYS2 development toolchain setup to complete.
+2. Open the repository folder and double-click `preview.bat`.
+3. On its first run, the script installs the required Ruby gems. This requires an internet connection.
+4. Open [http://127.0.0.1:4000/](http://127.0.0.1:4000/) in your browser.
+
+The preview watches for file changes and reloads the browser automatically. Press `Ctrl+C` in the command window to stop it. Later runs reuse the installed dependencies.
+
+**Manual start**
+
+From the repository directory, run:
+
+```sh
+bundle install
+bundle exec jekyll serve --livereload
+```
+
+Then open `http://127.0.0.1:4000/`. The generated site is written to `_site/`, which is excluded from version control.
+
 
 ---
 
