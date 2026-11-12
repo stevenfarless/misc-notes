@@ -2,7 +2,9 @@
 title: Textus Receptus vs Critical Text
 tags: [bibliology, church-history, hermeneutics, inspiration, inerrancy]
 related:
+  - theology/bibliology/majority-text-vs-critical-text.md
   - theology/bibliology/plenary-vs-limited-inerrancy.md
+
 ---
 
 # Textus Receptus vs Critical Text
