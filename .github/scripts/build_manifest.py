@@ -6,8 +6,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 EXCLUDED_DIRS = {".git", ".github", "_layouts", "_includes", "_site", "vendor", "node_modules"}
-EXCLUDED_FILES = {"README.md", "TAGS.md"}
-
 
 def collect_articles():
     articles = []
@@ -17,10 +15,11 @@ def collect_articles():
             if name not in EXCLUDED_DIRS and not name.startswith(".")
         )
         for filename in filenames:
-            if filename.lower().endswith(".md") and filename not in EXCLUDED_FILES:
+            if filename.lower().endswith(".md"):
                 path = Path(current, filename)
                 relative = path.relative_to(ROOT).as_posix()
-                articles.append({"path": relative})
+                if relative not in {"README.md", "TAGS.md"}:
+                    articles.append({"path": relative})
     return sorted(articles, key=lambda item: item["path"].casefold())
 
 
