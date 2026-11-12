@@ -1,14 +1,14 @@
 # Tag Index
 
 > Auto-generated on every push to `main`. Do not edit by hand.
-> **117 tags** across all notes.
+> **118 tags** across all notes.
 
 | Tag | Files |
 |-----|-------|
 | `Chicago-Statement` | [plenary-vs-limited-inerrancy](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/plenary-vs-limited-inerrancy.md) |
 | `EFS` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
 | `ERAS` | [eternal-functional-subordination-vs-classical-trinitarian-relations](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/eternal-functional-subordination-vs-classical-trinitarian-relations.md) |
-| `TULIP` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
+| `amyraldism` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `annihilationism` | [eternal-conscious-torment-vs-annihilation](https://github.com/stevenfarless/misc-notes/blob/main/theology/eschatology/eternal-conscious-torment-vs-annihilation.md) |
 | `anthropology` | [colorblind-equality-vs-race-conscious-justice](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/colorblind-equality-vs-race-conscious-justice.md), [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md) |
 | `apocrypha` | [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md) |
@@ -74,6 +74,7 @@
 | `judaism` | [judaism-vs-christianity-messianic-prophecy](https://github.com/stevenfarless/misc-notes/blob/main/religions/judaism-vs-christianity-messianic-prophecy.md) |
 | `kenosis` | [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md) |
 | `lgh` | [dispensationalism-vs-covenant-theology](https://github.com/stevenfarless/misc-notes/blob/main/theology/hermeneutics/dispensationalism-vs-covenant-theology.md) |
+| `lutheranism` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `majority-text` | [majority-text-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/majority-text-vs-critical-text.md) |
 | `manuscript-transmission` | [majority-text-vs-critical-text](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/majority-text-vs-critical-text.md) |
 | `masoretic-text` | [deuterocanon-include-vs-exclude](https://github.com/stevenfarless/misc-notes/blob/main/theology/bibliology/deuterocanon-include-vs-exclude.md) |
@@ -89,7 +90,7 @@
 | `omniscience` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
 | `ontological-argument` | [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md) |
 | `open-theism` | [classical-theism-vs-open-theism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/classical-theism-vs-open-theism.md) |
-| `perseverance` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
+| `orthodoxy` | [calvinism-vs-arminianism](https://github.com/stevenfarless/misc-notes/blob/main/theology/soteriology/calvinism-vs-arminianism.md) |
 | `philippians-2` | [chalcedonian-christology-vs-kenotic-christology](https://github.com/stevenfarless/misc-notes/blob/main/theology/christology/chalcedonian-christology-vs-kenotic-christology.md) |
 | `physicalism` | [monism-vs-dualism](https://github.com/stevenfarless/misc-notes/blob/main/theology/anthropology/monism-vs-dualism.md) |
 | `pneumatology` | [cessationism-vs-continuationism](https://github.com/stevenfarless/misc-notes/blob/main/theology/pneumatology/cessationism-vs-continuationism.md) |
