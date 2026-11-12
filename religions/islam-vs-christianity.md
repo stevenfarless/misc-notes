@@ -1,6 +1,10 @@
 ---
 title: Islam vs. Christianity
 tags: [religion, theology, apologetics, comparative-religion, islam, christianity, christology, revelation, tawhid]
+related:
+  - theology/bibliology/plenary-vs-limited-inerrancy.md
+  - theology/soteriology/calvinism-vs-arminianism.md
+  - theology/christology/chalcedonian-christology-vs-kenotic-christology.md
 ---
 
 # Islam vs. Christianity
