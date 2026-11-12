@@ -1,6 +1,9 @@
 ---
 title: Literal-Grammatical-Historical vs. Canonical-Theological Interpretation
 tags: [hermeneutics, method, dispensationalism, covenant-theology, typology, prophecy, fulfillment, old-testament, new-testament, inerrancy]
+related:
+  - theology/hermeneutics/dispensationalism-vs-covenant-theology.md
+  - religions/judaism-vs-christianity-messianic-prophecy.md
 ---
 
 # Literal-Grammatical-Historical vs. Canonical-Theological Interpretation
