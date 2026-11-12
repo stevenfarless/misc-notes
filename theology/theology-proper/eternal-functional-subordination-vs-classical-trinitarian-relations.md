@@ -1,6 +1,9 @@
 ---
 title: Eternal Functional Subordination vs. Classical Trinitarian Relations
 tags: [theology-proper, trinity, EFS, ERAS, eternal-generation, authority-submission, nicene-orthodoxy]
+related:
+  - theology/theology-proper/classical-theism-vs-open-theism.md
+  - theology/christology/chalcedonian-christology-vs-kenotic-christology.md
 ---
 
 # Eternal Functional Subordination vs. Classical Trinitarian Relations
