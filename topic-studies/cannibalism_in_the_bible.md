@@ -1,3 +1,7 @@
+---
+title: Cannibalism in the Bible
+---
+
 # Cannibalism in the Bible: Covenant Curse, Social Collapse, and the Inversion of Sacred Eating
 
 ## Abstract
