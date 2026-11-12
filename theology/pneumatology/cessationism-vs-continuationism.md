@@ -2,7 +2,8 @@
 title: Cessationism vs. Continuationism
 tags: [ecclesiology, pneumatology, spiritual-gifts, cessationism, continuationism, hermeneutics]
 related:
-  - theology/soteriology/calvinism-vs-arminianism.md
+  - theology/hermeneutics/lgh-vs-canonical-theological.md
+
 ---
 
 # Cessationism vs. Continuationism
