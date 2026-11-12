@@ -99,6 +99,8 @@ related:
 The tree below is auto-regenerated on every push to `main` by `.github/workflows/update-readme.yml`.
 
 <!-- TREE_START -->
+- **_layouts/**
+    - [default](https://github.com/stevenfarless/misc-notes/blob/main/_layouts/default.html)
 - **religions/**
     - [islam-vs-christianity](https://github.com/stevenfarless/misc-notes/blob/main/religions/islam-vs-christianity.md)
     - [judaism-vs-christianity-messianic-prophecy](https://github.com/stevenfarless/misc-notes/blob/main/religions/judaism-vs-christianity-messianic-prophecy.md)
@@ -134,6 +136,10 @@ The tree below is auto-regenerated on every push to `main` by `.github/workflows
       - [theism-vs-atheism](https://github.com/stevenfarless/misc-notes/blob/main/theology/theology-proper/theism-vs-atheism.md)
 - **topic-studies/**
     - [cannibalism_in_the_bible](https://github.com/stevenfarless/misc-notes/blob/main/topic-studies/cannibalism_in_the_bible.md)
+  - [.gitignore](https://github.com/stevenfarless/misc-notes/blob/main/.gitignore)
+  - [_config](https://github.com/stevenfarless/misc-notes/blob/main/_config.yml)
+  - [Gemfile](https://github.com/stevenfarless/misc-notes/blob/main/Gemfile)
   - [index](https://github.com/stevenfarless/misc-notes/blob/main/index.html)
+  - [preview](https://github.com/stevenfarless/misc-notes/blob/main/preview.bat)
   - [TAGS](https://github.com/stevenfarless/misc-notes/blob/main/TAGS.md)
 <!-- TREE_END -->
