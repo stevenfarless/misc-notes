@@ -1,0 +1,33 @@
+title: Miscellaneous Notes
+description: A research notebook of theological debates, comparative religion, and focused biblical topic studies.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - preview.bat
+  - vendor
+  - .bundle
+  - .jekyll-cache
+  - .git
+  - .github
