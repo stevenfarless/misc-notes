@@ -42,7 +42,7 @@ Eating ordinarily sustains life and marks fellowship. Families share food, worsh
 
 The texts considered here do not belong to a single literary category. Leviticus 26 and Deuteronomy 28 threaten literal cannibalism as a consequence of covenant rebellion. Second Kings 6 reports an episode during the siege of Samaria. Jeremiah 19 and Ezekiel 5 announce coming disaster. Lamentations 2 and 4 speak from the perspective of a devastated city. Micah 3, Jeremiah 51, Galatians 5, and Revelation 17 employ consumption as a figure for exploitation or destruction. John 6 and the Lord’s Supper traditions use bodily eating language within a sacramental and christological setting. Treating all of these as interchangeable would obscure their genres, rhetorical purposes, and theological claims.
 
-The principal corpus includes Leviticus 26:27–33; Deuteronomy 28:52–57; 2 Kings 6:24–7:20; Jeremiah 19:9; Lamentations 2:20 and 4:9–10; Ezekiel 5:10; Baruch 2:1–3; and 2 Esdras 15:57–59. The principal metaphorical or symbolic texts are Psalm 14:4; Psalm 27:2; Psalm 53:4; Job 19:22; Isaiah 9:18–21; Isaiah 49:24–26; Jeremiah 51:34; Micah 3:1–4; Zechariah 11:9; Galatians 5:15; and Revelation 17:16. John 6:51–58, the Synoptic institution narratives, and 1 Corinthians 10:14–22 and 11:23–26 form a separate sacramental group. Ezekiel 39 and Revelation 19 depict birds and beasts consuming corpses, so they are related images of postwar desecration rather than instances of human cannibalism.
+The principal corpus includes Leviticus 26:27–33; Deuteronomy 28:52–57; 2 Kings 6:24–7:20; Jeremiah 19:9; Lamentations 2:20 and 4:9–10; Ezekiel 5:10; Baruch 2:1–3; and 2 Esdras 15:57–59. The principal metaphorical or symbolic texts are Psalm 14:4; Psalm 27:2; Psalm 53:4 (English versification; MT 53:5); Job 19:22; Isaiah 9:18–21; Isaiah 49:24–26; Jeremiah 51:34; Micah 3:1–4; Zechariah 11:9; Galatians 5:15; and Revelation 17:16. John 6:51–58, the Synoptic institution narratives, and 1 Corinthians 10:14–22 and 11:23–26 form a separate sacramental group. Ezekiel 39 and Revelation 19 depict birds and beasts consuming corpses, so they are related images of postwar desecration rather than instances of human cannibalism.
 
 Historical caution is necessary. Ancient siege reports often combine plausible conditions with literary shaping. A report may preserve memory of an event while also serving polemical, theological, or dramatic purposes. The presence of conventional rhetoric does not by itself prove fabrication, and historical plausibility does not establish that every narrative detail is straightforward reportage.
 
@@ -210,15 +210,7 @@ Jewish interpretation frequently connected the Torah’s cannibal curses with th
 
 Josephus’s account of Maria during the Roman siege of Jerusalem became central to Christian reception. In *Jewish War* 6.201–213, a woman kills, cooks, and eats her infant. The episode is rhetorically elaborate and closely associated with Josephus’s interpretation of the city’s corruption and ruin. Honora Chapman notes that Christian writers cited this scene extensively because it appeared to corroborate the Mosaic curses and the prophetic siege texts.[^25] Jené Pareles surveys newer approaches that examine gender, rhetoric, and historiography rather than treating Josephus as a transparent external confirmation.[^26]
 
-Early Christian interpretation often read the Roman destruction of Jerusalem as divine judgment and used Josephus as a providential witness. Such readings could become anti-Jewish when they treated the suffering of civilians and children as proof of permanent Jewish rejection. A responsible history of interpretation must record that use without reproducing it.
-
-The medieval record is uneven and cannot be reduced to a single Jewish or Christian position. Jewish commentators negotiated biblical curse language under conditions of Christian polemic. Latin Christian interpreters often linked Deuteronomy, Lamentations, and Josephus. Eastern Christian interpretation also received the siege traditions, though the present source base is too thin to support a comprehensive account of Byzantine or Syriac exegesis.
-
-Reformation and post-Reformation commentators commonly read the siege texts through covenant judgment and providence. That framework preserved important intertextual links, especially between Deuteronomy 28 and later catastrophes. It could also produce overconfident claims about the guilt of individual victims or about the direct causal relation between particular sins and particular deaths. The biblical texts do not authorize every such inference.
-
-Modern scholarship has expanded the questions asked of the material. Lasine examines literary inversion and kingship. Matthews emphasizes risk and decision under pressure. Wafawanaka foregrounds walls, marginality, and civilian despair. Hens-Piazza resists readings that shame the unnamed women. Garroway proposes a sacrificial interpretation of the dead child. Graybill studies cannibal imagery across prophetic literature, while Warren traces bodily desecration and feast imagery in Ezekiel. Trauma-informed and child-centered readings ask how theology changes when the victims remain visible.
-
-These approaches do not eliminate covenant judgment from the texts. They challenge interpretations that allow covenant theology to absorb every other feature of the narratives and poems. Jeremiah’s announcement, Lamentations’ protest, Baruch’s confession, and Josephus’s moralizing history cannot be made to speak with one voice.
+These readings shaped later Jewish and Christian interpretation of the siege texts. The following reception-history survey treats Jewish interpretation and the major Christian traditions in greater detail, including their distinct approaches to Eucharistic language.
 
 ## Reception History Across Major Traditions
 
@@ -363,14 +355,13 @@ The corpus supports a limited synthesis. Cannibalism and cannibalistic imagery o
 ### Threatened Cannibalism
 
 - **Leviticus 26:29:** Child-eating appears among the escalating covenant sanctions.
-- **Deuteronomy 28:53–57:** The Torah’s most detailed threat of siege cannibalism and household collapse.
+- **Deuteronomy 28:52–57:** The Torah’s most detailed threat of siege cannibalism and household collapse.
 - **Jeremiah 19:9:** Jerusalem is threatened with eating children and neighbors during siege.
 - **Ezekiel 5:10:** The threat is intensified so that parents eat children and children eat parents.
 - **2 Esdras 15:57–59:** Apocalyptic famine leads people to consume their own flesh and blood.
 
 ### Reported or Recalled Cannibalism
 
-- **Lamentations 2:20:** The poet asks YHWH whether women should eat their children, combining recollection, horror, and protest.
 - **Josephus, *Jewish War* 6.201–213:** Maria’s consumption of her infant during the Roman siege became a major reception-historical parallel.
 
 ### Metaphorical Cannibalism
@@ -421,7 +412,6 @@ The sacrificial interpretation of the consumed child in 2 Kings 6 remains specul
 
 John 6 continues to support several substantial interpretations. A strongly Eucharistic reading, a primarily christological reading with Eucharistic resonance, and an intentionally multivalent reading all account for significant features of the text. The case for a harmlessly figurative reading is weaker because it does not adequately explain the discourse’s bodily intensity and narrative offense.
 
-
 ## Bibliography
 
 ### Primary Biblical Texts and Ancient Versions
@@ -440,11 +430,10 @@ Josephus. *The Jewish War*. 6.201–213. Translated by William Whiston.
 
 Anderson, Wendy Love. “Parents Eating Their Children: The Torah’s Curse and Its Undertones in Medieval Interpretation.” *TheTorah.com*. 2018, updated 2026.
 
-
 *Eikhah Rabbah*. 4.14. Sefaria Library. https://www.sefaria.org/Eikhah_Rabbah.4.14.
 
 Rashi. Commentary on Lamentations 4:10. Sefaria Library. https://www.sefaria.org/Lamentations.4.10?with=Commentary.
-### Early Christian Sources
+### Patristic and Scholastic Sources
 
 Athenagoras. *A Plea for the Christians*. Chapter 3.
 
@@ -454,8 +443,9 @@ Minucius Felix. *Octavius*. Chapter 9.
 
 Tertullian. *Apology*. Chapter 7.
 
-
 Augustine. *Tractates on the Gospel of John*. Tractates 26–27.
+
+Aquinas, Thomas. *Summa Theologiae*. Third Part, questions 73–78.
 
 Brock, Sebastian P. “A Hymn of St Ephrem on the Eucharist.” In *Singer of the Word of God: Ephrem the Syrian and His Significance in Late Antiquity*, 217–224. Piscataway, NJ: Gorgias Press, 2020. https://doi.org/10.31826/9781463239619-020.
 
@@ -472,8 +462,6 @@ Hens-Piazza, Gina. *Nameless, Blameless, and Without Shame: Two Cannibal Mothers
 
 Quick, Laura. *Deuteronomy 28 and the Aramaic Curse Tradition*. Oxford: Oxford University Press, 2017.
 
-
-Aquinas, Thomas. *Summa Theologiae*. Third Part, questions 73–78.
 ### Journal Articles and Essays
 
 Downing, F. Gerald. “Cynics and Christians, Oedipus and Thyestes.” *Journal of Ecclesiastical History* 44, no. 1 (1993): 1–10. https://doi.org/10.1017/S0022046900010162.
@@ -589,7 +577,6 @@ Chapman, Honora Howell. “Josephus and the Cannibalism of Mary (BJ 6.199–219)
 [^25]: Honora Howell Chapman, “Josephus and the Cannibalism of Mary (BJ 6.199–219),” in *A Companion to Greek and Roman Historiography*, ed. John Marincola (Wiley, 2007), https://doi.org/10.1002/9781405185110.ch41.
 
 [^26]: Jené Pareles, “Cannibal Maria in the Siege of Jerusalem: New Approaches,” *Religion Compass* 17 (2023): e12479.
-
 
 [^27]: Rashi, commentary on Lamentations 4:10, Sefaria Library, https://www.sefaria.org/Lamentations.4.10?with=Commentary; *Eikhah Rabbah* 4.14, Sefaria Library, https://www.sefaria.org/Eikhah_Rabbah.4.14.
 
