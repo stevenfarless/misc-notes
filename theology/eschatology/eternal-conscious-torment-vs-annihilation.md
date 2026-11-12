@@ -3,6 +3,8 @@ title: The Final State: ECT, Annihilationism, and the Eschatological Spectrum
 tags: [eschatology, conditional-immortality, annihilationism, eternal-conscious-torment, christian-universalism, hell, final-judgment, biblical-theology, historical-theology]
 related:
   - theology/anthropology/monism-vs-dualism.md
+  - theology/eschatology/conscious-intermediate-state-vs-soul-sleep.md
+
 ---
 
 # The Final State: ECT, Annihilationism, and the Eschatological Spectrum
