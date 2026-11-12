@@ -1,6 +1,6 @@
 ---
-title: Calvinism vs Arminianism
-tags: [soteriology, theology, calvinism, arminianism, TULIP, election, grace, free-will, perseverance]
+title: Calvinism, Arminianism, and the Soteriological Spectrum
+tags: [soteriology, theology, calvinism, arminianism, lutheranism, amyraldism, orthodoxy, election, grace, free-will]
 related:
   - theology/eschatology/eternal-conscious-torment-vs-annihilation.md
   - theology/anthropology/monism-vs-dualism.md
@@ -10,9 +10,9 @@ related:
   - theology/theology-proper/classical-theism-vs-open-theism.md
 ---
 
-# Calvinism vs Arminianism
+# Calvinism, Arminianism, and the Soteriological Spectrum
 
-## An Exploration of Two Perspectives
+## An Exploration of Soteriological Perspectives
 
 ---
 
@@ -29,6 +29,7 @@ related:
   - [Arguments](#argument-1-god-wills-the-salvation-of-all-people)
   - [Critiques of Calvinism](#position-b-critique-of-position-a)
   - [Rebuttals](#position-b-rebuttals-to-position-a)
+- [Spectrum & Synthesis (The Third Way)](#spectrum--synthesis-the-third-way)
 - [The Three Actual Hinges](#the-three-actual-hinges)
 - [Selected Bibliography](#selected-bibliography)
 
@@ -354,7 +355,17 @@ Calvinists argue that Romans 9:11–13 excludes any conditional basis for electi
 
 ---
 
-# The Three Actual Hinges
+## Spectrum & Synthesis (The Third Way)
+
+*(The rigid Calvinist/Arminian binary maps the historic TULIP vs. Remonstrance debate beautifully, but it artificially flattens the broader historical Christian tradition. Several major theological frameworks refuse the premises of this A/B constraint entirely, proving that the mystery of salvation cannot be strictly toggled into two columns.)*
+
+*   **Lutheran Soteriology (Single Predestination):** Historic Lutheranism breaks the Reformed logical symmetry. It firmly holds to unconditional election, total depravity, and monergistic grace (like Calvinism), affirming that dead sinners cannot choose God on their own. However, it explicitly rejects double predestination and limited atonement, insisting that Christ died universally for all and that God's grace *can* be resisted and finally lost (like Arminianism). It rests in the paradox of divine sovereignty and human culpability without demanding logical resolution.
+*   **Eastern Orthodox *Synergia*:** The Eastern church rejects the Western Augustinian framing of original guilt entirely, breaking the presuppositions of both Calvinists and Arminians. Instead of viewing salvation primarily through a forensic, courtroom lens of legal declarations and divine decrees, Orthodoxy views salvation as *theosis*—a cooperative healing process where humanity's wounded (but not completely destroyed) image is restored through cooperative union with God's uncreated energies.
+*   **Amyraldism (Four-Point Calvinism / Hypothetical Universalism):** Originating in the French Reformed Academy of Saumur, this framework retains the Calvinist doctrines of total depravity, unconditional election, irresistible grace, and perseverance of the saints. However, it completely breaks the TULIP acronym by replacing Limited Atonement with Unlimited Atonement. It argues that Christ functionally died for the sins of all humanity, making salvation objectively possible for all, while God sovereignly and effectually applies that atonement only to the elect. This arguably represents the actual functional theology of a massive portion of modern evangelicals.
+
+---
+
+## The Three Actual Hinges
 
 The first hinge is the **referent and mechanism of election in Romans 8–9 and Ephesians 1**. Calvinists read these texts as teaching individual, unconditional predestination to salvation. Arminians read them as teaching corporate election in Christ with individuals participating through faith. The resolution depends on whether "in him" in Ephesians 1:4 modifies the act of choosing or the sphere of election, and whether Romans 9's argument concerns individual eternal destinies or national covenant roles in redemptive history.
 
