@@ -1,6 +1,9 @@
 ---
 title: Judaism vs. Christianity on Messianic Prophecy
 tags: [religion, theology, apologetics, comparative-religion, judaism, christianity, messianism, christology, hermeneutics, isaiah-53, daniel-9, psalm-22, old-testament]
+related:
+  - theology/bibliology/deuterocanon-include-vs-exclude.md
+  - theology/hermeneutics/lgh-vs-canonical-theological.md
 ---
 
 # Judaism vs. Christianity on Messianic Prophecy
