@@ -23,7 +23,7 @@ related:
   * [Critiques of the Critical Text](#position-a-critique-of-position-b)
   * [Rebuttals](#position-a-rebuttals-to-position-b)
 * [Position B: Critical Text](#position-b-critical-text-strongest-case)
-  * [Arguments](#argument-1-the-textus-receptus-is-a-sixteenth-century-edited-text)
+  * [Arguments](#argument-3-the-textus-receptus-is-a-sixteenth-century-edited-text)
   * [Critiques of the Textus Receptus](#position-b-critique-of-position-a)
   * [Rebuttals](#position-b-rebuttals-to-position-a)
 * [The Three Actual Hinges](#the-three-actual-hinges)

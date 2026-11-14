@@ -37,6 +37,9 @@ jobs:
       - name: Generate browser article manifest
         run: python3 .github/scripts/build_manifest.py
 
+      - name: Test local link validator
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'
+
       - name: Validate local Markdown links and assets
         run: python3 .github/scripts/check_links.py
 

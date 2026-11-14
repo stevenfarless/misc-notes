@@ -23,7 +23,7 @@ related:
   - [Arguments](#argument-1-meaning-is-fixed-by-the-original-context-and-grammar)
   - [Pressure Points for LGH Interpretation](#pressure-points-for-lgh-interpretation)
 - [Position B: Canonical-Theological Interpretation](#position-b-canonical-theological-interpretation-strongest-case)
-  - [Arguments](#argument-1-the-bible-is-a-single-narrative-with-intertextual-coherence)
+  - [Arguments](#argument-1-the-bible-is-a-unified-canon-not-a-loose-collection-of-texts)
   - [Pressure Points for Canonical Interpretation](#pressure-points-for-canonical-interpretation)
 - [The Actual Hinge Points](#the-actual-hinge-points)
 - [Selected Bibliography](#selected-bibliography)

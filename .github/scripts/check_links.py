@@ -17,7 +17,7 @@ SKIP_SCHEMES = {"http", "https", "mailto", "tel", "data", "javascript", "vbscrip
 MARKDOWN_LINK = re.compile(
     r'!?\[[^\]]*\]\(\s*(?:<([^>]+)>|([^\s)]+))'
 )
-REFERENCE_LINK = re.compile(r'^\s*\[[^\]]+\]:\s*(?:<([^>]+)>|(\S+))', re.MULTILINE)
+REFERENCE_LINK = re.compile(r'^\s*\[(?!\^)[^\]]+\]:\s*(?:<([^>]+)>|(\S+))', re.MULTILINE)
 HTML_ATTRIBUTE = re.compile(
     r'\b(?:href|src)\s*=\s*(?:"([^"]*)"|\'([^\']*)\')', re.IGNORECASE
 )
