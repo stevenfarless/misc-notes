@@ -24,7 +24,7 @@ related:
   * [Critiques of Kenotic Christology](#position-a-critique-of-position-b)
   * [Rebuttals](#position-a-rebuttals-to-position-b)
 * [Position B: Kenotic Christology](#position-b-kenotic-christology-strongest-case)
-  * [Arguments](#argument-1-philippians-2-describes-a-real-self-emptying)
+  * [Arguments](#argument-2-philippians-2-describes-a-real-self-emptying)
   * [Critiques of Chalcedonian Christology](#position-b-critique-of-position-a)
   * [Rebuttals](#position-b-rebuttals-to-position-a)
 * [The Three Actual Hinges](#the-three-actual-hinges)
